@@ -1,13 +1,7 @@
 {
-.appVersion = "981";
+.appVersion = "976";
 DisplayStrings = (
-"/brevecomb-cy/brevecomb-cy.case/Iishort-cy/Iishorttail-cy/Ushort-cy/Zhebreve-cy/Abreve-cy/Iebreve-cy/Iishort-cy.loclBGR/iishort-cy/iishorttail-cy/ushort-cy/zhebreve-cy/abreve-cy/iebreve-cy \012/a-cy/be-cy/ve-cy/ge-cy/de-cy/ie-cy/io-cy/zhe-cy/ze-cy/ii-cy/iishort-cy/ka-cy/el-cy/em-cy/en-cy/o-cy/pe-cy/er-cy/es-cy/te-cy/u-cy/ef-cy/ha-cy/che-cy/tse-cy/sha-cy/shcha-cy/softsign-cy/hardsign-cy/yeru-cy/ereversed-cy/iu-cy/ia-cy \012cc/ze-cy ss /ze-cy/zedescender-cy/zedieresis-cy/zedescender-cy.loclBSH \012/ka-cy y/ka-cy/a-cy \012nii/softsign-cy i /hardsign-cy i/yeru-cy \012/Em-cy/a-cy/er-cy/te-cy/ii-cy/en-cy  /El-cy/iu-cy/te-cy/ie-cy/er-cy  /er-cy/o-cy/de-cy/ii-cy/el-cy/es-cy/ia-cy  /ve-cy  /es-cy/ie-cy/em-cy/softsign-cy/ie-cy  /Ge-cy/a-cy/en-cy/es-cy/a-cy  /El-cy/iu-cy/te-cy/ie-cy/er-cy/a-cy  (1459/emdash 1530) /emdash  /be-cy/yeru-cy/ve-cy/sha-cy/ie-cy/ge-cy/o-cy  /ka-cy/er-cy/ie-cy/es-cy/te-cy/softsign-cy/ia-cy/en-cy/ii-cy/en-cy/a-cy , /pe-cy/ie-cy/er-cy/ie-cy/be-cy/er-cy/a-cy/ve-cy/sha-cy/ie-cy/ge-cy/o-cy/es-cy/ia-cy  /ve-cy  /A-cy/iishort-cy/es-cy/el-cy/ie-cy/be-cy/ie-cy/en-cy  (/Es-cy/a-cy/ka-cy/es-cy/o-cy/en-cy/ii-cy/ia-cy ) /ve-cy  /en-cy/a-cy/de-cy/ie-cy/zhe-cy/de-cy/ie-cy  /en-cy/a-cy  /el-cy/u-cy/che-cy/sha-cy/u-cy/iu-cy  /zhe-cy/ii-cy/ze-cy/en-cy/softsign-cy . /Te-cy/a-cy/em-cy  /o-cy/en-cy  /ze-cy/a-cy/en-cy/ia-cy/el-cy/es-cy/ia-cy  /ge-cy/o-cy/er-cy/en-cy/yeru-cy/em-cy  /de-cy/ie-cy/el-cy/o-cy/em-cy  /ve-cy  /em-cy/ie-cy/de-cy/en-cy/yeru-cy/ha-cy  /er-cy/u-cy/de-cy/en-cy/ii-cy/ka-cy/a-cy/ha-cy . /Pe-cy/o-cy/es-cy/el-cy/ie-cy  \012/er-cy/o-cy/zhe-cy/de-cy/ie-cy/en-cy/ii-cy/ia-cy  /Em-cy/a-cy/er-cy/te-cy/ii-cy/en-cy/a-cy  /es-cy/ie-cy/em-cy/softsign-cy/ia-cy  /pe-cy/ie-cy/er-cy/ie-cy/ie-cy/ha-cy/a-cy/el-cy/a-cy  /ve-cy  /ge-cy/o-cy/er-cy/en-cy/yeru-cy/iishort-cy/brevecomb-cy  /ge-cy/o-cy/er-cy/o-cy/de-cy/o-cy/ka-cy  /Em-cy/a-cy/en-cy/es-cy/ef-cy/ie-cy/el-cy/softsign-cy/de-cy , /ge-cy/de-cy/ie-cy  /o-cy/te-cy/ie-cy/tse-cy  /es-cy/te-cy/a-cy/el-cy  /ze-cy/a-cy/zhe-cy/ii-cy/te-cy/o-cy/che-cy/en-cy/yeru-cy/em-cy  /be-cy/iu-cy/er-cy/ge-cy/ie-cy/er-cy/o-cy/em-cy .\012/Schwa-cy/schwa-cy/ze-cy \012/Fita-cy/fita-cy/Cheabkhasian-cy/_part.cheabkhasian/_part.cheabkhasian.case/cheabkhasian-cy \012/enghe-cy/Enghe-cy \012/__Middlehook-cy  /Ghemiddlehook-cy/Pemiddlehook-cy/Kahook-cy/Enhook-cy/_part.hook-cy/Gestrokehook-cy/Hahook-cy/Elhook-cy/EnLeftHook-cy/Dje-cy/Ghemiddlehook-cy.titl \012/ghemiddlehook-cy/pemiddlehook-cy/kahook-cy/enhook-cy/gestrokehook-cy/hahook-cy/elhook-cy/enlefthook-cy  /dje-cy/jdotless \012/Gheupturn-cy/gheupturn-cy/ertick-cy/Ertick-cy/el-cy/lje-cy/softsign-cy/El-cy/Lje-cy/ia-cy/ghestroke-cy/gestrokehook-cy \012c/schwa-cy/ze-cy/ereversed-cy/e-cy s/Ereversed-cy \012/be-cy o HAH/De-cy/De-cy.loclBGR H",
-"/_part.Dzhe-cy/Dzhe-cy/dzhe-cy \012/__descender-cy.straight.case/De-cy/Tse-cy/Shcha-cy/Endescender-cy/Pedescender-cy/Tetse-cy/Chedescender-cy/Shhadescender-cy/Eldescender-cy \012/descender-cy.left.case/descender-cy.case/Hadescender-cy/Zhedescender-cy/Kadescender-cy/Chekhakassian-cy/Gedescender-cy/Tedescender-cy \012/descender-cy.center.case/Esdescender-cy/Chedescenderabkhasian-cy/Zedescender-cy \012/__tail-cy.case/Iishorttail-cy/Eltail-cy/Entail-cy/Emtail-cy \012/descender-cy/gedescender-cy/tedescender-cy/tse-cy/shcha-cy/endescender-cy/pedescender-cy/tetse-cy/chedescender-cy/shhadescender-cy/eldescender-cy/hadescender-cy/zhedescender-cy \012/kadescender-cy/chekhakassian-cy \012/descender-cy.center/esdescender-cy/chedescenderabkhasian-cy/zedescender-cy \012/Eltail-cy/eltail-cy/Entail-cy/entail-cy/emtail-cy",
-"S/E-cy/Ereversed-cy/Ze-cy/Dzeabkhasian-cy/Reversedze-cy S/semisoftsign-cy  /Ef-cy.loclBGR/De-cy.loclBGR/Haabkhasian-cy/haabkhasian-cy/zhe-cy.loclBGR \012/zhe-cy/zhe-cy.loclBGR  k\012/ka-cy/kje-cy/kadescender-cy \012/kaverticalstroke-cy/kastroke-cy/kabashkir-cy/kahook-cy \012/a-cy o/be-cy/be-cy.loclSRB/ve-cy/ge-cy/de-cy/dzhe-cy/dje-cy \012/ghestroke-cy/hastroke-cy  o/be-cy/yeru-cy/de-cy e/softsign-cy n\012c/de-cy e/el-cy/ka-cy a\012oo/ve-cy eoo\012ee/ve-cy/be-cy ee\012oo/ve-cy/be-cy oo\012/en-cy/en-cy/ve-cy/be-cy/en-cy/en-cy \012oo/softsign-cy/en-cy oo\012oo/yeru-cy/en-cy oo\012oo/hardsign-cy/en-cy oo\012oo/lje-cy/en-cy oo\012oo/nje-cy/en-cy oo",
-"/dram-arm/cedi \U00A2/_part.colonsign/_part.colonsign.black/colonsign $/dong/euro/florin/franc/guarani/hryvnia/kip/lira/liraTurkish/manat/naira/peseta/_part.peso/_part.peso.black/peso/ruble/rupeeIndian \U00A3/tenge/tugrik/won \U00A5",
-"/Es-cy/hardsign-cy/ie-cy/sha-cy/softsign-cy  /zhe-cy/ie-cy  /ie-cy/shcha-cy/io-cy  /ereversed-cy/te-cy/ii-cy/ha-cy  /em-cy/ia-cy/ge-cy/ka-cy/ii-cy/ha-cy  /ef-cy/er-cy/a-cy/en-cy/tse-cy/u-cy.calt/ze-cy/es-cy/ka-cy/ii-cy/ha-cy  /be-cy/u-cy/el-cy/o-cy/ka-cy , /de-cy/a-cy  /ve-cy/yeru-cy/pe-cy/ie-cy/iishort-cy  /che-cy/a-cy/iu-cy . \012/u-cy/ushort-cy/umacron-cy/udieresis-cy/uhungarumlaut-cy \012y\U00FD/ycircumflex/ydieresis/ydotaccent/ydotbelow/ygrave/yhookabove/ymacron/ytilde/y.ss01 \012\012/tse-cy/u-cy.calt/ushort-cy.calt/umacron-cy.calt/udieresis-cy.calt/uhungarumlaut-cy.calt",
-"/De-cy/Iishorttail-cy/Tse-cy/Shcha-cy/Ghemiddlehook-cy/Zhedescender-cy/Kadescender-cy/Endescender-cy/Pemiddlehook-cy/Pedescender-cy/Tedescender-cy/Hadescender-cy/Chedescender-cy/Shhadescender-cy/Eltail-cy/Entail-cy/Emtail-cy/Gestrokehook-cy/Hahook-cy/Qa-cy/Eldescender-cy/De-cy.loclBGR/iishorttail-cy/tse-cy/shcha-cy/ghemiddlehook-cy/zhedescender-cy/kadescender-cy/endescender-cy/pemiddlehook-cy/pedescender-cy/tedescender-cy/hadescender-cy/tetse-cy/chedescender-cy/shhadescender-cy/eltail-cy/entail-cy/emtail-cy/dzeabkhasian-cy/gedescender-cy/gestrokehook-cy/hahook-cy/qa-cy/eldescender-cy/ze-cy.loclBGR/Tetse-cy \012\012/De-cy/u-cy/Iishorttail-cy/u-cy/Tse-cy/u-cy/Shcha-cy/u-cy/Je-cy/u-cy/Ghemiddlehook-cy/u-cy/Zhedescender-cy/u-cy/Kadescender-cy/u-cy/Endescender-cy/u-cy/Pemiddlehook-cy/u-cy/Pedescender-cy/u-cy/Tedescender-cy/u-cy/Hadescender-cy/u-cy/Chedescender-cy/u-cy/Shhadescender-cy/u-cy/Kahook-cy/u-cy/Eltail-cy/u-cy \012/Enhook-cy/u-cy/Entail-cy/u-cy/Emtail-cy/u-cy n/Gedescender-cy/u-cy/en-cy gy/el-cy a/Gestrokehook-cy/u-cy/Hahook-cy/u-cy/Elhook-cy/u-cy/Qa-cy/u-cy/Eldescender-cy/u-cy/De-cy.loclBGR/u-cy \012/gheupturn-cy/u-cy/iishorttail-cy/u-cy/tse-cy/u-cy/shcha-cy/u-cy/je-cy/u-cy/dje-cy/u-cy/ghemiddlehook-cy/u-cy/zhedescender-cy/u-cy/kadescender-cy/u-cy/endescender-cy/u-cy/pemiddlehook-cy/u-cy/pedescender-cy/u-cy/tedescender-cy/u-cy/hadescender-cy/u-cy/tetse-cy/u-cy/chedescender-cy/u-cy/shhadescender-cy/u-cy/kahook-cy/u-cy \012/eltail-cy/u-cy/enhook-cy/u-cy/entail-cy/u-cy/chekhakassian-cy/u-cy/emtail-cy/u-cy/dzeabkhasian-cy/u-cy/gedescender-cy/u-cy/gestrokehook-cy/u-cy/hahook-cy/u-cy/elhook-cy/u-cy/qa-cy/u-cy/eldescender-cy/u-cy/de-cy.loclBGR/u-cy/ze-cy.loclBGR/u-cy/zedescender-cy.loclBSH/u-cy/esdescender-cy.loclBSH/u-cy/esdescender-cy.loclCHU/u-cy/de-cy.loclSRB/u-cy/Tetse-cy/u-cy \012",
-"H/Ef-cy/Ef-cy.loclBGR/u-cy/Ia-cy/ia-cy/brevecomb-cy.case/Iishort-cy \012/yusbig-cy/Yusbig-cy \012/tse-cy/dzhe-cy/_flamebelowcomb-cy/che-cy/chekhakassian-cy  /chedieresis-cy/chedescender-cy \012/Ze-cy/Ve-cy/Ka-cy/ef-cy \012/Ge-cy/Gje-cy/Ghestroke-cy/Ghemiddlehook-cy/Gedescender-cy/Gestrokehook-cy/strokeshortcomb.case \U00D0/Tbar/Ghestroke-cy/Ustraitstroke-cy/Gestrokehook-cy/Semisoftsign-cy/franc/Ghestroke-cy \012X/Ha-cy/Hadescender-cy/Hastroke-cy/Chi/Hastroke-cy/hastroke-cy \012/Softsign-cy/Yeru-cy/ge-cy e/hardsign-cy n/yeru-cy/em-cy/emtail-cy \012Rv/R.calt v/zerosuperior '-YWVTOAV\012n47"
+"fi -.-"
 );
 classes = (
 {
@@ -72,7 +66,7 @@ name = "Use Typo Metrics";
 value = 1;
 }
 );
-date = "2017-02-28 13:41:54 +0000";
+date = "2017-03-01 11:05:14 +0000";
 designer = "Friedrich Althausen";
 designerURL = "http://friedrichalthausen.de/";
 familyName = Vollkorn;
@@ -713,15 +707,9 @@ sub longs b by longs_b;
 sub longs k by longs_k;
 sub longs l by longs_l;
 sub t y by t_y;
-sub f.calt f.calt by f_f.calt;
-
-sub hyphen hyphen period hyphen hyphen by schmuck;
-sub hyphen period hyphen hyphen by schmuck;
-sub hyphen hyphen period hyphen by schmuck;
-sub hyphen period hyphen by schmuck;
-";
+sub f.calt f.calt by f_f.calt;";
 name = dlig;
-notes = "Place before LIGA and CALT\012dlig\012liga\012calt\012\012Add manually:\012\012sub hyphen hyphen period hyphen hyphen by schmuck;\012sub hyphen period hyphen hyphen by schmuck;\012sub hyphen hyphen period hyphen by schmuck;\012sub hyphen period hyphen by schmuck;\012";
+notes = "Place before LIGA and CALT\012dlig\012liga\012calt\012";
 },
 {
 code = "sub f f l by f_f_l;
@@ -738,7 +726,6 @@ sub longs i by longs_i.liga;
 sub longs longs by longs_longs.liga;
 ";
 name = liga;
-notes = "Place after DLIG and before CALT\012dlig\012liga\012calt\012\012Delete fi and fl";
 },
 {
 code = "sub f' @fcalt by f.calt;
@@ -68530,7 +68517,6 @@ rightMetricsKey = "=F";
 unicode = 0490;
 },
 {
-color = 0;
 glyphname = "De-cy";
 layers = (
 {
@@ -95704,7 +95690,6 @@ rightMetricsKey = "=B";
 subCategory = Uppercase;
 },
 {
-color = 10;
 export = 0;
 glyphname = "Pemiddlehook-cy";
 layers = (
@@ -96724,7 +96709,6 @@ rightMetricsKey = o;
 unicode = 0431;
 },
 {
-color = 0;
 glyphname = "ve-cy";
 layers = (
 {
@@ -99012,7 +98996,6 @@ rightMetricsKey = "=v";
 unicode = 0491;
 },
 {
-color = 0;
 glyphname = "de-cy";
 layers = (
 {
@@ -108495,7 +108478,6 @@ rightKerningGroup = "dzhe-cy";
 unicode = 045F;
 },
 {
-color = 0;
 glyphname = "softsign-cy";
 layers = (
 {
@@ -109155,7 +109137,6 @@ rightMetricsKey = "=10";
 unicode = 044C;
 },
 {
-color = 0;
 glyphname = "hardsign-cy";
 layers = (
 {
@@ -110562,7 +110543,6 @@ rightMetricsKey = "=softsign-cy";
 unicode = 044A;
 },
 {
-color = 0;
 glyphname = "yeru-cy";
 layers = (
 {
@@ -110813,7 +110793,6 @@ rightMetricsKey = "=n";
 unicode = 044B;
 },
 {
-color = 0;
 glyphname = "lje-cy";
 layers = (
 {
@@ -111497,7 +111476,6 @@ rightMetricsKey = "=softsign-cy";
 unicode = 0459;
 },
 {
-color = 0;
 glyphname = "nje-cy";
 layers = (
 {
@@ -114579,7 +114557,6 @@ rightMetricsKey = "=n";
 unicode = 044F;
 },
 {
-color = 0;
 glyphname = "dje-cy";
 layers = (
 {
@@ -116685,7 +116662,6 @@ source = "Izhitsa-cy";
 };
 },
 {
-color = 0;
 glyphname = "ghestroke-cy";
 layers = (
 {
@@ -126962,7 +126938,6 @@ rightKerningGroup = "ka-cy";
 unicode = 04FD;
 },
 {
-color = 0;
 glyphname = "hastroke-cy";
 layers = (
 {
@@ -132670,7 +132645,6 @@ leftKerningGroup = "a-cy";
 rightKerningGroup = "es-cy";
 },
 {
-color = 0;
 glyphname = "be-cy.loclSRB";
 layers = (
 {
@@ -133348,7 +133322,6 @@ leftKerningGroup = "ve-cy";
 rightKerningGroup = "ii-cy";
 },
 {
-color = 10;
 export = 0;
 glyphname = "pemiddlehook-cy";
 layers = (
@@ -140855,7 +140828,6 @@ rightKerningGroup = Upsilon;
 unicode = 03AB;
 },
 {
-color = 4;
 glyphname = KaiSymbol;
 layers = (
 {
@@ -147893,7 +147865,6 @@ rightKerningGroup = eta;
 unicode = 03AE;
 },
 {
-color = 4;
 glyphname = kaiSymbol;
 layers = (
 {
@@ -242459,6 +242430,7 @@ width = 550;
 },
 {
 color = 8;
+export = 0;
 glyphname = schmuck;
 layers = (
 {
