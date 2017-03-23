@@ -1,8 +1,5 @@
 {
-.appVersion = "966";
-DisplayStrings = (
-/.notdef
-);
+.appVersion = "998";
 classes = (
 {
 automatic = 1;
@@ -38,7 +35,7 @@ code = "u-cy.calt ushort-cy.calt umacron-cy.calt udieresis-cy.calt uhungarumlaut
 name = "allu-cyCalt";
 }
 );
-copyright = "Copyright (c) 2005-2017, Friedrich Althausen (http://friedrichalthausen.de post@friedrichalthausen.de). All rights reserved.";
+copyright = "Copyright 2017 The Vollkorn Project Authors (https://github.com/FAlthausen/Vollkorn-Typeface)";
 customParameters = (
 {
 name = license;
