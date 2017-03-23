@@ -248086,6 +248086,34 @@ nodes = (
 width = 730;
 }
 );
+},
+{
+glyphname = CR;
+layers = (
+{
+layerId = "9785DD90-0D66-4E3E-881E-09053C5F0A8A";
+width = 180;
+},
+{
+layerId = "B20BA836-AF41-4C81-B953-D076FC766EB4";
+width = 200;
+}
+);
+unicode = 000D;
+},
+{
+glyphname = NULL;
+layers = (
+{
+layerId = "9785DD90-0D66-4E3E-881E-09053C5F0A8A";
+width = 0;
+},
+{
+layerId = "B20BA836-AF41-4C81-B953-D076FC766EB4";
+width = 0;
+}
+);
+unicode = 0000;
 }
 );
 instances = (
@@ -248094,7 +248122,6 @@ instanceInterpolations = {
 "9785DD90-0D66-4E3E-881E-09053C5F0A8A" = 1;
 };
 isItalic = 1;
-linkStyle = Regular;
 name = Italic;
 },
 {
@@ -248110,7 +248137,7 @@ instanceInterpolations = {
 "9785DD90-0D66-4E3E-881E-09053C5F0A8A" = 0.722222;
 };
 isItalic = 1;
-linkStyle = Semibold;
+linkStyle = SemiBold;
 name = "Semibold Italic";
 weightClass = SemiBold;
 },
@@ -248128,7 +248155,6 @@ instanceInterpolations = {
 };
 isBold = 1;
 isItalic = 1;
-linkStyle = Regular;
 name = "Bold Italic";
 weightClass = Bold;
 },
