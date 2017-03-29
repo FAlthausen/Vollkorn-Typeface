@@ -1,5 +1,5 @@
 {
-.appVersion = "998";
+.appVersion = "1000";
 classes = (
 {
 automatic = 1;
@@ -63,7 +63,7 @@ name = "Use Typo Metrics";
 value = 1;
 }
 );
-date = "2017-03-22 12:55:45 +0000";
+date = "2017-03-29 13:51:41 +0000";
 designer = "Friedrich Althausen";
 designerURL = "http://friedrichalthausen.de/";
 familyName = Vollkorn;
@@ -252405,5 +252405,5 @@ serif_adil.comp
 };
 };
 versionMajor = 4;
-versionMinor = 14;
+versionMinor = 15;
 }
