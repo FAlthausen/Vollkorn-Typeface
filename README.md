@@ -13,7 +13,7 @@ Project page: [vollkorn-typeface.com][2]
 
 #### Copyright
 
-Copyright (c) 2005–2016, Friedrich Althausen (http://friedrichalthausen.de). All rights reserved.
+Copyright (c) 2005–2017, Friedrich Althausen (http://friedrichalthausen.de). All rights reserved.
 
 #### License
 
