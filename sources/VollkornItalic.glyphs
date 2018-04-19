@@ -1,5 +1,5 @@
 {
-.appVersion = "1128";
+.appVersion = "1131";
 classes = (
 {
 automatic = 1;
@@ -63,7 +63,7 @@ name = "Use Typo Metrics";
 value = 1;
 }
 );
-date = "2018-04-11 06:51:19 +0000";
+date = "2018-04-19 11:30:35 +0000";
 designer = "Friedrich Althausen";
 designerURL = "http://friedrichalthausen.de/";
 familyName = Vollkorn;
@@ -36703,6 +36703,219 @@ leftMetricsKey = e;
 rightKerningGroup = e;
 rightMetricsKey = e;
 unicode = 0119;
+},
+{
+glyphname = ereversed;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+position = "{142, 0}";
+},
+{
+name = right;
+position = "{327, 207}";
+},
+{
+name = top;
+position = "{224, 458}";
+}
+);
+background = {
+paths = (
+{
+closed = 1;
+nodes = (
+"252 -9 OFFCURVE",
+"318 121 OFFCURVE",
+"339 237 CURVE SMOOTH",
+"364 376 OFFCURVE",
+"318 467 OFFCURVE",
+"216 467 CURVE SMOOTH",
+"152 467 OFFCURVE",
+"93 431 OFFCURVE",
+"76 359 CURVE SMOOTH",
+"55 269 OFFCURVE",
+"120 204 OFFCURVE",
+"264 198 CURVE",
+"278 235 LINE",
+"186 237 OFFCURVE",
+"129 315 OFFCURVE",
+"151 386 CURVE SMOOTH",
+"160 415 OFFCURVE",
+"176 423 OFFCURVE",
+"191 423 CURVE SMOOTH",
+"256 423 OFFCURVE",
+"278 283 OFFCURVE",
+"245 148 CURVE SMOOTH",
+"234 102 OFFCURVE",
+"213 53 OFFCURVE",
+"151 53 CURVE SMOOTH",
+"124 53 OFFCURVE",
+"107 62 OFFCURVE",
+"88 86 CURVE",
+"58 89 OFFCURVE",
+"31 85 OFFCURVE",
+"4 69 CURVE",
+"23 22 OFFCURVE",
+"62 -9 OFFCURVE",
+"124 -9 CURVE SMOOTH"
+);
+}
+);
+};
+layerId = "9785DD90-0D66-4E3E-881E-09053C5F0A8A";
+paths = (
+{
+closed = 1;
+nodes = (
+"252 -9 OFFCURVE",
+"318 121 OFFCURVE",
+"339 237 CURVE SMOOTH",
+"364 376 OFFCURVE",
+"320 467 OFFCURVE",
+"207 467 CURVE SMOOTH",
+"144 467 OFFCURVE",
+"90 439 OFFCURVE",
+"65 373 CURVE SMOOTH",
+"28 277 OFFCURVE",
+"87 196 OFFCURVE",
+"264 196 CURVE",
+"278 235 LINE",
+"151 235 OFFCURVE",
+"120 326 OFFCURVE",
+"140 384 CURVE SMOOTH",
+"150 412 OFFCURVE",
+"167 423 OFFCURVE",
+"186 423 CURVE SMOOTH",
+"256 423 OFFCURVE",
+"279 282 OFFCURVE",
+"245 148 CURVE SMOOTH",
+"233 100 OFFCURVE",
+"213 53 OFFCURVE",
+"151 53 CURVE SMOOTH",
+"124 53 OFFCURVE",
+"107 62 OFFCURVE",
+"88 86 CURVE",
+"58 89 OFFCURVE",
+"31 85 OFFCURVE",
+"4 69 CURVE",
+"23 22 OFFCURVE",
+"62 -9 OFFCURVE",
+"124 -9 CURVE SMOOTH"
+);
+}
+);
+width = 368;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{216, 0}";
+},
+{
+name = right;
+position = "{488, 223}";
+},
+{
+name = top;
+position = "{310, 458}";
+}
+);
+background = {
+paths = (
+{
+closed = 1;
+nodes = (
+"320 -9 OFFCURVE",
+"376 5 OFFCURVE",
+"437 47 CURVE",
+"439 80 OFFCURVE",
+"435 104 OFFCURVE",
+"420 129 CURVE",
+"392 114 OFFCURVE",
+"352 98 OFFCURVE",
+"308 98 CURVE SMOOTH",
+"222 98 OFFCURVE",
+"217 174 OFFCURVE",
+"237 271 CURVE SMOOTH",
+"253 359 OFFCURVE",
+"292 395 OFFCURVE",
+"330 395 CURVE SMOOTH",
+"367 395 OFFCURVE",
+"380 374 OFFCURVE",
+"372 333 CURVE SMOOTH",
+"363 284 OFFCURVE",
+"298 250 OFFCURVE",
+"206 249 CURVE",
+"203 172 LINE",
+"385 173 OFFCURVE",
+"488 265 OFFCURVE",
+"502 336 CURVE SMOOTH",
+"516 412 OFFCURVE",
+"455 467 OFFCURVE",
+"332 467 CURVE SMOOTH",
+"173 467 OFFCURVE",
+"58 374 OFFCURVE",
+"31 234 CURVE SMOOTH",
+"7 106 OFFCURVE",
+"45 -9 OFFCURVE",
+"227 -9 CURVE SMOOTH"
+);
+}
+);
+};
+layerId = "B20BA836-AF41-4C81-B953-D076FC766EB4";
+paths = (
+{
+closed = 1;
+nodes = (
+"381 -9 OFFCURVE",
+"476 118 OFFCURVE",
+"502 248 CURVE SMOOTH",
+"526 366 OFFCURVE",
+"489 467 OFFCURVE",
+"299 467 CURVE SMOOTH",
+"180 467 OFFCURVE",
+"82 427 OFFCURVE",
+"57 337 CURVE SMOOTH",
+"32 247 OFFCURVE",
+"98 172 OFFCURVE",
+"287 172 CURVE",
+"304 250 LINE",
+"212 250 OFFCURVE",
+"180 306 OFFCURVE",
+"188 349 CURVE SMOOTH",
+"194 380 OFFCURVE",
+"217 395 OFFCURVE",
+"244 395 CURVE SMOOTH",
+"309 395 OFFCURVE",
+"310 308 OFFCURVE",
+"289 191 CURVE SMOOTH",
+"273 104 OFFCURVE",
+"260 78 OFFCURVE",
+"220 78 CURVE SMOOTH",
+"184 78 OFFCURVE",
+"161 98 OFFCURVE",
+"149 124 CURVE",
+"99 126 OFFCURVE",
+"52 115 OFFCURVE",
+"8 94 CURVE",
+"25 37 OFFCURVE",
+"76 -9 OFFCURVE",
+"189 -9 CURVE SMOOTH"
+);
+}
+);
+width = 529;
+}
+);
+leftKerningGroup = o;
+rightKerningGroup = o;
+rightMetricsKey = "=o";
+unicode = 0258;
 },
 {
 glyphname = etilde;
@@ -261102,5 +261315,5 @@ serif_adil.comp
 };
 };
 versionMajor = 4;
-versionMinor = 102;
+versionMinor = 103;
 }
