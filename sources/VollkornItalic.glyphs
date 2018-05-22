@@ -1,5 +1,5 @@
 {
-.appVersion = "1140";
+.appVersion = "1143";
 classes = (
 {
 automatic = 1;
@@ -61,9 +61,22 @@ value = 1;
 {
 name = "Use Typo Metrics";
 value = 1;
+},
+{
+name = "Variation Font Origin";
+value = "9785DD90-0D66-4E3E-881E-09053C5F0A8A";
+},
+{
+name = Axes;
+value = (
+{
+Name = Weight;
+Tag = wght;
 }
 );
-date = "2018-05-09 08:29:26 +0000";
+}
+);
+date = "2018-05-22 10:54:11 +0000";
 designer = "Friedrich Althausen";
 designerURL = "http://friedrichalthausen.de/";
 familyName = Vollkorn;
@@ -1118,6 +1131,15 @@ value = 0;
 {
 name = typoLineGap;
 value = 0;
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = "400";
+}
+);
 }
 );
 descender = -242;
@@ -1235,6 +1257,15 @@ value = 0;
 {
 name = typoLineGap;
 value = 0;
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = "900";
+}
+);
 }
 );
 descender = -242;
@@ -261994,5 +262025,5 @@ serif_adil.comp
 };
 };
 versionMajor = 4;
-versionMinor = 105;
+versionMinor = 106;
 }
