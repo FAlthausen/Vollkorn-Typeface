@@ -1,5 +1,5 @@
 {
-.appVersion = "1143";
+.appVersion = "1147";
 classes = (
 {
 automatic = 1;
@@ -24,15 +24,15 @@ name = fcalt;
 },
 {
 code = "De-cy Iishorttail-cy Tse-cy Shcha-cy Ghemiddlehook-cy Zhedescender-cy Kadescender-cy Endescender-cy Pedescender-cy Tedescender-cy Hadescender-cy Chedescender-cy Shhadescender-cy Eltail-cy Entail-cy Emtail-cy Gestrokehook-cy Hahook-cy Qa-cy Eldescender-cy De-cy.loclBGR iishorttail-cy tse-cy shcha-cy ghemiddlehook-cy zhedescender-cy kadescender-cy endescender-cy pedescender-cy tedescender-cy hadescender-cy tetse-cy chedescender-cy shhadescender-cy eltail-cy entail-cy emtail-cy dzeabkhasian-cy gedescender-cy gestrokehook-cy hahook-cy qa-cy eldescender-cy ze-cy.loclBGR Tetse-cy";
-name = "u-cycalt";
+name = "u_cycalt";
 },
 {
 code = "u-cy ushort-cy umacron-cy udieresis-cy uhungarumlaut-cy";
-name = "allu-cy";
+name = "allu_cy";
 },
 {
 code = "u-cy.calt ushort-cy.calt umacron-cy.calt udieresis-cy.calt uhungarumlaut-cy.calt";
-name = "allu-cyCalt";
+name = "allu_cycalt";
 }
 );
 copyright = "Copyright 2018 The Vollkorn Project Authors (https://github.com/FAlthausen/Vollkorn-Typeface)";
@@ -61,19 +61,6 @@ value = 1;
 {
 name = "Use Typo Metrics";
 value = 1;
-},
-{
-name = "Variation Font Origin";
-value = "9785DD90-0D66-4E3E-881E-09053C5F0A8A";
-},
-{
-name = Axes;
-value = (
-{
-Name = Weight;
-Tag = wght;
-}
-);
 }
 );
 date = "2018-05-22 10:54:11 +0000";
@@ -743,7 +730,7 @@ sub longs_longs.liga' @fcalt by longs_longs.liga.calt;
 sub @Uppercase germandbls' @Uppercase by germandbls.calt;
 sub @Uppercase @Uppercase germandbls' by germandbls.calt;
 sub @allR' @Rcalt by @allRCalt;
-sub @u-cycalt @allu-cy' by @allu-cyCalt;";
+sub @u_cycalt @allu_cy' by @allu_cycalt;";
 name = calt;
 notes = "should be placed behind dlig and liga\012dlig\012liga\012calt";
 },
@@ -1131,15 +1118,6 @@ value = 0;
 {
 name = typoLineGap;
 value = 0;
-},
-{
-name = "Axis Location";
-value = (
-{
-Axis = Weight;
-Location = "400";
-}
-);
 }
 );
 descender = -242;
@@ -1257,15 +1235,6 @@ value = 0;
 {
 name = typoLineGap;
 value = 0;
-},
-{
-name = "Axis Location";
-value = (
-{
-Axis = Weight;
-Location = "900";
-}
-);
 }
 );
 descender = -242;
@@ -254953,6 +254922,24 @@ paths = (
 {
 closed = 1;
 nodes = (
+"386 0 LINE",
+"393 27 OFFCURVE",
+"405 49 OFFCURVE",
+"429 83 CURVE SMOOTH",
+"523 215 LINE",
+"529 288 LINE",
+"420 136 LINE",
+"418 136 LINE",
+"428 179 OFFCURVE",
+"437 222 OFFCURVE",
+"452 302 CURVE",
+"337 165 LINE",
+"306 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
 "608 -9 OFFCURVE",
 "647 7 OFFCURVE",
 "683 54 CURVE",
@@ -254986,24 +254973,6 @@ nodes = (
 "494 141 OFFCURVE",
 "499 -9 OFFCURVE",
 "581 -9 CURVE SMOOTH"
-);
-},
-{
-closed = 1;
-nodes = (
-"386 0 LINE",
-"393 27 OFFCURVE",
-"405 49 OFFCURVE",
-"429 83 CURVE SMOOTH",
-"523 215 LINE",
-"529 288 LINE",
-"420 136 LINE",
-"418 136 LINE",
-"428 179 OFFCURVE",
-"437 222 OFFCURVE",
-"452 302 CURVE",
-"337 165 LINE",
-"306 0 LINE"
 );
 }
 );
