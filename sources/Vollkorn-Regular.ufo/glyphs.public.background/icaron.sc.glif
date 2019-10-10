@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="icaron.sc" format="2">
+  <outline>
+    <component base="i.sc"/>
+    <component base="caroncomb.i" xOffset="-56" yOffset="42"/>
+  </outline>
+</glyph>

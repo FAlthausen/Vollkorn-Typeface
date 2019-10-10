@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_part.colonsign.sc" format="2">
+  <advance width="572"/>
+  <anchor x="330" y="500" name="_top"/>
+  <outline>
+    <contour>
+      <point x="328" y="-107" type="curve"/>
+      <point x="367" y="97"/>
+      <point x="407" y="279"/>
+      <point x="475" y="578" type="curve"/>
+      <point x="463" y="588"/>
+      <point x="450" y="592"/>
+      <point x="432" y="596" type="curve"/>
+      <point x="284" y="-90" type="line"/>
+      <point x="292" y="-97"/>
+      <point x="313" y="-105"/>
+    </contour>
+    <contour>
+      <point x="224" y="-107" type="curve"/>
+      <point x="272" y="128"/>
+      <point x="311" y="310"/>
+      <point x="371" y="578" type="curve"/>
+      <point x="359" y="588"/>
+      <point x="347" y="592"/>
+      <point x="328" y="596" type="curve"/>
+      <point x="181" y="-90" type="line"/>
+      <point x="189" y="-97"/>
+      <point x="210" y="-105"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>height</key>
+        <integer>74</integer>
+        <key>width</key>
+        <integer>88</integer>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

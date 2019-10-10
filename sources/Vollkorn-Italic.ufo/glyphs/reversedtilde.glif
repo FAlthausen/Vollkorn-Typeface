@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="reversedtilde" format="2">
+  <advance width="550"/>
+  <unicode hex="223D"/>
+  <outline>
+    <component base="similar" yScale="-1" xOffset="6" yOffset="512"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>-1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

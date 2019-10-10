@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="De-cy" format="2">
+  <advance width="691"/>
+  <unicode hex="0414"/>
+  <outline>
+    <contour>
+      <point x="-23" y="0" type="line"/>
+      <point x="538" y="0" type="line"/>
+      <point x="546" y="40" type="line"/>
+      <point x="494" y="43"/>
+      <point x="481" y="60"/>
+      <point x="494" y="127" type="curve" smooth="yes"/>
+      <point x="576" y="549" type="line" smooth="yes"/>
+      <point x="589" y="616"/>
+      <point x="609" y="633"/>
+      <point x="662" y="636" type="curve"/>
+      <point x="668" y="647"/>
+      <point x="672" y="661"/>
+      <point x="672" y="679" type="curve"/>
+      <point x="633" y="677"/>
+      <point x="587" y="676"/>
+      <point x="454" y="676" type="curve" smooth="yes"/>
+      <point x="321" y="676"/>
+      <point x="243" y="677"/>
+      <point x="199" y="679" type="curve"/>
+      <point x="196" y="661"/>
+      <point x="197" y="647"/>
+      <point x="199" y="636" type="curve"/>
+      <point x="270" y="629"/>
+      <point x="275" y="621"/>
+      <point x="259" y="547" type="curve" smooth="yes"/>
+      <point x="228" y="406"/>
+      <point x="172" y="203"/>
+      <point x="90" y="101" type="curve" smooth="yes"/>
+      <point x="61" y="65"/>
+      <point x="27" y="40"/>
+      <point x="-15" y="40" type="curve"/>
+    </contour>
+    <contour>
+      <point x="113" y="43" type="line"/>
+      <point x="200" y="134"/>
+      <point x="228" y="230"/>
+      <point x="312" y="541" type="curve" smooth="yes"/>
+      <point x="328" y="602"/>
+      <point x="333" y="608"/>
+      <point x="348" y="617" type="curve" smooth="yes"/>
+      <point x="365" y="627"/>
+      <point x="381" y="631"/>
+      <point x="410" y="631" type="curve" smooth="yes"/>
+      <point x="445" y="631"/>
+      <point x="465" y="625"/>
+      <point x="473" y="619" type="curve" smooth="yes"/>
+      <point x="490" y="608"/>
+      <point x="488" y="583"/>
+      <point x="480" y="541" type="curve" smooth="yes"/>
+      <point x="400" y="127" type="line" smooth="yes"/>
+      <point x="386" y="56"/>
+      <point x="364" y="43"/>
+      <point x="296" y="43" type="curve" smooth="yes"/>
+    </contour>
+    <component base="__descender-cy.straight.case" xOffset="611"/>
+    <component base="descender-cy.left.case" xOffset="-31"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>=|K</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>H</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Uppercase</string>
+    </dict>
+  </lib>
+</glyph>

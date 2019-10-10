@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_part.Oslash" format="2">
+  <advance width="742"/>
+  <anchor x="392" y="340" name="_center"/>
+  <outline>
+    <contour>
+      <point x="124" y="-9" type="curve"/>
+      <point x="333" y="232"/>
+      <point x="507" y="422"/>
+      <point x="743" y="648" type="curve"/>
+      <point x="728" y="673"/>
+      <point x="701" y="685"/>
+      <point x="660" y="685" type="curve"/>
+      <point x="43" y="35" type="line"/>
+      <point x="53" y="8"/>
+      <point x="89" y="-9"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+    </dict>
+  </lib>
+</glyph>

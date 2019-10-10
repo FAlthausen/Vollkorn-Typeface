@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_negationslash" format="2">
+  <advance width="550"/>
+  <outline>
+    <contour>
+      <point x="192" y="-99" type="curve"/>
+      <point x="453" y="605" type="line"/>
+      <point x="430" y="618"/>
+      <point x="400" y="627"/>
+      <point x="370" y="627" type="curve"/>
+      <point x="105" y="-82" type="line"/>
+      <point x="123" y="-93"/>
+      <point x="152" y="-99"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tugrik.sc" format="2">
+  <outline>
+    <component base="t.sc"/>
+    <component base="_part.tugrik.sc" xOffset="42" yOffset="10"/>
+  </outline>
+</glyph>

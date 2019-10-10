@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="figuredash.case" format="2">
+  <outline>
+    <component base="figuredash" xOffset="15" yOffset="80"/>
+  </outline>
+</glyph>

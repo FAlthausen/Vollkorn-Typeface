@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ve-cy.loclBGR" format="2">
+  <advance width="594"/>
+  <outline>
+    <contour>
+      <point x="255" y="-9" type="curve" smooth="yes"/>
+      <point x="423" y="-9"/>
+      <point x="533" y="82"/>
+      <point x="563" y="229" type="curve" smooth="yes"/>
+      <point x="591" y="366"/>
+      <point x="525" y="434"/>
+      <point x="396" y="434" type="curve"/>
+      <point x="356" y="421" type="line"/>
+      <point x="494" y="433"/>
+      <point x="583" y="497"/>
+      <point x="600" y="572" type="curve" smooth="yes"/>
+      <point x="617" y="644"/>
+      <point x="561" y="715"/>
+      <point x="430" y="715" type="curve" smooth="yes"/>
+      <point x="198" y="715"/>
+      <point x="81" y="491"/>
+      <point x="45" y="305" type="curve" smooth="yes"/>
+      <point x="0" y="74"/>
+      <point x="95" y="-9"/>
+    </contour>
+    <contour>
+      <point x="256" y="65" type="curve" smooth="yes"/>
+      <point x="216" y="65"/>
+      <point x="205" y="118"/>
+      <point x="245" y="325" type="curve" smooth="yes"/>
+      <point x="290" y="557"/>
+      <point x="333" y="641"/>
+      <point x="394" y="641" type="curve" smooth="yes"/>
+      <point x="416" y="641"/>
+      <point x="432" y="630"/>
+      <point x="427" y="592" type="curve" smooth="yes"/>
+      <point x="417" y="513"/>
+      <point x="334" y="444"/>
+      <point x="249" y="414" type="curve"/>
+      <point x="247" y="348" type="line"/>
+      <point x="262" y="357"/>
+      <point x="283" y="364"/>
+      <point x="307" y="364" type="curve" smooth="yes"/>
+      <point x="364" y="364"/>
+      <point x="380" y="327"/>
+      <point x="362" y="234" type="curve" smooth="yes"/>
+      <point x="343" y="136"/>
+      <point x="302" y="65"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>=o</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=o</string>
+    </dict>
+  </lib>
+</glyph>

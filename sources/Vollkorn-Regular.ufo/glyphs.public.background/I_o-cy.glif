@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Io-cy" format="2">
+  <outline>
+    <component base="E"/>
+    <component base="dieresis" xOffset="138" yOffset="218"/>
+  </outline>
+</glyph>

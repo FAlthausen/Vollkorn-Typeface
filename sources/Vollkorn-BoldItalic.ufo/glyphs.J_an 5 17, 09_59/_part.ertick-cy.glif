@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_part.ertick-cy" format="2">
+  <advance width="680"/>
+  <anchor x="139" y="-66" name="_center"/>
+  <outline>
+    <contour>
+      <point x="523" y="-49" type="curve"/>
+      <point x="542" y="-46"/>
+      <point x="571" y="-30"/>
+      <point x="596" y="-6" type="curve"/>
+      <point x="389" y="225" type="line"/>
+      <point x="368" y="216"/>
+      <point x="332" y="193"/>
+      <point x="309" y="175" type="curve"/>
+      <point x="385" y="100"/>
+      <point x="455" y="29"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,165 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>ascender</key>
+    <integer>708</integer>
+    <key>capHeight</key>
+    <integer>676</integer>
+    <key>copyright</key>
+    <string>Copyright 2018 The Vollkorn Project Authors (https://github.com/FAlthausen/Vollkorn-Typeface)</string>
+    <key>descender</key>
+    <integer>-242</integer>
+    <key>familyName</key>
+    <string>Vollkorn</string>
+    <key>guidelines</key>
+    <array>
+      <dict>
+        <key>y</key>
+        <integer>-9</integer>
+      </dict>
+      <dict>
+        <key>y</key>
+        <integer>395</integer>
+      </dict>
+      <dict>
+        <key>y</key>
+        <integer>383</integer>
+      </dict>
+      <dict>
+        <key>angle</key>
+        <integer>79</integer>
+        <key>name</key>
+        <string> [locked]</string>
+        <key>x</key>
+        <integer>108</integer>
+        <key>y</key>
+        <integer>45</integer>
+      </dict>
+      <dict>
+        <key>name</key>
+        <string>Topline Numr [locked]</string>
+        <key>y</key>
+        <integer>724</integer>
+      </dict>
+      <dict>
+        <key>name</key>
+        <string>Baseline Numr [locked]</string>
+        <key>y</key>
+        <integer>281</integer>
+      </dict>
+      <dict>
+        <key>name</key>
+        <string>Topline Dnom [locked]</string>
+        <key>y</key>
+        <integer>443</integer>
+      </dict>
+      <dict>
+        <key>name</key>
+        <string>Hyphen's Center [locked]</string>
+        <key>y</key>
+        <integer>260</integer>
+      </dict>
+      <dict>
+        <key>name</key>
+        <string>OSF [locked]</string>
+        <key>y</key>
+        <integer>500</integer>
+      </dict>
+      <dict>
+        <key>name</key>
+        <string>Fussserife [locked]</string>
+        <key>y</key>
+        <integer>40</integer>
+      </dict>
+    </array>
+    <key>italicAngle</key>
+    <integer>-11</integer>
+    <key>openTypeHeadCreated</key>
+    <string>2018/05/22 10:54:11</string>
+    <key>openTypeHheaAscender</key>
+    <integer>952</integer>
+    <key>openTypeHheaDescender</key>
+    <integer>-441</integer>
+    <key>openTypeHheaLineGap</key>
+    <integer>0</integer>
+    <key>openTypeNameDesigner</key>
+    <string>Friedrich Althausen</string>
+    <key>openTypeNameDesignerURL</key>
+    <string>http://friedrichalthausen.de/</string>
+    <key>openTypeNameLicense</key>
+    <string>This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL</string>
+    <key>openTypeNameLicenseURL</key>
+    <string>http://scripts.sil.org/OFL</string>
+    <key>openTypeNameManufacturer</key>
+    <string>Friedrich Althausen</string>
+    <key>openTypeNameManufacturerURL</key>
+    <string>http://vollkorn-typeface.com/</string>
+    <key>openTypeOS2Selection</key>
+    <array>
+      <integer>7</integer>
+    </array>
+    <key>openTypeOS2Type</key>
+    <array/>
+    <key>openTypeOS2TypoAscender</key>
+    <integer>952</integer>
+    <key>openTypeOS2TypoDescender</key>
+    <integer>-441</integer>
+    <key>openTypeOS2TypoLineGap</key>
+    <integer>0</integer>
+    <key>openTypeOS2WinAscent</key>
+    <integer>1115</integer>
+    <key>openTypeOS2WinDescent</key>
+    <integer>489</integer>
+    <key>postscriptBlueValues</key>
+    <array>
+      <integer>-9</integer>
+      <integer>0</integer>
+      <integer>444</integer>
+      <integer>450</integer>
+      <integer>458</integer>
+      <integer>467</integer>
+      <integer>500</integer>
+      <integer>506</integer>
+      <integer>676</integer>
+      <integer>685</integer>
+      <integer>708</integer>
+      <integer>717</integer>
+      <integer>758</integer>
+      <integer>767</integer>
+    </array>
+    <key>postscriptFamilyBlues</key>
+    <array/>
+    <key>postscriptFamilyOtherBlues</key>
+    <array/>
+    <key>postscriptOtherBlues</key>
+    <array>
+      <integer>-249</integer>
+      <integer>-242</integer>
+      <integer>404</integer>
+      <integer>410</integer>
+    </array>
+    <key>postscriptStemSnapH</key>
+    <array>
+      <integer>46</integer>
+    </array>
+    <key>postscriptStemSnapV</key>
+    <array>
+      <integer>95</integer>
+    </array>
+    <key>postscriptUnderlinePosition</key>
+    <integer>-340</integer>
+    <key>postscriptUnderlineThickness</key>
+    <integer>40</integer>
+    <key>styleName</key>
+    <string>Italic</string>
+    <key>unitsPerEm</key>
+    <integer>1000</integer>
+    <key>versionMajor</key>
+    <integer>4</integer>
+    <key>versionMinor</key>
+    <integer>106</integer>
+    <key>xHeight</key>
+    <integer>458</integer>
+  </dict>
+</plist>

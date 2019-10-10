@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hastroke-cy.sc" format="2">
+  <advance width="646"/>
+  <outline>
+    <component base="x.sc"/>
+    <component base="_part.hastroke-cy" xOffset="63" yOffset="22"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

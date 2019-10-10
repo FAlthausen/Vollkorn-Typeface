@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="element" format="2">
+  <outline>
+    <contour>
+      <point x="85" y="239" type="line"/>
+      <point x="219" y="239"/>
+      <point x="353" y="239"/>
+      <point x="487" y="237" type="curve"/>
+      <point x="497" y="252"/>
+      <point x="500" y="267"/>
+      <point x="498" y="284" type="curve"/>
+      <point x="85" y="284" type="line"/>
+    </contour>
+    <component base="subset"/>
+  </outline>
+</glyph>

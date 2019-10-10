@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_part.tugrik" format="2">
+  <outline>
+    <contour>
+      <point x="155" y="287" type="curve"/>
+      <point x="313" y="329" type="line"/>
+      <point x="269" y="397" type="line"/>
+      <point x="146" y="366" type="line"/>
+      <point x="143" y="343"/>
+      <point x="144" y="317"/>
+    </contour>
+    <contour>
+      <point x="149" y="147" type="curve"/>
+      <point x="287" y="182" type="line"/>
+      <point x="268" y="257" type="line"/>
+      <point x="141" y="224" type="line"/>
+      <point x="137" y="199"/>
+      <point x="139" y="174"/>
+    </contour>
+    <contour>
+      <point x="425" y="197" type="line"/>
+      <point x="559" y="231" type="line"/>
+      <point x="562" y="257"/>
+      <point x="561" y="279"/>
+      <point x="552" y="308" type="curve"/>
+      <point x="406" y="271" type="line"/>
+    </contour>
+    <contour>
+      <point x="432" y="340" type="line"/>
+      <point x="560" y="371" type="line"/>
+      <point x="562" y="400"/>
+      <point x="560" y="422"/>
+      <point x="552" y="448" type="curve"/>
+      <point x="437" y="420" type="line"/>
+    </contour>
+  </outline>
+</glyph>

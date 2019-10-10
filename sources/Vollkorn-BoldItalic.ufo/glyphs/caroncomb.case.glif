@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="caroncomb.case" format="2">
+  <anchor x="323" y="676" name="_top"/>
+  <anchor x="366" y="899" name="top"/>
+  <outline>
+    <contour>
+      <point x="286" y="726" type="curve"/>
+      <point x="319" y="722"/>
+      <point x="352" y="726"/>
+      <point x="376" y="738" type="curve"/>
+      <point x="422" y="767"/>
+      <point x="488" y="805"/>
+      <point x="548" y="838" type="curve"/>
+      <point x="538" y="863"/>
+      <point x="518" y="891"/>
+      <point x="492" y="899" type="curve"/>
+      <point x="454" y="879"/>
+      <point x="398" y="850"/>
+      <point x="353" y="842" type="curve"/>
+      <point x="308" y="856"/>
+      <point x="264" y="874"/>
+      <point x="229" y="894" type="curve"/>
+      <point x="188" y="892"/>
+      <point x="164" y="871"/>
+      <point x="151" y="836" type="curve"/>
+      <point x="196" y="804"/>
+      <point x="244" y="769"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>height</key>
+        <integer>75</integer>
+        <key>verticalShift</key>
+        <integer>340</integer>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>463</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_part.won.black" format="2">
+  <advance width="1003"/>
+  <anchor x="505" y="281" name="_center"/>
+  <outline>
+    <contour>
+      <point x="49" y="381" type="curve"/>
+      <point x="181" y="382"/>
+      <point x="313" y="383"/>
+      <point x="445" y="383" type="curve"/>
+      <point x="461" y="428" type="line"/>
+      <point x="59" y="428" type="line"/>
+      <point x="53" y="415"/>
+      <point x="49" y="398"/>
+    </contour>
+    <contour>
+      <point x="15" y="256" type="curve"/>
+      <point x="87" y="257"/>
+      <point x="159" y="257"/>
+      <point x="232" y="258" type="curve"/>
+      <point x="218" y="303" type="line"/>
+      <point x="26" y="303" type="line"/>
+      <point x="19" y="289"/>
+      <point x="15" y="271"/>
+    </contour>
+    <contour>
+      <point x="961" y="256" type="curve"/>
+      <point x="969" y="269"/>
+      <point x="973" y="285"/>
+      <point x="973" y="303" type="curve"/>
+      <point x="793" y="303" type="line"/>
+      <point x="780" y="258" type="line"/>
+      <point x="840" y="257"/>
+      <point x="901" y="257"/>
+    </contour>
+    <contour>
+      <point x="994" y="381" type="curve"/>
+      <point x="1000" y="395"/>
+      <point x="1005" y="408"/>
+      <point x="1005" y="428" type="curve"/>
+      <point x="617" y="428" type="line"/>
+      <point x="631" y="383" type="line"/>
+      <point x="752" y="383"/>
+      <point x="873" y="382"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+    </dict>
+  </lib>
+</glyph>

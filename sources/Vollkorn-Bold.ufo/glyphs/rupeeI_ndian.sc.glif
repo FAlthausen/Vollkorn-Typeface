@@ -1,0 +1,90 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="rupeeIndian.sc" format="2">
+  <advance width="531"/>
+  <outline>
+    <contour>
+      <point x="250" y="-7" type="curve"/>
+      <point x="281" y="-3"/>
+      <point x="377" y="0"/>
+      <point x="490" y="0" type="curve"/>
+      <point x="496" y="22"/>
+      <point x="501" y="47"/>
+      <point x="501" y="73" type="curve"/>
+      <point x="450" y="77"/>
+      <point x="446" y="74"/>
+      <point x="420" y="101" type="curve" smooth="yes"/>
+      <point x="367" y="156"/>
+      <point x="364" y="192"/>
+      <point x="293" y="197" type="curve"/>
+      <point x="244" y="185" type="line"/>
+      <point x="333" y="185"/>
+      <point x="406" y="226"/>
+      <point x="406" y="325" type="curve" smooth="yes"/>
+      <point x="406" y="382"/>
+      <point x="382" y="439"/>
+      <point x="328" y="434" type="curve"/>
+      <point x="330" y="421" type="line"/>
+      <point x="381" y="422"/>
+      <point x="428" y="422"/>
+      <point x="484" y="422" type="curve"/>
+      <point x="492" y="439"/>
+      <point x="498" y="470"/>
+      <point x="498" y="500" type="curve"/>
+      <point x="65" y="500" type="line"/>
+      <point x="56" y="483"/>
+      <point x="50" y="449"/>
+      <point x="50" y="421" type="curve"/>
+      <point x="104" y="421" type="line" smooth="yes"/>
+      <point x="175" y="421"/>
+      <point x="210" y="390"/>
+      <point x="210" y="338" type="curve" smooth="yes"/>
+      <point x="210" y="275"/>
+      <point x="159" y="250"/>
+      <point x="113" y="250" type="curve" smooth="yes"/>
+      <point x="65" y="250" type="line"/>
+      <point x="56" y="231"/>
+      <point x="50" y="195"/>
+      <point x="50" y="166" type="curve"/>
+      <point x="195" y="168" type="line"/>
+      <point x="153" y="176" type="line"/>
+      <point x="170" y="170"/>
+      <point x="187" y="152"/>
+      <point x="208" y="104" type="curve" smooth="yes"/>
+      <point x="222" y="71"/>
+      <point x="237" y="31"/>
+    </contour>
+    <contour>
+      <point x="50" y="292" type="curve"/>
+      <point x="250" y="298"/>
+      <point x="342" y="298"/>
+      <point x="484" y="298" type="curve"/>
+      <point x="492" y="315"/>
+      <point x="498" y="345"/>
+      <point x="498" y="375" type="curve"/>
+      <point x="65" y="375" type="line"/>
+      <point x="56" y="356"/>
+      <point x="50" y="321"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>adjustSpace</key>
+        <integer>18</integer>
+        <key>height</key>
+        <integer>74</integer>
+        <key>weight</key>
+        <integer>-12</integer>
+        <key>width</key>
+        <integer>80</integer>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>=h.sc</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=r.sc</string>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

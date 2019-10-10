@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ghemiddlehook-cy" format="2">
+  <advance width="546"/>
+  <unicode hex="0495"/>
+  <outline>
+    <contour>
+      <point x="179" y="-249" type="curve" smooth="yes"/>
+      <point x="314" y="-249"/>
+      <point x="441" y="-108"/>
+      <point x="471" y="36" type="curve" smooth="yes"/>
+      <point x="494" y="147"/>
+      <point x="456" y="219"/>
+      <point x="380" y="219" type="curve" smooth="yes"/>
+      <point x="325" y="219"/>
+      <point x="265" y="182"/>
+      <point x="218" y="108" type="curve"/>
+      <point x="238" y="110" type="line"/>
+      <point x="264" y="210"/>
+      <point x="314" y="265"/>
+      <point x="327" y="333" type="curve" smooth="yes"/>
+      <point x="344" y="417"/>
+      <point x="292" y="467"/>
+      <point x="210" y="467" type="curve" smooth="yes"/>
+      <point x="137" y="467"/>
+      <point x="92" y="426"/>
+      <point x="63" y="392" type="curve"/>
+      <point x="65" y="380"/>
+      <point x="74" y="366"/>
+      <point x="84" y="360" type="curve"/>
+      <point x="113" y="387"/>
+      <point x="147" y="406"/>
+      <point x="184" y="406" type="curve" smooth="yes"/>
+      <point x="229" y="406"/>
+      <point x="241" y="378"/>
+      <point x="235" y="335" type="curve" smooth="yes"/>
+      <point x="223" y="251"/>
+      <point x="158" y="212"/>
+      <point x="123" y="0" type="curve"/>
+      <point x="212" y="0" type="line"/>
+      <point x="228" y="78"/>
+      <point x="274" y="127"/>
+      <point x="319" y="127" type="curve" smooth="yes"/>
+      <point x="366" y="127"/>
+      <point x="381" y="74"/>
+      <point x="362" y="-23" type="curve" smooth="yes"/>
+      <point x="343" y="-120"/>
+      <point x="307" y="-172"/>
+      <point x="193" y="-172" type="curve" smooth="yes"/>
+      <point x="157" y="-172"/>
+      <point x="135" y="-167"/>
+      <point x="118" y="-160" type="curve"/>
+      <point x="112" y="-176"/>
+      <point x="105" y="-203"/>
+      <point x="108" y="-215" type="curve"/>
+      <point x="117" y="-234"/>
+      <point x="135" y="-249"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>height</key>
+        <real>67.7</real>
+        <key>width</key>
+        <integer>81</integer>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>=en-cy</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=o</string>
+    </dict>
+  </lib>
+</glyph>

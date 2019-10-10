@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="rightOverLeftArrow" format="2">
+  <advance width="859"/>
+  <unicode hex="21C4"/>
+  <outline>
+    <component base="leftArrow" yOffset="-147"/>
+    <component base="rightArrow" yOffset="114"/>
+  </outline>
+</glyph>

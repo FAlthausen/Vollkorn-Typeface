@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_part.ustraitstroke-cy" format="2">
+  <advance width="593"/>
+  <anchor x="305" y="40" name="_center"/>
+  <outline>
+    <contour>
+      <point x="88" y="-2" type="curve"/>
+      <point x="176" y="2"/>
+      <point x="427" y="3"/>
+      <point x="512" y="3" type="curve"/>
+      <point x="520" y="29"/>
+      <point x="522" y="59"/>
+      <point x="522" y="76" type="curve"/>
+      <point x="97" y="76" type="line"/>
+      <point x="90" y="53"/>
+      <point x="88" y="22"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+    </dict>
+  </lib>
+</glyph>

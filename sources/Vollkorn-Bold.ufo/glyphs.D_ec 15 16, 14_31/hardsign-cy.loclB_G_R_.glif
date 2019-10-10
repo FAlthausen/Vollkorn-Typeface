@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hardsign-cy.loclBGR" format="2">
+  <advance width="754"/>
+  <outline>
+    <contour>
+      <point x="448" y="-6" type="curve" smooth="yes"/>
+      <point x="649" y="-6"/>
+      <point x="724" y="45"/>
+      <point x="724" y="131" type="curve" smooth="yes"/>
+      <point x="724" y="225"/>
+      <point x="635" y="277"/>
+      <point x="440" y="277" type="curve" smooth="yes"/>
+      <point x="413" y="277"/>
+      <point x="396" y="276"/>
+      <point x="379" y="274" type="curve"/>
+      <point x="379" y="198" type="line"/>
+      <point x="395" y="201"/>
+      <point x="409" y="202"/>
+      <point x="420" y="202" type="curve" smooth="yes"/>
+      <point x="483" y="202"/>
+      <point x="510" y="170"/>
+      <point x="510" y="126" type="curve" smooth="yes"/>
+      <point x="510" y="86"/>
+      <point x="487" y="68"/>
+      <point x="448" y="68" type="curve" smooth="yes"/>
+      <point x="405" y="68"/>
+      <point x="387" y="89"/>
+      <point x="387" y="139" type="curve" smooth="yes"/>
+      <point x="387" y="460" type="line"/>
+      <point x="326" y="458"/>
+      <point x="264" y="458"/>
+      <point x="203" y="458" type="curve" smooth="yes"/>
+      <point x="141" y="458"/>
+      <point x="97" y="458"/>
+      <point x="27" y="460" type="curve"/>
+      <point x="27" y="423"/>
+      <point x="22" y="363"/>
+      <point x="10" y="330" type="curve"/>
+      <point x="35" y="316"/>
+      <point x="71" y="307"/>
+      <point x="110" y="307" type="curve"/>
+      <point x="120" y="369"/>
+      <point x="134" y="390"/>
+      <point x="185" y="390" type="curve" smooth="yes"/>
+      <point x="213" y="390" type="line"/>
+      <point x="197" y="404" type="line"/>
+      <point x="197" y="133" type="line" smooth="yes"/>
+      <point x="197" y="34"/>
+      <point x="270" y="-6"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>=v</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=o</string>
+    </dict>
+  </lib>
+</glyph>

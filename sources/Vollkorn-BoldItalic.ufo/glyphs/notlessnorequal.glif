@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="notlessnorequal" format="2">
+  <advance width="550"/>
+  <unicode hex="2270"/>
+  <outline>
+    <component base="lessequal"/>
+    <component base="_negationslash" xOffset="-20"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>=lessequal</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=lessequal</string>
+    </dict>
+  </lib>
+</glyph>

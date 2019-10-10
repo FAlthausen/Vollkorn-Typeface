@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="__tail-cy" format="2">
+  <outline>
+    <contour>
+      <point x="-43" y="-174" type="curve"/>
+      <point x="25" y="-98"/>
+      <point x="56" y="-48"/>
+      <point x="74" y="0" type="curve"/>
+      <point x="74" y="14"/>
+      <point x="69" y="30"/>
+      <point x="59" y="40" type="curve"/>
+      <point x="-64" y="40" type="line"/>
+      <point x="-64" y="0" type="line"/>
+      <point x="-11" y="0"/>
+      <point x="-4" y="-21"/>
+      <point x="-90" y="-144" type="curve"/>
+      <point x="-82" y="-158"/>
+      <point x="-62" y="-171"/>
+    </contour>
+  </outline>
+</glyph>

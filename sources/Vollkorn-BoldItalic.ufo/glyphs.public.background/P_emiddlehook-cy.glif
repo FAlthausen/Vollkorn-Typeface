@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Pemiddlehook-cy" format="2">
+  <outline>
+    <component base="Pe-cy" xOffset="-20"/>
+    <component base="__Middlehook-cy" xOffset="767"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>0</integer>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

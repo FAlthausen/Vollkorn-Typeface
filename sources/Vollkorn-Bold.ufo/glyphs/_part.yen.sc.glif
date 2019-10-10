@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_part.yen.sc" format="2">
+  <advance width="556"/>
+  <anchor x="319" y="187" name="_center"/>
+  <outline>
+    <contour>
+      <point x="239" y="221" type="line"/>
+      <point x="216" y="292" type="line"/>
+      <point x="106" y="292" type="line"/>
+      <point x="98" y="273"/>
+      <point x="96" y="249"/>
+      <point x="96" y="220" type="curve"/>
+    </contour>
+    <contour>
+      <point x="260" y="114" type="line"/>
+      <point x="260" y="187" type="line"/>
+      <point x="111" y="187" type="line"/>
+      <point x="101" y="164"/>
+      <point x="101" y="143"/>
+      <point x="101" y="114" type="curve"/>
+    </contour>
+    <contour>
+      <point x="392" y="187" type="line"/>
+      <point x="392" y="114" type="line"/>
+      <point x="509" y="114" type="line"/>
+      <point x="515" y="138"/>
+      <point x="520" y="157"/>
+      <point x="520" y="187" type="curve"/>
+    </contour>
+    <contour>
+      <point x="422" y="292" type="line"/>
+      <point x="401" y="221" type="line"/>
+      <point x="512" y="220" type="line"/>
+      <point x="519" y="244"/>
+      <point x="521" y="264"/>
+      <point x="521" y="292" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

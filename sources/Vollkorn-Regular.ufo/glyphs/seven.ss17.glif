@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="seven.ss17" format="2">
+  <advance width="485"/>
+  <outline>
+    <contour>
+      <point x="416" y="221" type="curve"/>
+      <point x="111" y="221" type="line"/>
+      <point x="104" y="208"/>
+      <point x="100" y="183"/>
+      <point x="100" y="165" type="curve"/>
+      <point x="172" y="168"/>
+      <point x="263" y="168"/>
+      <point x="405" y="168" type="curve"/>
+      <point x="414" y="182"/>
+      <point x="416" y="201"/>
+    </contour>
+    <component base="seven"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

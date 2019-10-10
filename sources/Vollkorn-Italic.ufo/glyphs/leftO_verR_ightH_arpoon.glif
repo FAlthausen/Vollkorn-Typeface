@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="leftOverRightHarpoon" format="2">
+  <advance width="900"/>
+  <unicode hex="21CB"/>
+  <outline>
+    <component base="rightBarbUpHarpoon" xScale="-1" xOffset="890" yOffset="111"/>
+    <component base="rightBarbdownHarpoon" xOffset="10" yOffset="-100"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>-1</integer>
+        <integer>-1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

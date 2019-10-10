@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="OdoubleStruck" format="2">
+  <outline>
+    <contour>
+      <point x="245" y="33" type="line"/>
+      <point x="245" y="639" type="line"/>
+      <point x="185" y="606" type="line"/>
+      <point x="185" y="69" type="line"/>
+    </contour>
+    <contour>
+      <point x="364" y="-9" type="curve" smooth="yes"/>
+      <point x="560" y="-9"/>
+      <point x="696" y="142"/>
+      <point x="696" y="341" type="curve" smooth="yes"/>
+      <point x="696" y="545"/>
+      <point x="554" y="685"/>
+      <point x="366" y="685" type="curve" smooth="yes"/>
+      <point x="178" y="685"/>
+      <point x="35" y="544"/>
+      <point x="35" y="339" type="curve" smooth="yes"/>
+      <point x="35" y="141"/>
+      <point x="168" y="-9"/>
+    </contour>
+    <contour>
+      <point x="376" y="40" type="curve" smooth="yes"/>
+      <point x="214" y="40"/>
+      <point x="109" y="184"/>
+      <point x="109" y="354" type="curve" smooth="yes"/>
+      <point x="109" y="520"/>
+      <point x="209" y="637"/>
+      <point x="346" y="637" type="curve" smooth="yes"/>
+      <point x="494" y="637"/>
+      <point x="606" y="500"/>
+      <point x="606" y="319" type="curve" smooth="yes"/>
+      <point x="606" y="170"/>
+      <point x="530" y="40"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="IJ" format="2">
+  <advance width="771"/>
+  <unicode hex="0132"/>
+  <outline>
+    <contour>
+      <point x="187" y="176" type="move"/>
+    </contour>
+    <component base="I"/>
+    <component base="J" xOffset="378"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>I</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>J</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,115 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tetse-cy.sc" format="2">
+  <advance width="1055"/>
+  <outline>
+    <contour>
+      <point x="207" y="-2" type="curve"/>
+      <point x="258" y="-1"/>
+      <point x="372" y="0"/>
+      <point x="546" y="0" type="curve" smooth="yes"/>
+      <point x="726" y="0" type="line" smooth="yes"/>
+      <point x="849" y="0"/>
+      <point x="947" y="-1"/>
+      <point x="975" y="-2" type="curve"/>
+      <point x="975" y="21"/>
+      <point x="971" y="55"/>
+      <point x="966" y="75" type="curve"/>
+      <point x="916" y="84"/>
+      <point x="910" y="90"/>
+      <point x="910" y="171" type="curve" smooth="yes"/>
+      <point x="910" y="326" type="line" smooth="yes"/>
+      <point x="910" y="410"/>
+      <point x="917" y="421"/>
+      <point x="965" y="425" type="curve"/>
+      <point x="970" y="443"/>
+      <point x="975" y="482"/>
+      <point x="975" y="502" type="curve"/>
+      <point x="931" y="501"/>
+      <point x="861" y="500"/>
+      <point x="795" y="500" type="curve" smooth="yes"/>
+      <point x="734" y="500"/>
+      <point x="683" y="501"/>
+      <point x="661" y="502" type="curve"/>
+      <point x="661" y="479"/>
+      <point x="664" y="442"/>
+      <point x="668" y="425" type="curve"/>
+      <point x="704" y="421"/>
+      <point x="712" y="410"/>
+      <point x="712" y="326" type="curve" smooth="yes"/>
+      <point x="712" y="171" type="line" smooth="yes"/>
+      <point x="712" y="106"/>
+      <point x="703" y="88"/>
+      <point x="668" y="82" type="curve" smooth="yes"/>
+      <point x="657" y="80"/>
+      <point x="642" y="76"/>
+      <point x="590" y="76" type="curve" smooth="yes"/>
+      <point x="537" y="76"/>
+      <point x="523" y="80"/>
+      <point x="512" y="82" type="curve" smooth="yes"/>
+      <point x="473" y="89"/>
+      <point x="466" y="105"/>
+      <point x="466" y="171" type="curve" smooth="yes"/>
+      <point x="466" y="456" type="line"/>
+      <point x="273" y="456" type="line"/>
+      <point x="273" y="171" type="line" smooth="yes"/>
+      <point x="273" y="90"/>
+      <point x="265" y="81"/>
+      <point x="216" y="75" type="curve"/>
+      <point x="207" y="47"/>
+      <point x="207" y="22"/>
+    </contour>
+    <contour>
+      <point x="144" y="329" type="curve"/>
+      <point x="159" y="399"/>
+      <point x="182" y="423"/>
+      <point x="226" y="423" type="curve" smooth="yes"/>
+      <point x="475" y="423" type="line" smooth="yes"/>
+      <point x="516" y="423"/>
+      <point x="532" y="400"/>
+      <point x="545" y="329" type="curve"/>
+      <point x="584" y="330"/>
+      <point x="619" y="335"/>
+      <point x="645" y="345" type="curve"/>
+      <point x="630" y="387"/>
+      <point x="621" y="457"/>
+      <point x="621" y="502" type="curve"/>
+      <point x="543" y="500"/>
+      <point x="475" y="500"/>
+      <point x="343" y="500" type="curve" smooth="yes"/>
+      <point x="196" y="500"/>
+      <point x="145" y="500"/>
+      <point x="68" y="502" type="curve"/>
+      <point x="68" y="456"/>
+      <point x="58" y="383"/>
+      <point x="45" y="344" type="curve"/>
+      <point x="72" y="331"/>
+      <point x="108" y="329"/>
+    </contour>
+    <contour>
+      <point x="884" y="-128" type="curve"/>
+      <point x="918" y="-141"/>
+      <point x="965" y="-141"/>
+      <point x="995" y="-128" type="curve"/>
+      <point x="994" y="-84"/>
+      <point x="998" y="-38"/>
+      <point x="1005" y="0" type="curve"/>
+      <point x="1005" y="30"/>
+      <point x="999" y="54"/>
+      <point x="986" y="75" type="curve"/>
+      <point x="917" y="75" type="line"/>
+      <point x="867" y="35" type="line"/>
+      <point x="879" y="-26"/>
+      <point x="884" y="-85"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>=T+20</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=Tse-cy+20</string>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

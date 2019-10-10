@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_part.yen" format="2">
+  <advance width="620"/>
+  <anchor x="319" y="226" name="_center"/>
+  <outline>
+    <contour>
+      <point x="244" y="312" type="line"/>
+      <point x="218" y="388" type="line"/>
+      <point x="92" y="388" type="line"/>
+      <point x="83" y="367"/>
+      <point x="81" y="341"/>
+      <point x="81" y="311" type="curve"/>
+    </contour>
+    <contour>
+      <point x="226" y="176" type="line"/>
+      <point x="226" y="253" type="line"/>
+      <point x="96" y="253" type="line"/>
+      <point x="85" y="229"/>
+      <point x="84" y="205"/>
+      <point x="84" y="176" type="curve"/>
+    </contour>
+    <contour>
+      <point x="403" y="253" type="line"/>
+      <point x="403" y="176" type="line"/>
+      <point x="541" y="176" type="line"/>
+      <point x="548" y="200"/>
+      <point x="553" y="222"/>
+      <point x="553" y="253" type="curve"/>
+    </contour>
+    <contour>
+      <point x="437" y="388" type="line"/>
+      <point x="413" y="312" type="line"/>
+      <point x="544" y="311" type="line"/>
+      <point x="552" y="336"/>
+      <point x="555" y="357"/>
+      <point x="555" y="388" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+    </dict>
+  </lib>
+</glyph>

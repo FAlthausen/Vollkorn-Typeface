@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="radical" format="2">
+  <advance width="574"/>
+  <unicode hex="221A"/>
+  <outline>
+    <contour>
+      <point x="239" y="-150" type="line"/>
+      <point x="272" y="-152"/>
+      <point x="305" y="-146"/>
+      <point x="335" y="-134" type="curve"/>
+      <point x="561" y="795" type="line"/>
+      <point x="493" y="762" type="line"/>
+      <point x="688" y="762" type="line"/>
+      <point x="697" y="786"/>
+      <point x="702" y="823"/>
+      <point x="702" y="852" type="curve"/>
+      <point x="482" y="852" type="line"/>
+      <point x="293" y="58" type="line"/>
+      <point x="343" y="28" type="line"/>
+      <point x="268" y="307" type="line"/>
+      <point x="31" y="307" type="line"/>
+      <point x="24" y="284"/>
+      <point x="20" y="243"/>
+      <point x="20" y="217" type="curve"/>
+      <point x="224" y="217" type="line"/>
+      <point x="86" y="296" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>=20</string>
+    </dict>
+  </lib>
+</glyph>

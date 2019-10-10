@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tildecomb_macroncomb" format="2">
+  <outline>
+    <component base="tildecomb.case" xOffset="-25" yOffset="-200"/>
+    <component base="macroncomb.case" xOffset="12" yOffset="-29"/>
+  </outline>
+</glyph>

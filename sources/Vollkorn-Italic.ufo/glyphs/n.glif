@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="n" format="2">
+  <advance width="518"/>
+  <unicode hex="006E"/>
+  <anchor x="245" y="0" name="bottom"/>
+  <anchor x="485" y="58" name="bottomright"/>
+  <anchor x="429" y="230" name="right"/>
+  <anchor x="305" y="458" name="top"/>
+  <outline>
+    <contour>
+      <point x="42" y="0" type="line"/>
+      <point x="133" y="0" type="line"/>
+      <point x="158" y="130" type="line"/>
+      <point x="172" y="278" type="line"/>
+      <point x="186" y="311"/>
+      <point x="198" y="345"/>
+      <point x="209" y="402" type="curve"/>
+      <point x="215" y="439"/>
+      <point x="209" y="460"/>
+      <point x="188" y="467" type="curve"/>
+      <point x="159" y="452"/>
+      <point x="84" y="429"/>
+      <point x="52" y="426" type="curve"/>
+      <point x="46" y="416"/>
+      <point x="46" y="402"/>
+      <point x="46" y="388" type="curve"/>
+      <point x="110" y="388"/>
+      <point x="115" y="384"/>
+      <point x="97" y="291" type="curve" smooth="yes"/>
+    </contour>
+    <component base="schulter.comp" xOffset="4"/>
+  </outline>
+</glyph>

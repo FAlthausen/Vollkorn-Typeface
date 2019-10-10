@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="esdescendercomb.loclBSH" format="2">
+  <anchor x="110" y="0" name="_bottom"/>
+  <outline>
+    <contour>
+      <point x="108" y="-210" type="curve" smooth="yes"/>
+      <point x="144" y="-210"/>
+      <point x="173" y="-180"/>
+      <point x="173" y="-126" type="curve" smooth="yes"/>
+      <point x="173" y="-64"/>
+      <point x="135" y="-21"/>
+      <point x="98" y="11" type="curve"/>
+      <point x="60" y="0" type="line"/>
+      <point x="80" y="-23"/>
+      <point x="90" y="-51"/>
+      <point x="90" y="-72" type="curve" smooth="yes"/>
+      <point x="90" y="-90"/>
+      <point x="83" y="-98"/>
+      <point x="74" y="-104" type="curve" smooth="yes"/>
+      <point x="57" y="-115"/>
+      <point x="50" y="-133"/>
+      <point x="50" y="-151" type="curve" smooth="yes"/>
+      <point x="50" y="-184"/>
+      <point x="75" y="-210"/>
+    </contour>
+  </outline>
+</glyph>

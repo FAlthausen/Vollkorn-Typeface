@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="chedescender-cy.sc" format="2">
+  <outline>
+    <component base="che-cy.sc"/>
+    <component base="descender-cy" xOffset="593" yOffset="40"/>
+  </outline>
+</glyph>

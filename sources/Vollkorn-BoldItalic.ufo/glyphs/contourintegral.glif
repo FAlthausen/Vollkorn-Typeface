@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="contourintegral" format="2">
+  <advance width="474"/>
+  <unicode hex="222E"/>
+  <outline>
+    <contour>
+      <point x="248" y="76" type="curve" smooth="yes"/>
+      <point x="382" y="76"/>
+      <point x="471" y="161"/>
+      <point x="471" y="289" type="curve" smooth="yes"/>
+      <point x="471" y="416"/>
+      <point x="382" y="500"/>
+      <point x="248" y="500" type="curve" smooth="yes"/>
+      <point x="115" y="500"/>
+      <point x="26" y="416"/>
+      <point x="26" y="289" type="curve" smooth="yes"/>
+      <point x="26" y="161"/>
+      <point x="115" y="76"/>
+    </contour>
+    <contour>
+      <point x="248" y="153" type="curve" smooth="yes"/>
+      <point x="166" y="153"/>
+      <point x="111" y="207"/>
+      <point x="111" y="288" type="curve" smooth="yes"/>
+      <point x="111" y="367"/>
+      <point x="166" y="422"/>
+      <point x="248" y="422" type="curve" smooth="yes"/>
+      <point x="331" y="422"/>
+      <point x="386" y="367"/>
+      <point x="386" y="288" type="curve" smooth="yes"/>
+      <point x="386" y="207"/>
+      <point x="331" y="153"/>
+    </contour>
+    <component base="integral" xOffset="41"/>
+  </outline>
+</glyph>

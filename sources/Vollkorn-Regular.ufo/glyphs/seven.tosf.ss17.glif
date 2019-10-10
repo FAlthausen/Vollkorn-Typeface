@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="seven.tosf.ss17" format="2">
+  <advance width="550"/>
+  <outline>
+    <contour>
+      <point x="469" y="203" type="curve"/>
+      <point x="126" y="203" type="line"/>
+      <point x="118" y="190"/>
+      <point x="114" y="165"/>
+      <point x="114" y="147" type="curve"/>
+      <point x="195" y="150"/>
+      <point x="296" y="150"/>
+      <point x="457" y="150" type="curve"/>
+      <point x="467" y="164"/>
+      <point x="469" y="183"/>
+    </contour>
+    <component base="seven.tosf" xOffset="-3"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>monoWidth</key>
+        <integer>550</integer>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
+      <string>=550</string>
+      <key>public.markColor</key>
+      <string>0.65,0.48,0.2,1</string>
+    </dict>
+  </lib>
+</glyph>

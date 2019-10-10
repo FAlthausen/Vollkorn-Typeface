@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_part.gstroke.black" format="2">
+  <advance width="511"/>
+  <anchor x="253" y="-98" name="_center"/>
+  <outline>
+    <contour>
+      <point x="417" y="-75" type="line"/>
+      <point x="417" y="-118" type="line"/>
+      <point x="451" y="-118"/>
+      <point x="483" y="-118"/>
+      <point x="512" y="-118" type="curve"/>
+      <point x="518" y="-103"/>
+      <point x="520" y="-89"/>
+      <point x="520" y="-75" type="curve"/>
+    </contour>
+    <contour>
+      <point x="93" y="-119" type="curve"/>
+      <point x="93" y="-75" type="line"/>
+      <point x="-8" y="-75" type="line"/>
+      <point x="-13" y="-87"/>
+      <point x="-16" y="-113"/>
+      <point x="-16" y="-121" type="curve"/>
+      <point x="18" y="-120"/>
+      <point x="55" y="-120"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+    </dict>
+  </lib>
+</glyph>

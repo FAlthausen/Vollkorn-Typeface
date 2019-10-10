@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="brevecomb.case" format="2">
+  <anchor x="338" y="676" name="_top"/>
+  <anchor x="369" y="854" name="top"/>
+  <outline>
+    <contour>
+      <point x="336" y="722" type="curve" smooth="yes"/>
+      <point x="473" y="722"/>
+      <point x="554" y="773"/>
+      <point x="572" y="874" type="curve"/>
+      <point x="548" y="884"/>
+      <point x="516" y="888"/>
+      <point x="482" y="880" type="curve"/>
+      <point x="471" y="841"/>
+      <point x="429" y="823"/>
+      <point x="366" y="823" type="curve" smooth="yes"/>
+      <point x="302" y="823"/>
+      <point x="265" y="841"/>
+      <point x="265" y="880" type="curve"/>
+      <point x="229" y="886"/>
+      <point x="188" y="882"/>
+      <point x="157" y="871" type="curve"/>
+      <point x="140" y="771"/>
+      <point x="201" y="722"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>height</key>
+        <integer>75</integer>
+        <key>verticalShift</key>
+        <integer>340</integer>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>480</integer>
+    </dict>
+  </lib>
+</glyph>

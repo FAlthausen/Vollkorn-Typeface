@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_part.dollar.sc.black" format="2">
+  <advance width="510"/>
+  <anchor x="252" y="500" name="_top"/>
+  <outline>
+    <contour>
+      <point x="279" y="39" type="curve"/>
+      <point x="197" y="39" type="line"/>
+      <point x="197" y="-83" type="line"/>
+      <point x="213" y="-93"/>
+      <point x="256" y="-97"/>
+      <point x="280" y="-97" type="curve"/>
+      <point x="279" y="-47"/>
+      <point x="279" y="-3"/>
+    </contour>
+    <contour>
+      <point x="210" y="454" type="line"/>
+      <point x="291" y="454" type="line"/>
+      <point x="291" y="491"/>
+      <point x="292" y="533"/>
+      <point x="292" y="587" type="curve"/>
+      <point x="267" y="598"/>
+      <point x="236" y="602"/>
+      <point x="210" y="602" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

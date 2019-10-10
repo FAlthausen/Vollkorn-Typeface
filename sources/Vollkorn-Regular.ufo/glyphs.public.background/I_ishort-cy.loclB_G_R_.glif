@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Iishort-cy.loclBGR" format="2">
+  <outline>
+    <component base="Ii-cy.loclBGR"/>
+    <component base="brevecomb-cy.case" xOffset="152"/>
+  </outline>
+</glyph>

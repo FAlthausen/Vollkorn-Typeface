@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="seven.tf.ss17" format="2">
+  <advance width="550"/>
+  <outline>
+    <contour>
+      <point x="516" y="370" type="curve"/>
+      <point x="136" y="370" type="line"/>
+      <point x="127" y="349"/>
+      <point x="120" y="310"/>
+      <point x="120" y="278" type="curve"/>
+      <point x="202" y="284"/>
+      <point x="350" y="284"/>
+      <point x="500" y="284" type="curve"/>
+      <point x="510" y="304"/>
+      <point x="516" y="337"/>
+    </contour>
+    <component base="seven.tf"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
+      <string>=550</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

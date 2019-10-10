@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_part.Lslash.titl" format="2">
+  <advance width="467"/>
+  <anchor x="50" y="338" name="_center"/>
+  <outline>
+    <contour>
+      <point x="50" y="145" type="line"/>
+      <point x="164" y="220"/>
+      <point x="282" y="293"/>
+      <point x="402" y="364" type="curve"/>
+      <point x="400" y="386"/>
+      <point x="389" y="417"/>
+      <point x="372" y="445" type="curve"/>
+      <point x="50" y="253" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+    </dict>
+  </lib>
+</glyph>

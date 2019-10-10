@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_part.Fita-cy" format="2">
+  <advance width="761"/>
+  <anchor x="381" y="340" name="_center"/>
+  <outline>
+    <contour>
+      <point x="226" y="258" type="line"/>
+      <point x="249" y="290"/>
+      <point x="280" y="308"/>
+      <point x="311" y="308" type="curve" smooth="yes"/>
+      <point x="364" y="308"/>
+      <point x="371" y="255"/>
+      <point x="429" y="255" type="curve" smooth="yes"/>
+      <point x="471" y="255"/>
+      <point x="508" y="282"/>
+      <point x="535" y="322" type="curve"/>
+      <point x="535" y="416" type="line"/>
+      <point x="517" y="382"/>
+      <point x="484" y="363"/>
+      <point x="451" y="363" type="curve" smooth="yes"/>
+      <point x="396" y="363"/>
+      <point x="396" y="415"/>
+      <point x="333" y="415" type="curve" smooth="yes"/>
+      <point x="290" y="415"/>
+      <point x="253" y="391"/>
+      <point x="226" y="350" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+    </dict>
+  </lib>
+</glyph>

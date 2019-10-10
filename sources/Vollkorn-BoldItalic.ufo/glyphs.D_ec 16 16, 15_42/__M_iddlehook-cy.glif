@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="__Middlehook-cy" format="2">
+  <advance width="142"/>
+  <anchor x="-80" y="350" name="_right"/>
+  <outline>
+    <contour>
+      <point x="-73" y="-246" type="curve"/>
+      <point x="101" y="-192"/>
+      <point x="213" y="-97"/>
+      <point x="240" y="91" type="curve" smooth="yes"/>
+      <point x="256" y="203"/>
+      <point x="252" y="376"/>
+      <point x="-78" y="376" type="curve"/>
+      <point x="-87" y="301" type="line"/>
+      <point x="30" y="301"/>
+      <point x="77" y="210"/>
+      <point x="44" y="53" type="curve" smooth="yes"/>
+      <point x="18" y="-70"/>
+      <point x="-35" y="-132"/>
+      <point x="-104" y="-167" type="curve"/>
+      <point x="-104" y="-203"/>
+      <point x="-94" y="-228"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+    </dict>
+  </lib>
+</glyph>

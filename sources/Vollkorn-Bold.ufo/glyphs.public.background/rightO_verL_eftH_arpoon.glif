@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="rightOverLeftHarpoon" format="2">
+  <outline>
+    <component base="rightBarbUpHarpoon" xOffset="48" yOffset="130"/>
+    <component base="rightBarbdownHarpoon" xScale="-1" xOffset="813" yOffset="-130"/>
+  </outline>
+</glyph>

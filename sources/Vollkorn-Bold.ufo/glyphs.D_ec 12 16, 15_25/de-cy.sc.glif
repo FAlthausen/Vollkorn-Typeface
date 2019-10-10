@@ -1,0 +1,112 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="de-cy.sc" format="2">
+  <advance width="695"/>
+  <outline>
+    <contour>
+      <point x="51" y="0" type="line"/>
+      <point x="615" y="0" type="line"/>
+      <point x="615" y="78" type="line"/>
+      <point x="565" y="86"/>
+      <point x="558" y="93"/>
+      <point x="558" y="171" type="curve" smooth="yes"/>
+      <point x="558" y="335" type="line" smooth="yes"/>
+      <point x="558" y="409"/>
+      <point x="566" y="417"/>
+      <point x="615" y="422" type="curve"/>
+      <point x="624" y="451"/>
+      <point x="624" y="476"/>
+      <point x="624" y="502" type="curve"/>
+      <point x="590" y="501"/>
+      <point x="516" y="500"/>
+      <point x="348" y="500" type="curve" smooth="yes"/>
+      <point x="234" y="500"/>
+      <point x="155" y="500"/>
+      <point x="109" y="502" type="curve"/>
+      <point x="109" y="478"/>
+      <point x="113" y="443"/>
+      <point x="118" y="422" type="curve"/>
+      <point x="195" y="415"/>
+      <point x="201" y="409"/>
+      <point x="198" y="336" type="curve" smooth="yes"/>
+      <point x="193" y="217"/>
+      <point x="180" y="197"/>
+      <point x="118" y="122" type="curve" smooth="yes"/>
+      <point x="93" y="92"/>
+      <point x="76" y="78"/>
+      <point x="51" y="78" type="curve"/>
+    </contour>
+    <contour>
+      <point x="28" y="-119" type="curve"/>
+      <point x="57" y="-134"/>
+      <point x="104" y="-134"/>
+      <point x="137" y="-119" type="curve"/>
+      <point x="138" y="-87"/>
+      <point x="142" y="-34"/>
+      <point x="152" y="32" type="curve"/>
+      <point x="101" y="78" type="line"/>
+      <point x="38" y="78" type="line"/>
+      <point x="25" y="55"/>
+      <point x="20" y="31"/>
+      <point x="20" y="-3" type="curve"/>
+      <point x="26" y="-38"/>
+      <point x="29" y="-84"/>
+    </contour>
+    <contour>
+      <point x="527" y="-119" type="curve"/>
+      <point x="561" y="-134"/>
+      <point x="607" y="-134"/>
+      <point x="637" y="-119" type="curve"/>
+      <point x="635" y="-84"/>
+      <point x="639" y="-38"/>
+      <point x="645" y="-3" type="curve"/>
+      <point x="645" y="31"/>
+      <point x="639" y="55"/>
+      <point x="627" y="78" type="curve"/>
+      <point x="564" y="78" type="line"/>
+      <point x="513" y="32" type="line"/>
+      <point x="523" y="-34"/>
+      <point x="527" y="-87"/>
+    </contour>
+    <contour>
+      <point x="163" y="78" type="line"/>
+      <point x="239" y="168"/>
+      <point x="265" y="249"/>
+      <point x="270" y="335" type="curve" smooth="yes"/>
+      <point x="272" y="374"/>
+      <point x="269" y="403"/>
+      <point x="283" y="416" type="curve" smooth="yes"/>
+      <point x="290" y="423"/>
+      <point x="301" y="425"/>
+      <point x="315" y="425" type="curve" smooth="yes"/>
+      <point x="328" y="425"/>
+      <point x="340" y="423"/>
+      <point x="347" y="417" type="curve" smooth="yes"/>
+      <point x="364" y="403"/>
+      <point x="361" y="374"/>
+      <point x="361" y="335" type="curve" smooth="yes"/>
+      <point x="361" y="171" type="line" smooth="yes"/>
+      <point x="361" y="90"/>
+      <point x="357" y="78"/>
+      <point x="278" y="78" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>height</key>
+        <integer>74</integer>
+        <key>weight</key>
+        <integer>-5</integer>
+        <key>width</key>
+        <integer>88</integer>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>=De-cy+20</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=Tse-cy+20</string>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

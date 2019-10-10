@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="iegrave-cy.sc" format="2">
+  <advance width="629"/>
+  <outline>
+    <component base="ie-cy.sc"/>
+    <component base="gravecomb" xOffset="98" yOffset="42"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

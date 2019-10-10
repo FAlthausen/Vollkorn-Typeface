@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_part.cedi.sc" format="2">
+  <advance width="572"/>
+  <anchor x="329" y="500" name="_top"/>
+  <outline>
+    <contour>
+      <point x="352" y="-105" type="curve"/>
+      <point x="350" y="28"/>
+      <point x="350" y="108"/>
+      <point x="350" y="255" type="curve" smooth="yes"/>
+      <point x="350" y="381"/>
+      <point x="350" y="474"/>
+      <point x="352" y="584" type="curve"/>
+      <point x="338" y="591"/>
+      <point x="325" y="593"/>
+      <point x="306" y="593" type="curve"/>
+      <point x="306" y="-95" type="line"/>
+      <point x="315" y="-101"/>
+      <point x="337" y="-105"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>height</key>
+        <integer>74</integer>
+        <key>width</key>
+        <integer>88</integer>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

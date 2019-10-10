@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="cheabkhasian-cy" format="2">
+  <outline>
+    <component base="e" xOffset="120"/>
+    <component base="_part.cheabkhasian" yOffset="-23"/>
+  </outline>
+</glyph>

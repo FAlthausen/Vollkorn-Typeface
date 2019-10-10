@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="franc" format="2">
+  <advance width="617"/>
+  <unicode hex="20A3"/>
+  <outline>
+    <component base="F"/>
+    <component base="strokeshortcomb.case" xScale="0.85" xOffset="-20" yOffset="-168"/>
+  </outline>
+</glyph>

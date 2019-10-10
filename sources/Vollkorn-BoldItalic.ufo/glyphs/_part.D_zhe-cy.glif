@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_part.Dzhe-cy" format="2">
+  <advance width="391"/>
+  <anchor x="155" y="0" name="_bottom"/>
+  <outline>
+    <contour>
+      <point x="64" y="-169" type="curve"/>
+      <point x="98" y="-182"/>
+      <point x="149" y="-182"/>
+      <point x="187" y="-169" type="curve"/>
+      <point x="215" y="-34"/>
+      <point x="219" y="0"/>
+      <point x="307" y="0" type="curve"/>
+      <point x="4" y="0" type="line"/>
+      <point x="91" y="0"/>
+      <point x="84" y="-34"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+    </dict>
+  </lib>
+</glyph>

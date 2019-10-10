@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Cheabkhasian-cy" format="2">
+  <advance width="781"/>
+  <unicode hex="04BC"/>
+  <outline>
+    <component base="E.ss02" xOffset="120"/>
+    <component base="_part.cheabkhasian.case" xOffset="30" yOffset="112"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>=+180</string>
+      <key>com.schriftgestaltung.Glyphs.layer.leftMetricsKey</key>
+      <string>=+120</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Uppercase</string>
+    </dict>
+  </lib>
+</glyph>

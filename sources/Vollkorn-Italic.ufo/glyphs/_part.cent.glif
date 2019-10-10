@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_part.cent" format="2">
+  <advance width="364"/>
+  <anchor x="187" y="229" name="_center"/>
+  <outline>
+    <contour>
+      <point x="159" y="-136" type="curve"/>
+      <point x="203" y="134"/>
+      <point x="238" y="316"/>
+      <point x="302" y="596" type="curve"/>
+      <point x="290" y="610"/>
+      <point x="274" y="615"/>
+      <point x="254" y="615" type="curve"/>
+      <point x="112" y="-117" type="line"/>
+      <point x="122" y="-130"/>
+      <point x="141" y="-135"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+    </dict>
+  </lib>
+</glyph>

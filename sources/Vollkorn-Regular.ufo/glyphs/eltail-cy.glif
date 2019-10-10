@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="eltail-cy" format="2">
+  <advance width="581"/>
+  <unicode hex="04C6"/>
+  <outline>
+    <component base="el-cy"/>
+    <component base="__tail-cy" xOffset="475"/>
+  </outline>
+</glyph>

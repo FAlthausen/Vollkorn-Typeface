@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="percent" format="2">
+  <advance width="863"/>
+  <unicode hex="0025"/>
+  <outline>
+    <contour>
+      <point x="201" y="-7" type="curve"/>
+      <point x="750" y="657" type="line"/>
+      <point x="732" y="677"/>
+      <point x="696" y="686"/>
+      <point x="668" y="686" type="curve"/>
+      <point x="125" y="30" type="line"/>
+      <point x="138" y="11"/>
+      <point x="163" y="-9"/>
+    </contour>
+    <component base="_part.percent"/>
+    <component base="_part.percent" xOffset="370" yOffset="-367"/>
+  </outline>
+</glyph>

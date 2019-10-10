@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_part.dollar.black" format="2">
+  <anchor x="278" y="676" name="_top"/>
+  <outline>
+    <contour>
+      <point x="255" y="676" type="line"/>
+      <point x="300" y="676" type="line"/>
+      <point x="301" y="733" type="line"/>
+      <point x="287" y="742"/>
+      <point x="275" y="744"/>
+      <point x="255" y="744" type="curve"/>
+    </contour>
+    <contour>
+      <point x="301" y="-91" type="curve"/>
+      <point x="300" y="-4" type="line"/>
+      <point x="255" y="-4" type="line"/>
+      <point x="255" y="-80" type="line"/>
+      <point x="264" y="-86"/>
+      <point x="286" y="-91"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="zero.lf.zero" format="2">
+  <outline>
+    <contour>
+      <point x="201" y="68" type="line"/>
+      <point x="426" y="590" type="line"/>
+      <point x="386" y="622" type="line"/>
+      <point x="158" y="93" type="line"/>
+    </contour>
+    <component base="zero.lf"/>
+  </outline>
+</glyph>

@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="parallel" format="2">
+  <advance width="550"/>
+  <unicode hex="2225"/>
+  <outline>
+    <component base="bar" xOffset="104"/>
+    <component base="bar" xOffset="304"/>
+  </outline>
+</glyph>

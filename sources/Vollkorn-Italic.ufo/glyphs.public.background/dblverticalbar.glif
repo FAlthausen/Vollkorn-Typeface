@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dblverticalbar" format="2">
+  <outline>
+    <component base="bar" xOffset="130"/>
+    <component base="bar"/>
+  </outline>
+</glyph>

@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Aringacute.ss01" format="2">
+  <advance width="731"/>
+  <outline>
+    <component base="A.ss01"/>
+    <component base="ringcomb.case" xOffset="220" yOffset="9"/>
+    <component base="acutecomb.case" xOffset="308" yOffset="229"/>
+  </outline>
+</glyph>

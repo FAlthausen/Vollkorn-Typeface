@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="schulter.comp" format="2">
+  <outline>
+    <contour>
+      <point x="512" y="467" type="curve" smooth="yes"/>
+      <point x="412" y="467"/>
+      <point x="319" y="400"/>
+      <point x="276" y="311" type="curve" smooth="yes"/>
+      <point x="231" y="218" type="line"/>
+      <point x="230" y="50" type="line"/>
+      <point x="265" y="238"/>
+      <point x="327" y="305"/>
+      <point x="368" y="305" type="curve" smooth="yes"/>
+      <point x="398" y="305"/>
+      <point x="411" y="283"/>
+      <point x="389" y="190" type="curve" smooth="yes"/>
+      <point x="385" y="172" type="line" smooth="yes"/>
+      <point x="360" y="64"/>
+      <point x="374" y="-9"/>
+      <point x="488" y="-9" type="curve" smooth="yes"/>
+      <point x="547" y="-9"/>
+      <point x="607" y="9"/>
+      <point x="651" y="52" type="curve"/>
+      <point x="648" y="75"/>
+      <point x="632" y="105"/>
+      <point x="619" y="118" type="curve"/>
+      <point x="602" y="107"/>
+      <point x="594" y="104"/>
+      <point x="585" y="104" type="curve" smooth="yes"/>
+      <point x="571" y="104"/>
+      <point x="568" y="116"/>
+      <point x="584" y="184" type="curve" smooth="yes"/>
+      <point x="601" y="257" type="line" smooth="yes"/>
+      <point x="640" y="426"/>
+      <point x="595" y="467"/>
+    </contour>
+    <component base="b" xOffset="14"/>
+  </outline>
+</glyph>

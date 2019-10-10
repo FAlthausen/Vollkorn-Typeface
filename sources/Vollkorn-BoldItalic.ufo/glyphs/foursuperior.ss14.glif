@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="foursuperior.ss14" format="2">
+  <advance width="437"/>
+  <outline>
+    <contour>
+      <point x="56" y="405" type="curve"/>
+      <point x="111" y="409"/>
+      <point x="145" y="410"/>
+      <point x="189" y="410" type="curve" smooth="yes"/>
+      <point x="466" y="410" type="line"/>
+      <point x="471" y="435"/>
+      <point x="470" y="447"/>
+      <point x="466" y="463" type="curve"/>
+      <point x="126" y="463" type="line"/>
+      <point x="186" y="458" type="line"/>
+      <point x="226" y="495"/>
+      <point x="360" y="660"/>
+      <point x="389" y="705" type="curve" smooth="yes"/>
+      <point x="409" y="738"/>
+      <point x="408" y="754"/>
+      <point x="393" y="764" type="curve"/>
+      <point x="367" y="758"/>
+      <point x="310" y="758"/>
+      <point x="263" y="758" type="curve"/>
+      <point x="243" y="722"/>
+      <point x="75" y="478"/>
+      <point x="52" y="448" type="curve"/>
+      <point x="49" y="430"/>
+      <point x="52" y="418"/>
+    </contour>
+    <contour>
+      <point x="248" y="291" type="curve"/>
+      <point x="287" y="306"/>
+      <point x="322" y="312"/>
+      <point x="368" y="312" type="curve"/>
+      <point x="406" y="508" type="line" smooth="yes"/>
+      <point x="412" y="540"/>
+      <point x="410" y="551"/>
+      <point x="393" y="558" type="curve"/>
+      <point x="365" y="539"/>
+      <point x="319" y="522"/>
+      <point x="274" y="518" type="curve"/>
+      <point x="239" y="337" type="line" smooth="yes"/>
+      <point x="234" y="312"/>
+      <point x="237" y="301"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>height</key>
+        <real>69.5</real>
+        <key>verticalShift</key>
+        <integer>410</integer>
+        <key>weight</key>
+        <integer>-55</integer>
+        <key>width</key>
+        <integer>73</integer>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.98,0.36,0.67,1</string>
+    </dict>
+  </lib>
+</glyph>

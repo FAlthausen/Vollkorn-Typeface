@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_part.Theta" format="2">
+  <advance width="268"/>
+  <anchor x="140" y="350" name="_center"/>
+  <outline>
+    <contour>
+      <point x="22" y="304" type="curve"/>
+      <point x="110" y="313"/>
+      <point x="181" y="314"/>
+      <point x="235" y="314" type="curve"/>
+      <point x="243" y="339"/>
+      <point x="246" y="363"/>
+      <point x="246" y="387" type="curve"/>
+      <point x="33" y="387" type="line"/>
+      <point x="25" y="358"/>
+      <point x="22" y="329"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+    </dict>
+  </lib>
+</glyph>

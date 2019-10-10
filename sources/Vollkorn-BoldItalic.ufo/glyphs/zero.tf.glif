@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="zero.tf" format="2">
+  <advance width="550"/>
+  <guideline x="-8" y="11" angle="90"/>
+  <guideline x="592" y="11" angle="90"/>
+  <guideline x="184" y="334" angle="0"/>
+  <guideline x="300" y="380" angle="79"/>
+  <anchor x="295" y="338" name="center"/>
+  <outline>
+    <contour>
+      <point x="341" y="683" type="curve" smooth="yes"/>
+      <point x="194" y="683"/>
+      <point x="95" y="582"/>
+      <point x="53" y="387" type="curve" smooth="yes"/>
+      <point x="6" y="169"/>
+      <point x="66" y="-9"/>
+      <point x="255" y="-9" type="curve" smooth="yes"/>
+      <point x="403" y="-9"/>
+      <point x="500" y="101"/>
+      <point x="542" y="300" type="curve" smooth="yes"/>
+      <point x="587" y="514"/>
+      <point x="535" y="683"/>
+    </contour>
+    <contour>
+      <point x="323" y="604" type="curve" smooth="yes"/>
+      <point x="370" y="604"/>
+      <point x="376" y="479"/>
+      <point x="339" y="259" type="curve" smooth="yes"/>
+      <point x="322" y="154"/>
+      <point x="304" y="69"/>
+      <point x="268" y="69" type="curve" smooth="yes"/>
+      <point x="218" y="69"/>
+      <point x="219" y="225"/>
+      <point x="251" y="415" type="curve" smooth="yes"/>
+      <point x="273" y="543"/>
+      <point x="293" y="604"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
+      <string>=550</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

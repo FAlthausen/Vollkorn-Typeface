@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lcaron" format="2">
+  <outline>
+    <contour>
+      <point x="115" y="112" type="move"/>
+    </contour>
+    <component base="l"/>
+    <component base="quoteright" xOffset="280"/>
+  </outline>
+</glyph>

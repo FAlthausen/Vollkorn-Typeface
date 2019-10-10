@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hastroke-cy" format="2">
+  <advance width="521"/>
+  <unicode hex="04FF"/>
+  <outline>
+    <component base="x"/>
+    <component base="_part.hastroke-cy" xOffset="2"/>
+  </outline>
+</glyph>

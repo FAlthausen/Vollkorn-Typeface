@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="topleftHalfBracket" format="2">
+  <advance width="262"/>
+  <unicode hex="2E22"/>
+  <outline>
+    <component base="bottomrightHalfBracket" xScale="-1" yScale="-1" xOffset="262" yOffset="473"/>
+  </outline>
+</glyph>

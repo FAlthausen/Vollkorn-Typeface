@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Racute.calt" format="2">
+  <advance width="684"/>
+  <outline>
+    <component base="R.calt"/>
+    <component base="acutecomb.case" xOffset="244"/>
+  </outline>
+</glyph>

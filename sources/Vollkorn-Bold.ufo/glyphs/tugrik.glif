@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tugrik" format="2">
+  <advance width="719"/>
+  <unicode hex="20AE"/>
+  <outline>
+    <component base="T"/>
+    <component base="_part.tugrik" xOffset="10"/>
+  </outline>
+</glyph>

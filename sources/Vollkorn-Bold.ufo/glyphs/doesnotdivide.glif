@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="doesnotdivide" format="2">
+  <advance width="550"/>
+  <unicode hex="2224"/>
+  <outline>
+    <contour>
+      <point x="122" y="76" type="curve"/>
+      <point x="487" y="324" type="line"/>
+      <point x="476" y="348"/>
+      <point x="457" y="373"/>
+      <point x="433" y="391" type="curve"/>
+      <point x="61" y="141" type="line"/>
+      <point x="69" y="121"/>
+      <point x="89" y="99"/>
+    </contour>
+    <component base="divides" xOffset="1"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
+      <string>=550</string>
+    </dict>
+  </lib>
+</glyph>

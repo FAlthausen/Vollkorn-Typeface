@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="rightRepeatSign-musical" format="2">
+  <advance width="856"/>
+  <unicode hex="1D107"/>
+  <outline>
+    <contour>
+      <point x="617" y="-249" type="line"/>
+      <point x="675" y="-249"/>
+      <point x="756" y="-246"/>
+      <point x="796" y="-238" type="curve"/>
+      <point x="793" y="-124"/>
+      <point x="793" y="60"/>
+      <point x="793" y="234" type="curve" smooth="yes"/>
+      <point x="793" y="416"/>
+      <point x="793" y="597"/>
+      <point x="796" y="716" type="curve"/>
+      <point x="732" y="716"/>
+      <point x="645" y="710"/>
+      <point x="617" y="701" type="curve"/>
+    </contour>
+    <contour>
+      <point x="417" y="-249" type="line"/>
+      <point x="446" y="-249"/>
+      <point x="486" y="-246"/>
+      <point x="506" y="-238" type="curve"/>
+      <point x="503" y="-124"/>
+      <point x="503" y="60"/>
+      <point x="503" y="234" type="curve" smooth="yes"/>
+      <point x="503" y="416"/>
+      <point x="503" y="597"/>
+      <point x="506" y="716" type="curve"/>
+      <point x="474" y="716"/>
+      <point x="431" y="710"/>
+      <point x="417" y="701" type="curve"/>
+    </contour>
+    <component base="_part.dot" xOffset="40"/>
+    <component base="_part.dot" xOffset="40" yOffset="275"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>=|leftRepeatSign-musical</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=|leftRepeatSign-musical</string>
+    </dict>
+  </lib>
+</glyph>

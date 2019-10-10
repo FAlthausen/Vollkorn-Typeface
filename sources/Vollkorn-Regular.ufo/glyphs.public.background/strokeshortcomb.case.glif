@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="strokeshortcomb.case" format="2">
+  <anchor x="233" y="338" name="_center"/>
+  <outline>
+    <contour>
+      <point x="50" y="312" type="curve"/>
+      <point x="124" y="314"/>
+      <point x="158" y="314"/>
+      <point x="212" y="314" type="curve"/>
+      <point x="253" y="314" type="line"/>
+      <point x="312" y="314"/>
+      <point x="348" y="314"/>
+      <point x="405" y="313" type="curve"/>
+      <point x="414" y="327"/>
+      <point x="416" y="343"/>
+      <point x="416" y="363" type="curve"/>
+      <point x="255" y="363" type="line"/>
+      <point x="213" y="363" type="line"/>
+      <point x="61" y="363" type="line"/>
+      <point x="55" y="354"/>
+      <point x="50" y="327"/>
+    </contour>
+  </outline>
+</glyph>

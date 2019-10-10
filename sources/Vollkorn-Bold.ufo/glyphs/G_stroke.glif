@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Gstroke" format="2">
+  <advance width="699"/>
+  <unicode hex="01E4"/>
+  <outline>
+    <component base="G"/>
+    <component base="strokeshortcomb.case" xScale="0.8" xOffset="317" yOffset="-175"/>
+  </outline>
+</glyph>

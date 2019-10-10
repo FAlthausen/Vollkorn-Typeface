@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="descender-cy.center" format="2">
+  <advance width="200"/>
+  <anchor x="103" y="0" name="_bottom"/>
+  <outline>
+    <contour>
+      <point x="74" y="-168" type="curve"/>
+      <point x="92" y="-173"/>
+      <point x="115" y="-173"/>
+      <point x="131" y="-168" type="curve"/>
+      <point x="131" y="-101"/>
+      <point x="135" y="-41"/>
+      <point x="144" y="3" type="curve"/>
+      <point x="61" y="3" type="line"/>
+      <point x="69" y="-41"/>
+      <point x="75" y="-101"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+    </dict>
+  </lib>
+</glyph>

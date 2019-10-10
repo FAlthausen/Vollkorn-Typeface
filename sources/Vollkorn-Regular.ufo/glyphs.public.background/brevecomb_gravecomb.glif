@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="brevecomb_gravecomb" format="2">
+  <outline>
+    <component base="brevecomb.case" yOffset="-200"/>
+    <component base="gravecomb.case" xOffset="31" yOffset="-45"/>
+  </outline>
+</glyph>

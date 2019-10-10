@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_part.gstroke" format="2">
+  <advance width="584"/>
+  <anchor x="283" y="-125" name="_center"/>
+  <outline>
+    <contour>
+      <point x="-41" y="-166" type="curve"/>
+      <point x="218.2" y="-161"/>
+      <point x="351.64" y="-161"/>
+      <point x="593.56" y="-161" type="curve"/>
+      <point x="602.2" y="-138"/>
+      <point x="607.96" y="-117"/>
+      <point x="607.96" y="-85" type="curve"/>
+      <point x="-26.6" y="-85" type="line"/>
+      <point x="-34.28" y="-104"/>
+      <point x="-41" y="-131"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+    </dict>
+  </lib>
+</glyph>

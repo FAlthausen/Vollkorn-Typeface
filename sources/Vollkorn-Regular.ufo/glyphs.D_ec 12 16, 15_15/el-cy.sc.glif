@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="el-cy.sc" format="2">
+  <advance width="650"/>
+  <anchor x="570" y="43" name="bottomright"/>
+  <outline>
+    <contour>
+      <point x="114" y="-7" type="curve" smooth="yes"/>
+      <point x="237" y="-7"/>
+      <point x="254" y="200"/>
+      <point x="264" y="384" type="curve" smooth="yes"/>
+      <point x="267" y="431"/>
+      <point x="268" y="444"/>
+      <point x="287" y="451" type="curve" smooth="yes"/>
+      <point x="301" y="456"/>
+      <point x="322" y="459"/>
+      <point x="338" y="459" type="curve" smooth="yes"/>
+      <point x="348" y="459"/>
+      <point x="379" y="458"/>
+      <point x="396" y="451" type="curve" smooth="yes"/>
+      <point x="414" y="444"/>
+      <point x="417" y="427"/>
+      <point x="417" y="384" type="curve" smooth="yes"/>
+      <point x="417" y="117" type="line" smooth="yes"/>
+      <point x="417" y="58"/>
+      <point x="404" y="46"/>
+      <point x="357" y="43" type="curve"/>
+      <point x="353" y="32"/>
+      <point x="352" y="13"/>
+      <point x="352" y="-2" type="curve"/>
+      <point x="383" y="-1"/>
+      <point x="428" y="0"/>
+      <point x="465" y="0" type="curve" smooth="yes"/>
+      <point x="502" y="0"/>
+      <point x="540" y="-1"/>
+      <point x="574" y="-2" type="curve"/>
+      <point x="574" y="14"/>
+      <point x="573" y="32"/>
+      <point x="570" y="43" type="curve"/>
+      <point x="523" y="46"/>
+      <point x="509" y="58"/>
+      <point x="509" y="117" type="curve" smooth="yes"/>
+      <point x="509" y="384" type="line"/>
+      <point x="509" y="442"/>
+      <point x="523" y="454"/>
+      <point x="570" y="457" type="curve"/>
+      <point x="574" y="471"/>
+      <point x="574" y="486"/>
+      <point x="574" y="502" type="curve"/>
+      <point x="539" y="501"/>
+      <point x="495" y="500"/>
+      <point x="371" y="500" type="curve" smooth="yes"/>
+      <point x="257" y="500"/>
+      <point x="189" y="501"/>
+      <point x="151" y="502" type="curve"/>
+      <point x="151" y="486"/>
+      <point x="152" y="469"/>
+      <point x="155" y="457" type="curve"/>
+      <point x="222" y="452"/>
+      <point x="224" y="442"/>
+      <point x="221" y="383" type="curve" smooth="yes"/>
+      <point x="211" y="196"/>
+      <point x="195" y="90"/>
+      <point x="100" y="90" type="curve" smooth="yes"/>
+      <point x="91" y="90"/>
+      <point x="68" y="91"/>
+      <point x="48" y="97" type="curve"/>
+      <point x="41" y="75"/>
+      <point x="39" y="39"/>
+      <point x="46" y="19" type="curve"/>
+      <point x="57" y="6"/>
+      <point x="83" y="-7"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>=El-cy+20</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=H+20</string>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

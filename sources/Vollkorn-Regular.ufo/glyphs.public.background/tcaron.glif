@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tcaron" format="2">
+  <outline>
+    <contour>
+      <point x="107" y="158" type="move"/>
+    </contour>
+    <component base="t"/>
+    <component base="quoteright" xOffset="290"/>
+  </outline>
+</glyph>

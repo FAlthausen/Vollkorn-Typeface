@@ -1,0 +1,105 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hahook-cy" format="2">
+  <advance width="541"/>
+  <unicode hex="04FD"/>
+  <outline>
+    <contour>
+      <point x="375" y="-249" type="curve"/>
+      <point x="462" y="-208"/>
+      <point x="512" y="-134"/>
+      <point x="512" y="-57" type="curve" smooth="yes"/>
+      <point x="512" y="-3"/>
+      <point x="488" y="51"/>
+      <point x="451" y="95" type="curve" smooth="yes"/>
+      <point x="234" y="357" type="line" smooth="yes"/>
+      <point x="202" y="395"/>
+      <point x="210" y="412"/>
+      <point x="248" y="419" type="curve"/>
+      <point x="251" y="433"/>
+      <point x="252" y="447"/>
+      <point x="252" y="460" type="curve"/>
+      <point x="228" y="459"/>
+      <point x="186" y="458"/>
+      <point x="150" y="458" type="curve" smooth="yes"/>
+      <point x="115" y="458"/>
+      <point x="62" y="459"/>
+      <point x="34" y="460" type="curve"/>
+      <point x="34" y="446"/>
+      <point x="35" y="432"/>
+      <point x="40" y="418" type="curve"/>
+      <point x="69" y="413"/>
+      <point x="83" y="398"/>
+      <point x="108" y="367" type="curve" smooth="yes"/>
+      <point x="373" y="40" type="line" smooth="yes"/>
+      <point x="404" y="1"/>
+      <point x="417" y="-46"/>
+      <point x="417" y="-83" type="curve" smooth="yes"/>
+      <point x="417" y="-132"/>
+      <point x="394" y="-181"/>
+      <point x="353" y="-221" type="curve"/>
+      <point x="355" y="-234"/>
+      <point x="365" y="-244"/>
+    </contour>
+    <contour>
+      <point x="30" y="-2" type="curve"/>
+      <point x="51" y="-1"/>
+      <point x="88" y="0"/>
+      <point x="117" y="0" type="curve" smooth="yes"/>
+      <point x="146" y="0"/>
+      <point x="181" y="-1"/>
+      <point x="222" y="-2" type="curve"/>
+      <point x="222" y="12"/>
+      <point x="222" y="26"/>
+      <point x="218" y="40" type="curve"/>
+      <point x="151" y="47"/>
+      <point x="156" y="70"/>
+      <point x="197" y="120" type="curve" smooth="yes"/>
+      <point x="273" y="212" type="line"/>
+      <point x="242" y="238" type="line"/>
+      <point x="139" y="117" type="line" smooth="yes"/>
+      <point x="99" y="70"/>
+      <point x="66" y="49"/>
+      <point x="35" y="41" type="curve"/>
+      <point x="31" y="30"/>
+      <point x="30" y="12"/>
+    </contour>
+    <contour>
+      <point x="306" y="222" type="line"/>
+      <point x="402" y="343" type="line" smooth="yes"/>
+      <point x="448" y="400"/>
+      <point x="464" y="410"/>
+      <point x="496" y="419" type="curve"/>
+      <point x="500" y="432"/>
+      <point x="500" y="446"/>
+      <point x="500" y="460" type="curve"/>
+      <point x="480" y="459"/>
+      <point x="442" y="458"/>
+      <point x="419" y="458" type="curve" smooth="yes"/>
+      <point x="395" y="458"/>
+      <point x="359" y="459"/>
+      <point x="333" y="460" type="curve"/>
+      <point x="333" y="448"/>
+      <point x="334" y="431"/>
+      <point x="337" y="419" type="curve"/>
+      <point x="382" y="414"/>
+      <point x="387" y="395"/>
+      <point x="345" y="341" type="curve" smooth="yes"/>
+      <point x="274" y="250" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>height</key>
+        <real>67.8</real>
+        <key>width</key>
+        <integer>79</integer>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>=x</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=x</string>
+    </dict>
+  </lib>
+</glyph>

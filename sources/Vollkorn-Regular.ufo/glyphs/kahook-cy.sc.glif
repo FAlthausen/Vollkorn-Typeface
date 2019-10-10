@@ -1,0 +1,108 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="kahook-cy.sc" format="2">
+  <advance width="641"/>
+  <outline>
+    <contour>
+      <point x="354" y="-184" type="curve"/>
+      <point x="453" y="-148"/>
+      <point x="566" y="-62"/>
+      <point x="566" y="76" type="curve" smooth="yes"/>
+      <point x="566" y="208"/>
+      <point x="460" y="272"/>
+      <point x="297" y="276" type="curve"/>
+      <point x="290" y="268" type="line"/>
+      <point x="327" y="274"/>
+      <point x="332" y="277"/>
+      <point x="390" y="358" type="curve" smooth="yes"/>
+      <point x="436" y="421"/>
+      <point x="445" y="435"/>
+      <point x="466" y="435" type="curve" smooth="yes"/>
+      <point x="482" y="435"/>
+      <point x="497" y="426"/>
+      <point x="507" y="378" type="curve"/>
+      <point x="518" y="378"/>
+      <point x="539" y="380"/>
+      <point x="553" y="385" type="curve"/>
+      <point x="548" y="422"/>
+      <point x="546" y="465"/>
+      <point x="548" y="500" type="curve"/>
+      <point x="535" y="503"/>
+      <point x="514" y="505"/>
+      <point x="501" y="505" type="curve" smooth="yes"/>
+      <point x="435" y="505"/>
+      <point x="411" y="466"/>
+      <point x="352" y="376" type="curve" smooth="yes"/>
+      <point x="302" y="299"/>
+      <point x="283" y="282"/>
+      <point x="230" y="282" type="curve"/>
+      <point x="230" y="241" type="line"/>
+      <point x="381" y="241"/>
+      <point x="468" y="184"/>
+      <point x="468" y="51" type="curve" smooth="yes"/>
+      <point x="468" y="-33"/>
+      <point x="435" y="-84"/>
+      <point x="335" y="-152" type="curve"/>
+      <point x="336" y="-166"/>
+      <point x="345" y="-178"/>
+    </contour>
+    <contour>
+      <point x="76" y="-2" type="curve"/>
+      <point x="107" y="-1"/>
+      <point x="151" y="0"/>
+      <point x="187" y="0" type="curve" smooth="yes"/>
+      <point x="223" y="0"/>
+      <point x="261" y="-1"/>
+      <point x="296" y="-2" type="curve"/>
+      <point x="296" y="13"/>
+      <point x="295" y="28"/>
+      <point x="291" y="37" type="curve"/>
+      <point x="245" y="40"/>
+      <point x="231" y="52"/>
+      <point x="231" y="107" type="curve" smooth="yes"/>
+      <point x="231" y="393" type="line" smooth="yes"/>
+      <point x="231" y="448"/>
+      <point x="245" y="460"/>
+      <point x="291" y="463" type="curve"/>
+      <point x="295" y="474"/>
+      <point x="296" y="487"/>
+      <point x="296" y="502" type="curve"/>
+      <point x="261" y="501"/>
+      <point x="225" y="500"/>
+      <point x="186" y="500" type="curve" smooth="yes"/>
+      <point x="148" y="500"/>
+      <point x="108" y="501"/>
+      <point x="76" y="502" type="curve"/>
+      <point x="76" y="487"/>
+      <point x="77" y="473"/>
+      <point x="81" y="463" type="curve"/>
+      <point x="128" y="460"/>
+      <point x="141" y="448"/>
+      <point x="141" y="393" type="curve" smooth="yes"/>
+      <point x="141" y="107" type="line" smooth="yes"/>
+      <point x="141" y="52"/>
+      <point x="127" y="40"/>
+      <point x="81" y="37" type="curve"/>
+      <point x="77" y="27"/>
+      <point x="76" y="12"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>height</key>
+        <integer>74</integer>
+        <key>weight</key>
+        <integer>-6</integer>
+        <key>width</key>
+        <integer>88</integer>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>=H+20</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=B+20</string>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

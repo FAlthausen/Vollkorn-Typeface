@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_part.won.sc" format="2">
+  <advance width="880"/>
+  <anchor x="443" y="208" name="_center"/>
+  <outline>
+    <contour>
+      <point x="19" y="178" type="curve"/>
+      <point x="297" y="182"/>
+      <point x="576" y="182"/>
+      <point x="854" y="178" type="curve"/>
+      <point x="861" y="191"/>
+      <point x="865" y="204"/>
+      <point x="865" y="221" type="curve"/>
+      <point x="29" y="221" type="line"/>
+      <point x="22" y="208"/>
+      <point x="19" y="193"/>
+    </contour>
+    <contour>
+      <point x="22" y="279" type="curve"/>
+      <point x="300" y="283"/>
+      <point x="579" y="283"/>
+      <point x="857" y="279" type="curve"/>
+      <point x="862" y="293"/>
+      <point x="867" y="305"/>
+      <point x="867" y="322" type="curve"/>
+      <point x="31" y="322" type="line"/>
+      <point x="25" y="311"/>
+      <point x="22" y="295"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>height</key>
+        <integer>74</integer>
+        <key>width</key>
+        <integer>88</integer>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

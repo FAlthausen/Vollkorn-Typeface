@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_part.won" format="2">
+  <anchor x="516" y="281" name="_center"/>
+  <outline>
+    <contour>
+      <point x="30" y="256" type="curve"/>
+      <point x="346" y="259"/>
+      <point x="662" y="259"/>
+      <point x="976" y="256" type="curve"/>
+      <point x="987" y="269"/>
+      <point x="994" y="285"/>
+      <point x="997" y="303" type="curve"/>
+      <point x="50" y="303" type="line"/>
+      <point x="41" y="289"/>
+      <point x="33" y="271"/>
+    </contour>
+    <contour>
+      <point x="59" y="381" type="curve"/>
+      <point x="374" y="384"/>
+      <point x="689" y="384"/>
+      <point x="1004" y="381" type="curve"/>
+      <point x="1012" y="395"/>
+      <point x="1020" y="408"/>
+      <point x="1024" y="428" type="curve"/>
+      <point x="78" y="428" type="line"/>
+      <point x="69" y="415"/>
+      <point x="62" y="398"/>
+    </contour>
+  </outline>
+</glyph>

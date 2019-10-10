@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="leftDoublePairedArrow.case" format="2">
+  <outline>
+    <component base="leftDoublePairedArrow" yOffset="96"/>
+  </outline>
+</glyph>

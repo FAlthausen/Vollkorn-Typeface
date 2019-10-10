@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="notcontains" format="2">
+  <advance width="550"/>
+  <unicode hex="220C"/>
+  <outline>
+    <component base="suchthat"/>
+    <component base="_negationslash" xOffset="-31"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>=suchthat</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=suchthat</string>
+    </dict>
+  </lib>
+</glyph>

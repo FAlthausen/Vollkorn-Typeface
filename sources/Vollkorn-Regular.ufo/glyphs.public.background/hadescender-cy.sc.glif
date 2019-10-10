@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hadescender-cy.sc" format="2">
+  <outline>
+    <component base="ha-cy.sc"/>
+    <component base="descender-cy" xOffset="336" yOffset="36"/>
+  </outline>
+</glyph>

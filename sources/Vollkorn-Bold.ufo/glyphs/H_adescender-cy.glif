@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Hadescender-cy" format="2">
+  <advance width="770"/>
+  <unicode hex="04B2"/>
+  <outline>
+    <component base="X"/>
+    <component base="descender-cy.case" xOffset="575"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.layer.rightMetricsKey</key>
+      <string>=+40</string>
+    </dict>
+  </lib>
+</glyph>

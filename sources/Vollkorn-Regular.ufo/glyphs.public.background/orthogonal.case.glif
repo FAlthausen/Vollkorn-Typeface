@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="orthogonal.case" format="2">
+  <outline>
+    <component base="orthogonal" yOffset="107"/>
+  </outline>
+</glyph>

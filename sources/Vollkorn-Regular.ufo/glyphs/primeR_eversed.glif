@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="primeReversed" format="2">
+  <advance width="249"/>
+  <unicode hex="2035"/>
+  <outline>
+    <contour>
+      <point x="139" y="697" type="curve" smooth="yes"/>
+      <point x="136" y="707"/>
+      <point x="127" y="713"/>
+      <point x="116" y="713" type="curve"/>
+      <point x="100" y="703"/>
+      <point x="80" y="694"/>
+      <point x="60" y="689" type="curve"/>
+      <point x="93" y="625"/>
+      <point x="124" y="553"/>
+      <point x="150" y="482" type="curve"/>
+      <point x="161" y="477"/>
+      <point x="178" y="477"/>
+      <point x="189" y="481" type="curve"/>
+      <point x="148" y="633"/>
+      <point x="149" y="666"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>=quotesingle</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=quotesingle</string>
+    </dict>
+  </lib>
+</glyph>

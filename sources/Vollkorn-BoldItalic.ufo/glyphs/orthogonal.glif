@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="orthogonal" format="2">
+  <advance width="550"/>
+  <unicode hex="221F"/>
+  <outline>
+    <contour>
+      <point x="30" y="0" type="line"/>
+      <point x="472" y="0" type="line"/>
+      <point x="480" y="19"/>
+      <point x="485" y="48"/>
+      <point x="485" y="87" type="curve"/>
+      <point x="84" y="87" type="line"/>
+      <point x="131" y="51" type="line"/>
+      <point x="218" y="460" type="line"/>
+      <point x="179" y="464"/>
+      <point x="145" y="459"/>
+      <point x="117" y="447" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="notparallel.case" format="2">
+  <outline>
+    <component base="notparallel" yOffset="104"/>
+  </outline>
+</glyph>

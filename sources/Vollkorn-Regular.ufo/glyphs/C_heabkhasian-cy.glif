@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Cheabkhasian-cy" format="2">
+  <advance width="779"/>
+  <unicode hex="04BC"/>
+  <outline>
+    <component base="_part.Cheabkhasian-cy" xOffset="130"/>
+    <component base="_part.cheabkhasian.case" xOffset="13" yOffset="112"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.layer.leftMetricsKey</key>
+      <string>=+130</string>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>1</integer>
+        <integer>0</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

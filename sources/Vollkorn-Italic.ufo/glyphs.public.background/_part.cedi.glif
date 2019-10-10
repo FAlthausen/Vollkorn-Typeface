@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_part.cedi" format="2">
+  <anchor x="461" y="676" name="_top"/>
+  <outline>
+    <contour>
+      <point x="335" y="-91" type="curve"/>
+      <point x="367" y="84"/>
+      <point x="387" y="186"/>
+      <point x="418" y="347" type="curve" smooth="yes"/>
+      <point x="443" y="476"/>
+      <point x="469" y="609"/>
+      <point x="495" y="733" type="curve"/>
+      <point x="483" y="742"/>
+      <point x="471" y="744"/>
+      <point x="451" y="744" type="curve"/>
+      <point x="291" y="-80" type="line"/>
+      <point x="299" y="-86"/>
+      <point x="320" y="-91"/>
+    </contour>
+  </outline>
+</glyph>

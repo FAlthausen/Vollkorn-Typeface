@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tricolon" format="2">
+  <outline>
+    <component base="_part.dot" xOffset="-11"/>
+    <component base="_part.dot" xOffset="46" yOffset="290"/>
+    <component base="_part.dot" xOffset="102" yOffset="581"/>
+  </outline>
+</glyph>

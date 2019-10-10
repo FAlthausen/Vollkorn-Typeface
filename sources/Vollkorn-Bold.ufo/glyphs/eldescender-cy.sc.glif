@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="eldescender-cy.sc" format="2">
+  <advance width="765"/>
+  <outline>
+    <component base="el-cy.sc"/>
+    <component base="__descender-cy.straight" xOffset="680" yOffset="3"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

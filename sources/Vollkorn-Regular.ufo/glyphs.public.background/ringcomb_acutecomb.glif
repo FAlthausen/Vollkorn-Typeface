@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ringcomb_acutecomb" format="2">
+  <outline>
+    <component base="ringcomb.case" yOffset="-200"/>
+    <component base="acutecomb.case" xOffset="62"/>
+  </outline>
+</glyph>

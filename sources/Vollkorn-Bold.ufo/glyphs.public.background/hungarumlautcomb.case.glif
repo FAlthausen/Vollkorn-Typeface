@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hungarumlautcomb.case" format="2">
+  <anchor x="214" y="676" name="_top"/>
+  <anchor x="214" y="925" name="top"/>
+  <outline>
+    <contour>
+      <point x="346" y="736" type="curve"/>
+      <point x="379" y="797"/>
+      <point x="424" y="859"/>
+      <point x="476" y="921" type="curve"/>
+      <point x="458" y="924"/>
+      <point x="435" y="925"/>
+      <point x="412" y="925" type="curve" smooth="yes"/>
+      <point x="375" y="925"/>
+      <point x="336" y="921"/>
+      <point x="310" y="912" type="curve"/>
+      <point x="297" y="858"/>
+      <point x="279" y="815"/>
+      <point x="249" y="756" type="curve"/>
+      <point x="269" y="746"/>
+      <point x="310" y="736"/>
+    </contour>
+    <contour>
+      <point x="146" y="736" type="curve"/>
+      <point x="179" y="797"/>
+      <point x="224" y="859"/>
+      <point x="276" y="921" type="curve"/>
+      <point x="258" y="924"/>
+      <point x="235" y="925"/>
+      <point x="212" y="925" type="curve" smooth="yes"/>
+      <point x="175" y="925"/>
+      <point x="136" y="921"/>
+      <point x="110" y="912" type="curve"/>
+      <point x="97" y="858"/>
+      <point x="79" y="815"/>
+      <point x="49" y="756" type="curve"/>
+      <point x="69" y="746"/>
+      <point x="110" y="736"/>
+    </contour>
+    <component base="acutecomb.case" xOffset="13"/>
+  </outline>
+</glyph>

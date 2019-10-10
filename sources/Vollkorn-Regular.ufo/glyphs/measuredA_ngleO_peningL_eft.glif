@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="measuredAngleOpeningLeft" format="2">
+  <advance width="550"/>
+  <unicode hex="299B"/>
+  <outline>
+    <component base="measuredangle" xScale="-1" xOffset="550"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>=measuredangle</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=measuredangle</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="measuredRightAngleWithDot.case" format="2">
+  <outline>
+    <component base="measuredRightAngleWithDot" yOffset="107"/>
+  </outline>
+</glyph>

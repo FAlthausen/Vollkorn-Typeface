@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ereversed-cy.sc" format="2">
+  <anchor x="313" y="500" name="top"/>
+  <outline>
+    <contour>
+      <point x="293" y="-7" type="curve" smooth="yes"/>
+      <point x="490" y="-7"/>
+      <point x="605" y="93"/>
+      <point x="605" y="258" type="curve" smooth="yes"/>
+      <point x="605" y="418"/>
+      <point x="498" y="507"/>
+      <point x="306" y="507" type="curve" smooth="yes"/>
+      <point x="230" y="507"/>
+      <point x="166" y="493"/>
+      <point x="105" y="468" type="curve"/>
+      <point x="114" y="434"/>
+      <point x="115" y="394"/>
+      <point x="115" y="354" type="curve"/>
+      <point x="129" y="347"/>
+      <point x="146" y="345"/>
+      <point x="166" y="345" type="curve"/>
+      <point x="170" y="433"/>
+      <point x="213" y="463"/>
+      <point x="291" y="463" type="curve" smooth="yes"/>
+      <point x="424" y="463"/>
+      <point x="504" y="382"/>
+      <point x="504" y="246" type="curve" smooth="yes"/>
+      <point x="504" y="114"/>
+      <point x="426" y="38"/>
+      <point x="289" y="38" type="curve" smooth="yes"/>
+      <point x="199" y="38"/>
+      <point x="159" y="71"/>
+      <point x="146" y="158" type="curve"/>
+      <point x="126" y="158"/>
+      <point x="109" y="154"/>
+      <point x="96" y="147" type="curve"/>
+      <point x="101" y="108"/>
+      <point x="101" y="67"/>
+      <point x="98" y="32" type="curve"/>
+      <point x="162" y="6"/>
+      <point x="223" y="-7"/>
+    </contour>
+    <contour>
+      <point x="210" y="222" type="curve"/>
+      <point x="386" y="226"/>
+      <point x="465" y="226"/>
+      <point x="588" y="226" type="curve"/>
+      <point x="596" y="238"/>
+      <point x="598" y="258"/>
+      <point x="598" y="277" type="curve"/>
+      <point x="220" y="277" type="line"/>
+      <point x="214" y="265"/>
+      <point x="210" y="241"/>
+    </contour>
+  </outline>
+</glyph>

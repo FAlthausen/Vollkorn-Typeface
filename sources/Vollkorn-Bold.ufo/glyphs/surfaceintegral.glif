@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="surfaceintegral" format="2">
+  <advance width="745"/>
+  <unicode hex="222F"/>
+  <outline>
+    <contour>
+      <point x="372" y="76" type="curve" smooth="yes"/>
+      <point x="614" y="76"/>
+      <point x="735" y="147"/>
+      <point x="735" y="289" type="curve" smooth="yes"/>
+      <point x="735" y="430"/>
+      <point x="614" y="500"/>
+      <point x="372" y="500" type="curve" smooth="yes"/>
+      <point x="129" y="500"/>
+      <point x="10" y="430"/>
+      <point x="10" y="289" type="curve" smooth="yes"/>
+      <point x="10" y="147"/>
+      <point x="129" y="76"/>
+    </contour>
+    <contour>
+      <point x="372" y="153" type="curve" smooth="yes"/>
+      <point x="186" y="153"/>
+      <point x="95" y="198"/>
+      <point x="95" y="288" type="curve" smooth="yes"/>
+      <point x="95" y="378"/>
+      <point x="186" y="422"/>
+      <point x="372" y="422" type="curve" smooth="yes"/>
+      <point x="557" y="422"/>
+      <point x="650" y="378"/>
+      <point x="650" y="288" type="curve" smooth="yes"/>
+      <point x="650" y="198"/>
+      <point x="557" y="153"/>
+    </contour>
+    <component base="dblintegral" xOffset="36"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>=contourintegral</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=contourintegral</string>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>-1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

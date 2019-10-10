@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="upWhiteTriangle" format="2">
+  <advance width="816"/>
+  <unicode hex="25B3"/>
+  <outline>
+    <contour>
+      <point x="47" y="0" type="curve"/>
+      <point x="767" y="0" type="line"/>
+      <point x="781" y="22"/>
+      <point x="789" y="46"/>
+      <point x="791" y="72" type="curve"/>
+      <point x="672" y="273"/>
+      <point x="558" y="478"/>
+      <point x="447" y="685" type="curve"/>
+      <point x="421" y="685"/>
+      <point x="397" y="683"/>
+      <point x="373" y="677" type="curve"/>
+      <point x="261" y="472"/>
+      <point x="145" y="271"/>
+      <point x="25" y="72" type="curve"/>
+      <point x="26" y="45"/>
+      <point x="34" y="21"/>
+    </contour>
+    <contour>
+      <point x="90" y="14" type="line"/>
+      <point x="439" y="625" type="line"/>
+      <point x="385" y="625" type="line"/>
+      <point x="728" y="14" type="line"/>
+      <point x="755" y="85" type="line"/>
+      <point x="60" y="85" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>=25</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=25</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="circumflexcomb.i" format="2">
+  <anchor x="270" y="458" name="_top"/>
+  <anchor x="321" y="718" name="top"/>
+  <outline>
+    <contour>
+      <point x="196" y="511" type="curve"/>
+      <point x="221" y="539"/>
+      <point x="254" y="567"/>
+      <point x="286" y="593" type="curve"/>
+      <point x="317" y="573"/>
+      <point x="339" y="550"/>
+      <point x="366" y="522" type="curve"/>
+      <point x="399" y="520"/>
+      <point x="444" y="533"/>
+      <point x="471" y="552" type="curve"/>
+      <point x="434" y="612"/>
+      <point x="402" y="664"/>
+      <point x="373" y="713" type="curve"/>
+      <point x="352" y="719"/>
+      <point x="311" y="718"/>
+      <point x="282" y="716" type="curve"/>
+      <point x="233" y="670"/>
+      <point x="177" y="616"/>
+      <point x="130" y="582" type="curve"/>
+      <point x="143" y="548"/>
+      <point x="164" y="527"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>471</integer>
+    </dict>
+  </lib>
+</glyph>

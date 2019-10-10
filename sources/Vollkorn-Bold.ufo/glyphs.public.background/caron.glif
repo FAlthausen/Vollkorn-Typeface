@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="caron" format="2">
+  <outline>
+    <contour>
+      <point x="-59" y="628"/>
+      <point x="-2" y="666" type="curve"/>
+      <point x="-9" y="688"/>
+      <point x="-32" y="716"/>
+      <point x="-64" y="723" type="curve"/>
+      <point x="-97" y="697"/>
+      <point x="-157" y="659"/>
+      <point x="-193" y="640" type="curve"/>
+      <point x="-238" y="663"/>
+      <point x="-289" y="695"/>
+      <point x="-327" y="723" type="curve"/>
+      <point x="-370" y="715"/>
+      <point x="-396" y="696"/>
+      <point x="-417" y="672" type="curve"/>
+      <point x="-351" y="617"/>
+      <point x="-298" y="564"/>
+      <point x="-257" y="515" type="curve"/>
+      <point x="-227" y="515"/>
+      <point x="-194" y="521"/>
+      <point x="-170" y="530" type="curve"/>
+      <point x="-125" y="577"/>
+    </contour>
+    <contour>
+      <point x="-117" y="636"/>
+      <point x="-66" y="678" type="curve"/>
+      <point x="-72" y="691"/>
+      <point x="-84" y="699"/>
+      <point x="-97" y="701" type="curve"/>
+      <point x="-113" y="687"/>
+      <point x="-202" y="625"/>
+      <point x="-233" y="608" type="curve"/>
+      <point x="-276" y="630"/>
+      <point x="-331" y="671"/>
+      <point x="-376" y="701" type="curve"/>
+      <point x="-388" y="695"/>
+      <point x="-394" y="685"/>
+      <point x="-396" y="672" type="curve"/>
+      <point x="-343" y="624"/>
+      <point x="-292" y="565"/>
+      <point x="-255" y="517" type="curve"/>
+      <point x="-247" y="517"/>
+      <point x="-234" y="518"/>
+      <point x="-223" y="521" type="curve"/>
+      <point x="-179" y="576"/>
+    </contour>
+  </outline>
+</glyph>

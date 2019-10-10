@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_part.euro.sc" format="2">
+  <advance width="646"/>
+  <anchor x="176" y="260" name="_center"/>
+  <outline>
+    <contour>
+      <point x="49" y="285" type="curve"/>
+      <point x="231" y="288"/>
+      <point x="333" y="288"/>
+      <point x="461" y="288" type="curve"/>
+      <point x="469" y="302"/>
+      <point x="470" y="321"/>
+      <point x="470" y="341" type="curve"/>
+      <point x="59" y="341" type="line"/>
+      <point x="53" y="328"/>
+      <point x="49" y="303"/>
+    </contour>
+    <contour>
+      <point x="39" y="173" type="curve"/>
+      <point x="226" y="176"/>
+      <point x="310" y="176"/>
+      <point x="441" y="176" type="curve"/>
+      <point x="449" y="190"/>
+      <point x="450" y="209"/>
+      <point x="450" y="229" type="curve"/>
+      <point x="49" y="229" type="line"/>
+      <point x="43" y="216"/>
+      <point x="39" y="191"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

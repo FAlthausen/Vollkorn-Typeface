@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="zedescender-cy.sc" format="2">
+  <outline>
+    <component base="ze-cy.sc"/>
+    <component base="descender-cy" xOffset="283" yOffset="36"/>
+  </outline>
+</glyph>

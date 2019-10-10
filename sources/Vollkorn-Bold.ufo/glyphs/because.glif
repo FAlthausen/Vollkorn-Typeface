@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="because" format="2">
+  <advance width="550"/>
+  <unicode hex="2235"/>
+  <outline>
+    <component base="_part.dot" xOffset="-29" yOffset="270"/>
+    <component base="_part.dot" xOffset="111" yOffset="30"/>
+    <component base="_part.dot" xOffset="251" yOffset="270"/>
+  </outline>
+</glyph>

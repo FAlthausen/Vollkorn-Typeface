@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_part.won" format="2">
+  <advance width="985"/>
+  <anchor x="512" y="281" name="_center"/>
+  <outline>
+    <contour>
+      <point x="0" y="206" type="curve"/>
+      <point x="323" y="215"/>
+      <point x="646" y="215"/>
+      <point x="967" y="206" type="curve"/>
+      <point x="978" y="230"/>
+      <point x="987" y="252"/>
+      <point x="993" y="283" type="curve"/>
+      <point x="26" y="283" type="line"/>
+      <point x="11" y="259"/>
+      <point x="5" y="235"/>
+    </contour>
+    <contour>
+      <point x="29" y="371" type="curve"/>
+      <point x="354" y="380"/>
+      <point x="679" y="380"/>
+      <point x="1002" y="371" type="curve"/>
+      <point x="1014" y="396"/>
+      <point x="1022" y="417"/>
+      <point x="1028" y="448" type="curve"/>
+      <point x="55" y="448" type="line"/>
+      <point x="41" y="427"/>
+      <point x="34" y="401"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+    </dict>
+  </lib>
+</glyph>

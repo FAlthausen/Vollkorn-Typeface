@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="semicolon" format="2">
+  <outline>
+    <component base="comma"/>
+    <component base="_part.dot" xOffset="79" yOffset="328"/>
+  </outline>
+</glyph>

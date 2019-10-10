@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="muchless" format="2">
+  <advance width="550"/>
+  <unicode hex="226A"/>
+  <outline>
+    <contour>
+      <point x="242" y="-8" type="curve"/>
+      <point x="275" y="8"/>
+      <point x="289" y="47"/>
+      <point x="292" y="76" type="curve"/>
+      <point x="106" y="260" type="line"/>
+      <point x="359" y="441" type="line"/>
+      <point x="337" y="471"/>
+      <point x="309" y="492"/>
+      <point x="275" y="499" type="curve"/>
+      <point x="36" y="308" type="line"/>
+      <point x="16" y="279"/>
+      <point x="6" y="249"/>
+      <point x="8" y="221" type="curve"/>
+      <point x="77" y="155"/>
+      <point x="149" y="83"/>
+    </contour>
+    <contour>
+      <point x="463" y="-9" type="curve"/>
+      <point x="485" y="8"/>
+      <point x="499" y="50"/>
+      <point x="507" y="81" type="curve"/>
+      <point x="327" y="260" type="line"/>
+      <point x="580" y="441" type="line"/>
+      <point x="558" y="471"/>
+      <point x="530" y="492"/>
+      <point x="497" y="499" type="curve"/>
+      <point x="257" y="308" type="line"/>
+      <point x="237" y="279"/>
+      <point x="228" y="249"/>
+      <point x="230" y="221" type="curve"/>
+      <point x="300" y="157"/>
+      <point x="372" y="87"/>
+    </contour>
+  </outline>
+</glyph>

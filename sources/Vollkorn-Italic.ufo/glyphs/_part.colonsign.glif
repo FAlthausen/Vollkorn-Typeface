@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_part.colonsign" format="2">
+  <advance width="653"/>
+  <anchor x="461" y="676" name="_top"/>
+  <outline>
+    <contour>
+      <point x="299" y="-88" type="curve"/>
+      <point x="367" y="102"/>
+      <point x="547" y="583"/>
+      <point x="603" y="728" type="curve"/>
+      <point x="593" y="739"/>
+      <point x="583" y="743"/>
+      <point x="564" y="747" type="curve"/>
+      <point x="260" y="-69" type="line"/>
+      <point x="267" y="-76"/>
+      <point x="285" y="-85"/>
+    </contour>
+    <contour>
+      <point x="189" y="-88" type="curve"/>
+      <point x="257" y="102"/>
+      <point x="437" y="583"/>
+      <point x="493" y="728" type="curve"/>
+      <point x="483" y="739"/>
+      <point x="473" y="743"/>
+      <point x="454" y="747" type="curve"/>
+      <point x="150" y="-69" type="line"/>
+      <point x="157" y="-76"/>
+      <point x="175" y="-85"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+    </dict>
+  </lib>
+</glyph>

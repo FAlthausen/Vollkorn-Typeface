@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="zero.numr.zero" format="2">
+  <outline>
+    <contour>
+      <point x="192" y="330" type="line"/>
+      <point x="408" y="645" type="line"/>
+      <point x="375" y="677" type="line"/>
+      <point x="150" y="346" type="line"/>
+    </contour>
+    <component base="zero.numr"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>-1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

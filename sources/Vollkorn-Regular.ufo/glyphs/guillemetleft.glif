@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="guillemetleft" format="2">
+  <advance width="510"/>
+  <unicode hex="00AB"/>
+  <outline>
+    <contour>
+      <point x="231" y="415"/>
+      <point x="215" y="417" type="curve"/>
+      <point x="167" y="367"/>
+      <point x="122" y="323"/>
+      <point x="66" y="274" type="curve"/>
+      <point x="62" y="262"/>
+      <point x="60" y="252"/>
+      <point x="60" y="240" type="curve"/>
+      <point x="113" y="191"/>
+      <point x="164" y="143"/>
+      <point x="223" y="83" type="curve"/>
+      <point x="235" y="91"/>
+      <point x="241" y="103"/>
+      <point x="243" y="117" type="curve"/>
+      <point x="209" y="162"/>
+      <point x="175" y="212"/>
+      <point x="146" y="264" type="curve"/>
+      <point x="169" y="298"/>
+      <point x="216" y="358"/>
+      <point x="250" y="401" type="curve"/>
+      <point x="241" y="410"/>
+    </contour>
+    <contour>
+      <point x="381" y="412"/>
+      <point x="368" y="413" type="curve"/>
+      <point x="328" y="365"/>
+      <point x="292" y="323"/>
+      <point x="245" y="273" type="curve"/>
+      <point x="242" y="266"/>
+      <point x="239" y="254"/>
+      <point x="239" y="240" type="curve"/>
+      <point x="287" y="190"/>
+      <point x="322" y="151"/>
+      <point x="375" y="88" type="curve"/>
+      <point x="387" y="94"/>
+      <point x="394" y="103"/>
+      <point x="398" y="116" type="curve"/>
+      <point x="371" y="162"/>
+      <point x="341" y="217"/>
+      <point x="316" y="267" type="curve"/>
+      <point x="342" y="310"/>
+      <point x="371" y="354"/>
+      <point x="402" y="398" type="curve"/>
+      <point x="393" y="407"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>hyphen</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="notparallel" format="2">
+  <advance width="550"/>
+  <unicode hex="2226"/>
+  <outline>
+    <contour>
+      <point x="64" y="32" type="curve"/>
+      <point x="547" y="359" type="line"/>
+      <point x="536" y="383"/>
+      <point x="517" y="408"/>
+      <point x="493" y="426" type="curve"/>
+      <point x="3" y="97" type="line"/>
+      <point x="11" y="77"/>
+      <point x="31" y="55"/>
+    </contour>
+    <component base="parallel"/>
+  </outline>
+</glyph>
