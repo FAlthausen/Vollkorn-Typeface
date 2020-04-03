@@ -1170,6 +1170,10 @@
     <string>Regular</string>
     <key>com.schriftgestaltung.widthValue</key>
     <integer>100</integer>
+    <key>com.typemytype.robofont.fontIdentifier</key>
+    <string>fFjW-1y9StDk4HGYRga_CS6QPtV3Pn79Azv_JxT3dnE</string>
+    <key>com.typemytype.robofont.segmentType</key>
+    <string>curve</string>
     <key>public.glyphOrder</key>
     <array>
       <string>A</string>

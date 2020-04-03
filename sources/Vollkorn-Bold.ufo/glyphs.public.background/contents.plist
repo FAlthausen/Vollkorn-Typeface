@@ -16,6 +16,8 @@
     <string>C_doubleS_truck.glif</string>
     <key>Che-cy</key>
     <string>C_he-cy.glif</string>
+    <key>Chekhakassian-cy</key>
+    <string>C_hekhakassian-cy.glif</string>
     <key>DdoubleStruck</key>
     <string>D_doubleS_truck.glif</string>
     <key>De-cy</key>
@@ -398,6 +400,8 @@
     <string>che-cy.sc.glif</string>
     <key>cheabkhasian-cy.sc</key>
     <string>cheabkhasian-cy.sc.glif</string>
+    <key>chekhakassian-cy.sc</key>
+    <string>chekhakassian-cy.sc.glif</string>
     <key>chi</key>
     <string>chi.glif</string>
     <key>circumflexcomb.case</key>

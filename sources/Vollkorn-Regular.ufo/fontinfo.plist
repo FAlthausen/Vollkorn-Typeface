@@ -15,36 +15,48 @@
     <key>guidelines</key>
     <array>
       <dict>
+        <key>identifier</key>
+        <string>4D1BTk6WAE</string>
         <key>name</key>
         <string>Topline Numr [locked]</string>
         <key>y</key>
         <integer>724</integer>
       </dict>
       <dict>
+        <key>identifier</key>
+        <string>Wg8qZ4Cfvo</string>
         <key>name</key>
         <string>Baseline Numr [locked]</string>
         <key>y</key>
         <integer>281</integer>
       </dict>
       <dict>
+        <key>identifier</key>
+        <string>WxdhExfZa8</string>
         <key>name</key>
         <string>Topline Dnom [locked]</string>
         <key>y</key>
         <integer>443</integer>
       </dict>
       <dict>
+        <key>identifier</key>
+        <string>so2PXkZFBL</string>
         <key>name</key>
         <string>Hyphen's Center [locked]</string>
         <key>y</key>
         <integer>260</integer>
       </dict>
       <dict>
+        <key>identifier</key>
+        <string>yw0z9wxxgl</string>
         <key>name</key>
         <string>OSF [locked]</string>
         <key>y</key>
         <integer>500</integer>
       </dict>
       <dict>
+        <key>identifier</key>
+        <string>xea1UjnKRJ</string>
         <key>name</key>
         <string>Fussserife [locked]</string>
         <key>y</key>
@@ -53,6 +65,8 @@
       <dict>
         <key>angle</key>
         <integer>0</integer>
+        <key>identifier</key>
+        <string>LmpIAcRL9B</string>
         <key>name</key>
         <string>Case Center [locked]</string>
         <key>x</key>
