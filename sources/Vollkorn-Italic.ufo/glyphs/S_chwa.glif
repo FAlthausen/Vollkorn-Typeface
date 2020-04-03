@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Schwa" format="2">
+  <advance width="642"/>
+  <unicode hex="018F"/>
+  <anchor x="276" y="0" name="bottom"/>
+  <anchor x="368" y="676" name="top"/>
+  <outline>
+    <contour>
+      <point x="258" y="-7" type="curve" smooth="yes"/>
+      <point x="456" y="-7"/>
+      <point x="588" y="161"/>
+      <point x="625" y="348" type="curve" smooth="yes"/>
+      <point x="661" y="531"/>
+      <point x="597" y="685"/>
+      <point x="369" y="685" type="curve" smooth="yes"/>
+      <point x="303" y="685"/>
+      <point x="213" y="672"/>
+      <point x="155" y="643" type="curve"/>
+      <point x="153" y="597"/>
+      <point x="143" y="553"/>
+      <point x="133" y="513" type="curve"/>
+      <point x="149" y="504"/>
+      <point x="167" y="500"/>
+      <point x="185" y="498" type="curve"/>
+      <point x="218" y="593"/>
+      <point x="258" y="639"/>
+      <point x="356" y="639" type="curve" smooth="yes"/>
+      <point x="537" y="639"/>
+      <point x="549" y="485"/>
+      <point x="520" y="335" type="curve" smooth="yes"/>
+      <point x="477" y="114"/>
+      <point x="372" y="41"/>
+      <point x="277" y="41" type="curve" smooth="yes"/>
+      <point x="165" y="41"/>
+      <point x="137" y="142"/>
+      <point x="167" y="286" type="curve"/>
+      <point x="292" y="294"/>
+      <point x="414" y="295"/>
+      <point x="527" y="295" type="curve"/>
+      <point x="533" y="339" type="line"/>
+      <point x="78" y="342" type="line"/>
+      <point x="68" y="333"/>
+      <point x="62" y="323"/>
+      <point x="57" y="313" type="curve"/>
+      <point x="37" y="137"/>
+      <point x="74" y="-7"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>=O</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=O</string>
+    </dict>
+  </lib>
+</glyph>

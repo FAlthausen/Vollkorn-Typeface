@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="pertenthousand" format="2">
+  <advance width="1613"/>
+  <unicode hex="2031"/>
+  <outline>
+    <component base="percent"/>
+    <component base="_part.percent" xOffset="745" yOffset="-367"/>
+    <component base="_part.percent" xOffset="1120" yOffset="-367"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>=percent</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=percent</string>
+    </dict>
+  </lib>
+</glyph>

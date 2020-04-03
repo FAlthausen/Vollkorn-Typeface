@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="plus.case" format="2">
+  <outline>
+    <component base="plus" yOffset="87"/>
+  </outline>
+</glyph>

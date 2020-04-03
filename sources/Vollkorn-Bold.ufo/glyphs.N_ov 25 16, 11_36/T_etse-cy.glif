@@ -1,0 +1,114 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Tetse-cy" format="2">
+  <advance width="1037"/>
+  <unicode hex="04B4"/>
+  <outline>
+    <contour>
+      <point x="163" y="-3" type="curve"/>
+      <point x="203" y="-1"/>
+      <point x="284" y="0"/>
+      <point x="432" y="0" type="curve" smooth="yes"/>
+      <point x="718" y="0" type="line" smooth="yes"/>
+      <point x="866" y="0"/>
+      <point x="964" y="-1"/>
+      <point x="997" y="-3" type="curve"/>
+      <point x="997" y="23"/>
+      <point x="993" y="55"/>
+      <point x="988" y="75" type="curve"/>
+      <point x="932" y="83"/>
+      <point x="923" y="95"/>
+      <point x="923" y="185" type="curve" smooth="yes"/>
+      <point x="923" y="489" type="line" smooth="yes"/>
+      <point x="923" y="581"/>
+      <point x="933" y="597"/>
+      <point x="987" y="601" type="curve"/>
+      <point x="992" y="620"/>
+      <point x="997" y="655"/>
+      <point x="997" y="679" type="curve"/>
+      <point x="950" y="677"/>
+      <point x="877" y="676"/>
+      <point x="808" y="676" type="curve" smooth="yes"/>
+      <point x="743" y="676"/>
+      <point x="687" y="677"/>
+      <point x="659" y="679" type="curve"/>
+      <point x="659" y="653"/>
+      <point x="662" y="619"/>
+      <point x="667" y="601" type="curve"/>
+      <point x="713" y="597"/>
+      <point x="723" y="581"/>
+      <point x="723" y="489" type="curve" smooth="yes"/>
+      <point x="723" y="185" type="line" smooth="yes"/>
+      <point x="723" y="122"/>
+      <point x="718" y="96"/>
+      <point x="695" y="86" type="curve" smooth="yes"/>
+      <point x="680" y="79"/>
+      <point x="657" y="75"/>
+      <point x="580" y="75" type="curve" smooth="yes"/>
+      <point x="503" y="75"/>
+      <point x="480" y="79"/>
+      <point x="465" y="86" type="curve" smooth="yes"/>
+      <point x="442" y="96"/>
+      <point x="437" y="122"/>
+      <point x="437" y="185" type="curve" smooth="yes"/>
+      <point x="437" y="619" type="line"/>
+      <point x="237" y="619" type="line"/>
+      <point x="237" y="185" type="line" smooth="yes"/>
+      <point x="237" y="95"/>
+      <point x="227" y="81"/>
+      <point x="172" y="75" type="curve"/>
+      <point x="163" y="49"/>
+      <point x="163" y="24"/>
+    </contour>
+    <contour>
+      <point x="128" y="473" type="curve"/>
+      <point x="150" y="560"/>
+      <point x="182" y="601"/>
+      <point x="255" y="601" type="curve" smooth="yes"/>
+      <point x="417" y="601" type="line" smooth="yes"/>
+      <point x="485" y="601"/>
+      <point x="512" y="563"/>
+      <point x="530" y="473" type="curve"/>
+      <point x="569" y="473"/>
+      <point x="604" y="478"/>
+      <point x="630" y="489" type="curve"/>
+      <point x="615" y="549"/>
+      <point x="606" y="623"/>
+      <point x="606" y="679" type="curve"/>
+      <point x="532" y="677"/>
+      <point x="460" y="676"/>
+      <point x="333" y="676" type="curve" smooth="yes"/>
+      <point x="187" y="676"/>
+      <point x="126" y="676"/>
+      <point x="50" y="679" type="curve"/>
+      <point x="50" y="623"/>
+      <point x="39" y="542"/>
+      <point x="25" y="488" type="curve"/>
+      <point x="53" y="475"/>
+      <point x="91" y="473"/>
+    </contour>
+    <contour>
+      <point x="886" y="-128" type="curve"/>
+      <point x="920" y="-141"/>
+      <point x="967" y="-141"/>
+      <point x="997" y="-128" type="curve"/>
+      <point x="996" y="-84"/>
+      <point x="1000" y="-38"/>
+      <point x="1007" y="0" type="curve"/>
+      <point x="1007" y="30"/>
+      <point x="1001" y="54"/>
+      <point x="988" y="75" type="curve"/>
+      <point x="919" y="75" type="line"/>
+      <point x="869" y="35" type="line"/>
+      <point x="881" y="-26"/>
+      <point x="886" y="-85"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>=T</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=Tse-cy</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hastroke-cy" format="2">
+  <outline>
+    <component base="x"/>
+    <component base="strokelongcomb" xOffset="-77" yOffset="-26"/>
+  </outline>
+</glyph>

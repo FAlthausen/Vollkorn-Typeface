@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="pertenthousand" format="2">
+  <outline>
+    <component base="percent"/>
+    <component base="_part.percent" xOffset="740" yOffset="-367"/>
+    <component base="_part.percent" xOffset="1110" yOffset="-367"/>
+  </outline>
+</glyph>

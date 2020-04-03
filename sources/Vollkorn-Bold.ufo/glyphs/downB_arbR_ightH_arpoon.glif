@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="downBarbRightHarpoon" format="2">
+  <advance width="407"/>
+  <unicode hex="21C2"/>
+  <outline>
+    <contour>
+      <point x="100" y="-35" type="line"/>
+      <point x="121" y="-35"/>
+      <point x="167" y="-28"/>
+      <point x="186" y="-20" type="curve"/>
+      <point x="205" y="37"/>
+      <point x="292" y="169"/>
+      <point x="357" y="228" type="curve"/>
+      <point x="345" y="260"/>
+      <point x="335" y="277"/>
+      <point x="315" y="277" type="curve" smooth="yes"/>
+      <point x="304" y="277"/>
+      <point x="291" y="273"/>
+      <point x="276" y="263" type="curve" smooth="yes"/>
+      <point x="248" y="245"/>
+      <point x="213" y="226"/>
+      <point x="186" y="215" type="curve"/>
+      <point x="186" y="374"/>
+      <point x="188" y="533"/>
+      <point x="198" y="692" type="curve"/>
+      <point x="170" y="706"/>
+      <point x="139" y="711"/>
+      <point x="100" y="711" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>=100</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=downArrow</string>
+    </dict>
+  </lib>
+</glyph>

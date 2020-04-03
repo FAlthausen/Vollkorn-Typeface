@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_part.won.sc.black" format="2">
+  <advance width="880"/>
+  <anchor x="443" y="210" name="_center"/>
+  <outline>
+    <contour>
+      <point x="22" y="281" type="curve"/>
+      <point x="141" y="283"/>
+      <point x="260" y="284"/>
+      <point x="379" y="284" type="curve"/>
+      <point x="397" y="324" type="line"/>
+      <point x="31" y="324" type="line"/>
+      <point x="25" y="313"/>
+      <point x="22" y="297"/>
+    </contour>
+    <contour>
+      <point x="19" y="180" type="curve"/>
+      <point x="90" y="181"/>
+      <point x="162" y="182"/>
+      <point x="233" y="182" type="curve"/>
+      <point x="213" y="223" type="line"/>
+      <point x="29" y="223" type="line"/>
+      <point x="22" y="210"/>
+      <point x="19" y="195"/>
+    </contour>
+    <contour>
+      <point x="854" y="180" type="curve"/>
+      <point x="861" y="193"/>
+      <point x="865" y="206"/>
+      <point x="865" y="223" type="curve"/>
+      <point x="703" y="223" type="line"/>
+      <point x="686" y="182" type="line"/>
+      <point x="742" y="181"/>
+      <point x="798" y="181"/>
+    </contour>
+    <contour>
+      <point x="857" y="281" type="curve"/>
+      <point x="862" y="295"/>
+      <point x="867" y="307"/>
+      <point x="867" y="324" type="curve"/>
+      <point x="537" y="324" type="line"/>
+      <point x="556" y="284" type="line"/>
+      <point x="657" y="283"/>
+      <point x="757" y="282"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>height</key>
+        <integer>74</integer>
+        <key>width</key>
+        <integer>88</integer>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

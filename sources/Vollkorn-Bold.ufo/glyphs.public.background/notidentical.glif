@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="notidentical" format="2">
+  <outline>
+    <contour>
+      <point x="170" y="-121" type="line"/>
+      <point x="469" y="587" type="line"/>
+      <point x="378" y="623" type="line"/>
+      <point x="79" y="-85" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>Dzeabkhasian-cy</key>
+    <string>D_zeabkhasian-cy.glif</string>
+    <key>E-cy</key>
+    <string>E_-cy.glif</string>
+    <key>Ereversed-cy</key>
+    <string>E_reversed-cy.glif</string>
+    <key>Reversedze-cy</key>
+    <string>R_eversedze-cy.glif</string>
+    <key>Ze-cy</key>
+    <string>Z_e-cy.glif</string>
+  </dict>
+</plist>

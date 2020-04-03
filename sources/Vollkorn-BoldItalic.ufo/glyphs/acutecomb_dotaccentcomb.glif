@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="acutecomb_dotaccentcomb" format="2">
+  <outline>
+    <component base="acutecomb.case" xOffset="-5" yOffset="-200"/>
+    <component base="dotaccentcomb.case" xOffset="-13" yOffset="10"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>=50</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=50</string>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>339</integer>
+    </dict>
+  </lib>
+</glyph>

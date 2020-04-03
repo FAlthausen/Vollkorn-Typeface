@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="commaturnedabovecomb" format="2">
+  <unicode hex="0312"/>
+  <anchor x="150" y="458" name="_top"/>
+  <outline>
+    <contour>
+      <point x="104" y="500" type="curve"/>
+      <point x="134" y="517"/>
+      <point x="177" y="527"/>
+      <point x="230" y="528" type="curve"/>
+      <point x="244" y="560"/>
+      <point x="249" y="584"/>
+      <point x="246" y="622" type="curve"/>
+      <point x="202" y="626"/>
+      <point x="180" y="630"/>
+      <point x="180" y="648" type="curve" smooth="yes"/>
+      <point x="180" y="666"/>
+      <point x="200" y="688"/>
+      <point x="219" y="704" type="curve"/>
+      <point x="204" y="720"/>
+      <point x="175" y="732"/>
+      <point x="139" y="730" type="curve"/>
+      <point x="89" y="692"/>
+      <point x="50" y="641"/>
+      <point x="50" y="577" type="curve" smooth="yes"/>
+      <point x="50" y="538"/>
+      <point x="65" y="509"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>=50</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=50</string>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>297</integer>
+    </dict>
+  </lib>
+</glyph>

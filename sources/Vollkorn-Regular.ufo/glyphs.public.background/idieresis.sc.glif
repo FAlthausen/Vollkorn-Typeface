@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="idieresis.sc" format="2">
+  <outline>
+    <component base="i.sc"/>
+    <component base="dieresiscomb.i" xOffset="-2" yOffset="42"/>
+  </outline>
+</glyph>

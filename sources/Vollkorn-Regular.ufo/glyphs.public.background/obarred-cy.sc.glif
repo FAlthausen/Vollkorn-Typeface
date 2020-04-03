@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="obarred-cy.sc" format="2">
+  <outline>
+    <component base="o.sc"/>
+    <component base="_part.ThetaSymbol" xOffset="63" yOffset="-100"/>
+  </outline>
+</glyph>

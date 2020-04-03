@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="haabkhasian-cy.sc" format="2">
+  <advance width="948"/>
+  <outline>
+    <contour>
+      <point x="423" y="-7" type="curve" smooth="yes"/>
+      <point x="647" y="-7"/>
+      <point x="864" y="118"/>
+      <point x="864" y="292" type="curve" smooth="yes"/>
+      <point x="864" y="425"/>
+      <point x="772" y="489"/>
+      <point x="617" y="489" type="curve" smooth="yes"/>
+      <point x="451" y="489"/>
+      <point x="350" y="416"/>
+      <point x="350" y="265" type="curve" smooth="yes"/>
+      <point x="350" y="110"/>
+      <point x="517" y="0"/>
+      <point x="704" y="0" type="curve" smooth="yes"/>
+      <point x="792" y="0"/>
+      <point x="862" y="26"/>
+      <point x="918" y="69" type="curve"/>
+      <point x="906" y="91"/>
+      <point x="887" y="113"/>
+      <point x="867" y="125" type="curve"/>
+      <point x="831" y="99"/>
+      <point x="785" y="84"/>
+      <point x="721" y="84" type="curve" smooth="yes"/>
+      <point x="593" y="84"/>
+      <point x="538" y="129"/>
+      <point x="538" y="288" type="curve" smooth="yes"/>
+      <point x="538" y="390"/>
+      <point x="557" y="418"/>
+      <point x="602" y="418" type="curve" smooth="yes"/>
+      <point x="646" y="418"/>
+      <point x="666" y="396"/>
+      <point x="666" y="281" type="curve" smooth="yes"/>
+      <point x="666" y="120"/>
+      <point x="619" y="63"/>
+      <point x="483" y="63" type="curve" smooth="yes"/>
+      <point x="314" y="63"/>
+      <point x="253" y="165"/>
+      <point x="253" y="272" type="curve" smooth="yes"/>
+      <point x="253" y="376"/>
+      <point x="305" y="427"/>
+      <point x="384" y="437" type="curve"/>
+      <point x="385" y="465"/>
+      <point x="382" y="488"/>
+      <point x="371" y="507" type="curve"/>
+      <point x="180" y="501"/>
+      <point x="55" y="398"/>
+      <point x="55" y="258" type="curve" smooth="yes"/>
+      <point x="55" y="97"/>
+      <point x="215" y="-7"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>height</key>
+        <integer>74</integer>
+        <key>weight</key>
+        <integer>-8</integer>
+        <key>width</key>
+        <integer>90</integer>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>=O+20</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=Haabkhasian-cy+20</string>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

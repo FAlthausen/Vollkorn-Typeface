@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="divides" format="2">
+  <advance width="550"/>
+  <unicode hex="2223"/>
+  <outline>
+    <component base="bar" xOffset="204"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
+      <string>=550</string>
+    </dict>
+  </lib>
+</glyph>

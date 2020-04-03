@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="four.sups" format="2">
+  <advance width="447"/>
+  <outline>
+    <contour>
+      <point x="204" y="410" type="curve" smooth="yes"/>
+      <point x="416" y="410" type="line"/>
+      <point x="416" y="449"/>
+      <point x="419" y="464"/>
+      <point x="433" y="499" type="curve"/>
+      <point x="423" y="515"/>
+      <point x="412" y="520"/>
+      <point x="393" y="520" type="curve" smooth="yes"/>
+      <point x="99" y="519" type="line"/>
+      <point x="97" y="497" type="line"/>
+      <point x="246" y="681" type="line"/>
+      <point x="223" y="689" type="line"/>
+      <point x="223" y="335" type="line" smooth="yes"/>
+      <point x="223" y="311"/>
+      <point x="228" y="301"/>
+      <point x="240" y="291" type="curve"/>
+      <point x="274" y="305"/>
+      <point x="309" y="311"/>
+      <point x="352" y="311" type="curve"/>
+      <point x="352" y="757" type="line"/>
+      <point x="323" y="762"/>
+      <point x="291" y="763"/>
+      <point x="258" y="762" type="curve"/>
+      <point x="14" y="497" type="line"/>
+      <point x="14" y="464"/>
+      <point x="24" y="433"/>
+      <point x="38" y="405" type="curve"/>
+      <point x="99" y="409"/>
+      <point x="149" y="410"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>height</key>
+        <real>69.5</real>
+        <key>verticalShift</key>
+        <integer>410</integer>
+        <key>weight</key>
+        <integer>-60</integer>
+        <key>width</key>
+        <integer>73</integer>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="blackSquare" format="2">
+  <advance width="720"/>
+  <unicode hex="25A0"/>
+  <outline>
+    <contour>
+      <point x="25" y="0" type="line"/>
+      <point x="695" y="0" type="line"/>
+      <point x="695" y="676" type="line"/>
+      <point x="25" y="676" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>=25</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=25</string>
+    </dict>
+  </lib>
+</glyph>

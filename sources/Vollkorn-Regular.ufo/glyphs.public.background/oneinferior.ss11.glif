@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="oneinferior.ss11" format="2">
+  <outline>
+    <component base="onesuperior.ss11" yOffset="-550"/>
+  </outline>
+</glyph>

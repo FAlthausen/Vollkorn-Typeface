@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ecircumflexhookabove.ss01" format="2">
+  <advance width="601"/>
+  <outline>
+    <component base="E.ss01"/>
+    <component base="circumflexcomb.case" xOffset="92"/>
+    <component base="hookabovecomb.case" xOffset="199" yOffset="200"/>
+  </outline>
+</glyph>

@@ -1,0 +1,93 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="daggerdbl.sups" format="2">
+  <advance width="446"/>
+  <outline>
+    <contour>
+      <point x="241" y="288"/>
+      <point x="289" y="295" type="curve"/>
+      <point x="281" y="331"/>
+      <point x="276" y="372"/>
+      <point x="265" y="447" type="curve" smooth="yes"/>
+      <point x="257" y="504"/>
+      <point x="262" y="550"/>
+      <point x="284" y="568" type="curve"/>
+      <point x="262" y="588"/>
+      <point x="255" y="635"/>
+      <point x="263" y="694" type="curve" smooth="yes"/>
+      <point x="274" y="772"/>
+      <point x="276" y="812"/>
+      <point x="284" y="850" type="curve" smooth="yes"/>
+      <point x="287" y="865"/>
+      <point x="283" y="871"/>
+      <point x="257" y="878" type="curve"/>
+      <point x="221" y="865"/>
+      <point x="197" y="855"/>
+      <point x="150" y="850" type="curve"/>
+      <point x="156" y="812"/>
+      <point x="161" y="775"/>
+      <point x="172" y="694" type="curve" smooth="yes"/>
+      <point x="180" y="636"/>
+      <point x="179" y="588"/>
+      <point x="162" y="568" type="curve"/>
+      <point x="183" y="549"/>
+      <point x="188" y="504"/>
+      <point x="183" y="447" type="curve" smooth="yes"/>
+      <point x="177" y="371"/>
+      <point x="171" y="334"/>
+      <point x="164" y="295" type="curve" smooth="yes"/>
+      <point x="161" y="280"/>
+      <point x="165" y="273"/>
+      <point x="192" y="267" type="curve"/>
+      <point x="229" y="280"/>
+    </contour>
+    <contour>
+      <point x="408" y="728" type="curve"/>
+      <point x="51" y="728" type="line"/>
+      <point x="41" y="701"/>
+      <point x="38" y="673"/>
+      <point x="38" y="632" type="curve"/>
+      <point x="98" y="644"/>
+      <point x="145" y="651"/>
+      <point x="221" y="653" type="curve"/>
+      <point x="294" y="648"/>
+      <point x="335" y="642"/>
+      <point x="385" y="632" type="curve"/>
+      <point x="402" y="662"/>
+      <point x="407" y="692"/>
+    </contour>
+    <contour>
+      <point x="37" y="410" type="curve"/>
+      <point x="394" y="410" type="line"/>
+      <point x="404" y="437"/>
+      <point x="407" y="466"/>
+      <point x="407" y="506" type="curve"/>
+      <point x="346" y="494"/>
+      <point x="300" y="487"/>
+      <point x="223" y="485" type="curve"/>
+      <point x="150" y="490"/>
+      <point x="110" y="497"/>
+      <point x="60" y="507" type="curve"/>
+      <point x="43" y="477"/>
+      <point x="38" y="446"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>height</key>
+        <real>69.5</real>
+        <key>verticalShift</key>
+        <integer>410</integer>
+        <key>weight</key>
+        <integer>-20</integer>
+        <key>width</key>
+        <integer>90</integer>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>dagger.sups</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>dagger.sups</string>
+    </dict>
+  </lib>
+</glyph>

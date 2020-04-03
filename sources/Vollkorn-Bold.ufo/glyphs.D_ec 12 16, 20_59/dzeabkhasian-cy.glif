@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dzeabkhasian-cy" format="2">
+  <advance width="537"/>
+  <unicode hex="04E1"/>
+  <outline>
+    <contour>
+      <point x="229" y="-248" type="curve" smooth="yes"/>
+      <point x="417" y="-248"/>
+      <point x="517" y="-161"/>
+      <point x="517" y="-37" type="curve" smooth="yes"/>
+      <point x="517" y="74"/>
+      <point x="437" y="122"/>
+      <point x="287" y="127" type="curve"/>
+      <point x="331" y="92" type="line"/>
+      <point x="398" y="178"/>
+      <point x="458" y="277"/>
+      <point x="507" y="390" type="curve"/>
+      <point x="505" y="419"/>
+      <point x="498" y="440"/>
+      <point x="486" y="460" type="curve"/>
+      <point x="425" y="458"/>
+      <point x="330" y="458"/>
+      <point x="264" y="458" type="curve" smooth="yes"/>
+      <point x="209" y="458"/>
+      <point x="111" y="458"/>
+      <point x="70" y="460" type="curve"/>
+      <point x="70" y="406"/>
+      <point x="64" y="330"/>
+      <point x="50" y="272" type="curve"/>
+      <point x="73" y="258"/>
+      <point x="108" y="255"/>
+      <point x="146" y="258" type="curve"/>
+      <point x="174" y="360"/>
+      <point x="201" y="383"/>
+      <point x="266" y="383" type="curve" smooth="yes"/>
+      <point x="375" y="383" type="line"/>
+      <point x="336" y="438" type="line"/>
+      <point x="285" y="325"/>
+      <point x="220" y="212"/>
+      <point x="156" y="135" type="curve"/>
+      <point x="156" y="110"/>
+      <point x="167" y="77"/>
+      <point x="179" y="60" type="curve"/>
+      <point x="188" y="62"/>
+      <point x="197" y="62"/>
+      <point x="206" y="62" type="curve" smooth="yes"/>
+      <point x="289" y="62"/>
+      <point x="331" y="16"/>
+      <point x="331" y="-53" type="curve" smooth="yes"/>
+      <point x="331" y="-129"/>
+      <point x="283" y="-171"/>
+      <point x="194" y="-171" type="curve" smooth="yes"/>
+      <point x="142" y="-171"/>
+      <point x="105" y="-155"/>
+      <point x="73" y="-130" type="curve"/>
+      <point x="54" y="-149"/>
+      <point x="43" y="-174"/>
+      <point x="40" y="-198" type="curve"/>
+      <point x="80" y="-230"/>
+      <point x="144" y="-248"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>=z</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=o</string>
+    </dict>
+  </lib>
+</glyph>

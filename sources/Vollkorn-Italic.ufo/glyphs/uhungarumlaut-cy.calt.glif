@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uhungarumlaut-cy.calt" format="2">
+  <advance width="453"/>
+  <outline>
+    <component base="u-cy.calt"/>
+    <component base="hungarumlautcomb" xOffset="23"/>
+  </outline>
+</glyph>

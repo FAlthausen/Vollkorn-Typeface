@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="parallel" format="2">
+  <outline>
+    <component base="bar" xOffset="90"/>
+    <component base="bar" xOffset="290"/>
+  </outline>
+</glyph>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="measuredangle" format="2">
+  <advance width="550"/>
+  <unicode hex="2221"/>
+  <outline>
+    <contour>
+      <point x="333" y="90" type="curve"/>
+      <point x="428" y="90" type="line"/>
+      <point x="428" y="210"/>
+      <point x="369" y="308"/>
+      <point x="241" y="401" type="curve"/>
+      <point x="209" y="393"/>
+      <point x="184" y="375"/>
+      <point x="166" y="345" type="curve"/>
+      <point x="280" y="268"/>
+      <point x="333" y="188"/>
+    </contour>
+    <component base="angle"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>=angle</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=angle</string>
+    </dict>
+  </lib>
+</glyph>

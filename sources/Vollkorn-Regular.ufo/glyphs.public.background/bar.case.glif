@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bar.case" format="2">
+  <outline>
+    <component base="bar" yOffset="105"/>
+  </outline>
+</glyph>

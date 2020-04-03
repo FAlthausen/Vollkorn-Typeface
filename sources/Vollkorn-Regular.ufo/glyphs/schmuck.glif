@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="schmuck" format="2">
+  <advance width="3116"/>
+  <outline>
+    <contour>
+      <point x="1386" y="226" type="curve"/>
+      <point x="1373" y="249"/>
+      <point x="1361" y="289"/>
+      <point x="1357" y="317" type="curve"/>
+      <point x="1014" y="294"/>
+      <point x="483" y="290"/>
+      <point x="71" y="290" type="curve"/>
+      <point x="62" y="274"/>
+      <point x="60" y="258"/>
+      <point x="60" y="237" type="curve"/>
+      <point x="552" y="237"/>
+      <point x="1014" y="232"/>
+      <point x="1359" y="210" type="curve" smooth="yes"/>
+      <point x="1375" y="209"/>
+      <point x="1382" y="214"/>
+    </contour>
+    <contour>
+      <point x="1730" y="301" type="curve"/>
+      <point x="1743" y="278"/>
+      <point x="1755" y="238"/>
+      <point x="1759" y="210" type="curve"/>
+      <point x="2102" y="233"/>
+      <point x="2633" y="237"/>
+      <point x="3045" y="237" type="curve"/>
+      <point x="3054" y="253"/>
+      <point x="3056" y="269"/>
+      <point x="3056" y="290" type="curve"/>
+      <point x="2564" y="290"/>
+      <point x="2102" y="295"/>
+      <point x="1757" y="317" type="curve" smooth="yes"/>
+      <point x="1741" y="318"/>
+      <point x="1734" y="313"/>
+    </contour>
+    <contour>
+      <point x="1556.34" y="204.2" type="curve" smooth="yes"/>
+      <point x="1587.96" y="204.2"/>
+      <point x="1616.52" y="224"/>
+      <point x="1616.52" y="268" type="curve" smooth="yes"/>
+      <point x="1616.52" y="293.3"/>
+      <point x="1595.1" y="325.2"/>
+      <point x="1560.42" y="325.2" type="curve" smooth="yes"/>
+      <point x="1523.7" y="325.2"/>
+      <point x="1498.2" y="296.6"/>
+      <point x="1498.2" y="262.5" type="curve" smooth="yes"/>
+      <point x="1498.2" y="228.4"/>
+      <point x="1519.62" y="204.2"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>hyphen</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>hyphen</string>
+      <key>com.schriftgestaltung.Glyphs.layer.leftMetricsKey</key>
+      <string>=hyphen</string>
+      <key>com.schriftgestaltung.Glyphs.layer.rightMetricsKey</key>
+      <string>=hyphen</string>
+      <key>public.markColor</key>
+      <string>0.98,0.36,0.67,1</string>
+    </dict>
+  </lib>
+</glyph>

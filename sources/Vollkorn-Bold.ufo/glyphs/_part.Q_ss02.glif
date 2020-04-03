@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_part.Qss02" format="2">
+  <advance width="403"/>
+  <anchor x="33" y="0" name="_bottom"/>
+  <outline>
+    <contour>
+      <point x="286" y="-9" type="curve"/>
+      <point x="307" y="-1"/>
+      <point x="333" y="20"/>
+      <point x="354" y="44" type="curve"/>
+      <point x="107" y="266" type="line"/>
+      <point x="87" y="257"/>
+      <point x="55" y="232"/>
+      <point x="33" y="209" type="curve"/>
+      <point x="122" y="139"/>
+      <point x="206" y="68"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+    </dict>
+  </lib>
+</glyph>

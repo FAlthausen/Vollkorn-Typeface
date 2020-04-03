@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="rightOverLeftHarpoon" format="2">
+  <advance width="900"/>
+  <unicode hex="21CC"/>
+  <outline>
+    <component base="leftOverRightHarpoon" xScale="-1" xOffset="900"/>
+  </outline>
+</glyph>

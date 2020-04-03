@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="zero.numr" format="2">
+  <advance width="472"/>
+  <outline>
+    <contour>
+      <point x="248" y="275" type="curve" smooth="yes"/>
+      <point x="384" y="275"/>
+      <point x="478" y="351"/>
+      <point x="505" y="493" type="curve" smooth="yes"/>
+      <point x="535" y="644"/>
+      <point x="473" y="728"/>
+      <point x="330" y="728" type="curve" smooth="yes"/>
+      <point x="194" y="728"/>
+      <point x="102" y="660"/>
+      <point x="74" y="518" type="curve" smooth="yes"/>
+      <point x="45" y="367"/>
+      <point x="105" y="275"/>
+    </contour>
+    <contour>
+      <point x="255" y="334" type="curve" smooth="yes"/>
+      <point x="218" y="334"/>
+      <point x="217" y="393"/>
+      <point x="238" y="502" type="curve" smooth="yes"/>
+      <point x="261" y="619"/>
+      <point x="286" y="669"/>
+      <point x="323" y="669" type="curve" smooth="yes"/>
+      <point x="361" y="669"/>
+      <point x="362" y="613"/>
+      <point x="341" y="509" type="curve" smooth="yes"/>
+      <point x="317" y="382"/>
+      <point x="289" y="334"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>height</key>
+        <real>65.6</real>
+        <key>verticalShift</key>
+        <integer>281</integer>
+        <key>weight</key>
+        <integer>-34</integer>
+        <key>width</key>
+        <integer>70</integer>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.85,0.26,0.06,1</string>
+    </dict>
+  </lib>
+</glyph>

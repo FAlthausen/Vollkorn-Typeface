@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="circumflexcomb.i.case" format="2">
+  <anchor x="304" y="676" name="_top"/>
+  <anchor x="343" y="879" name="top"/>
+  <outline>
+    <contour>
+      <point x="222" y="704" type="curve"/>
+      <point x="245" y="725"/>
+      <point x="277" y="746"/>
+      <point x="308" y="762" type="curve"/>
+      <point x="339" y="745"/>
+      <point x="363" y="734"/>
+      <point x="391" y="712" type="curve"/>
+      <point x="425" y="711"/>
+      <point x="469" y="724"/>
+      <point x="497" y="747" type="curve"/>
+      <point x="457" y="796"/>
+      <point x="423" y="836"/>
+      <point x="392" y="875" type="curve"/>
+      <point x="371" y="881"/>
+      <point x="331" y="879"/>
+      <point x="301" y="876" type="curve"/>
+      <point x="254" y="841"/>
+      <point x="200" y="798"/>
+      <point x="155" y="771" type="curve"/>
+      <point x="167" y="738"/>
+      <point x="189" y="719"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>=50</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=50</string>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>446</integer>
+    </dict>
+  </lib>
+</glyph>

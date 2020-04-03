@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="brevecomb-cy.case" format="2">
+  <anchor x="258" y="676" name="_top"/>
+  <outline>
+    <contour>
+      <point x="249" y="725" type="curve" smooth="yes"/>
+      <point x="395" y="725"/>
+      <point x="466" y="779"/>
+      <point x="466" y="881" type="curve"/>
+      <point x="438" y="895"/>
+      <point x="389" y="899"/>
+      <point x="354" y="892" type="curve"/>
+      <point x="347" y="819"/>
+      <point x="322" y="792"/>
+      <point x="259" y="792" type="curve" smooth="yes"/>
+      <point x="202" y="792"/>
+      <point x="175" y="819"/>
+      <point x="163" y="892" type="curve"/>
+      <point x="127" y="900"/>
+      <point x="78" y="896"/>
+      <point x="50" y="883" type="curve"/>
+      <point x="50" y="779"/>
+      <point x="116" y="725"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>height</key>
+        <integer>81</integer>
+        <key>verticalShift</key>
+        <integer>310</integer>
+        <key>weight</key>
+        <integer>-3</integer>
+        <key>width</key>
+        <integer>90</integer>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>=50</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=50</string>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>516</integer>
+    </dict>
+  </lib>
+</glyph>

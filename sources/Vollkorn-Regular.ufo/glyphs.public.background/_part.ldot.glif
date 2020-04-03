@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_part.ldot" format="2">
+  <anchor x="155" y="340" name="_center"/>
+  <outline>
+    <contour>
+      <point x="304" y="292" type="curve" smooth="yes"/>
+      <point x="335" y="292"/>
+      <point x="363" y="310"/>
+      <point x="363" y="350" type="curve" smooth="yes"/>
+      <point x="363" y="373"/>
+      <point x="342" y="402"/>
+      <point x="308" y="402" type="curve" smooth="yes"/>
+      <point x="272" y="402"/>
+      <point x="247" y="376"/>
+      <point x="247" y="345" type="curve" smooth="yes"/>
+      <point x="247" y="314"/>
+      <point x="268" y="292"/>
+    </contour>
+  </outline>
+</glyph>

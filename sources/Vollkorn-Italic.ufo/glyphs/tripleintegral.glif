@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tripleintegral" format="2">
+  <advance width="729"/>
+  <unicode hex="222D"/>
+  <outline>
+    <component base="integral" xOffset="440"/>
+    <component base="integral" xOffset="220"/>
+    <component base="integral"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>=integral</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=integral</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_part.colonsign.black" format="2">
+  <advance width="653"/>
+  <anchor x="462" y="676" name="_top"/>
+  <outline>
+    <contour>
+      <point x="190" y="-88" type="curve"/>
+      <point x="203" y="-51"/>
+      <point x="220" y="-3"/>
+      <point x="240" y="51" type="curve"/>
+      <point x="203" y="70" type="line"/>
+      <point x="151" y="-69" type="line"/>
+      <point x="158" y="-76"/>
+      <point x="176" y="-85"/>
+    </contour>
+    <contour>
+      <point x="300" y="-88" type="curve"/>
+      <point x="312" y="-56"/>
+      <point x="326" y="-16"/>
+      <point x="343" y="30" type="curve"/>
+      <point x="298" y="30" type="line"/>
+      <point x="261" y="-69" type="line"/>
+      <point x="268" y="-76"/>
+      <point x="286" y="-85"/>
+    </contour>
+    <contour>
+      <point x="426" y="668" type="line"/>
+      <point x="471" y="668" type="line"/>
+      <point x="480" y="692"/>
+      <point x="488" y="712"/>
+      <point x="494" y="728" type="curve"/>
+      <point x="484" y="739"/>
+      <point x="474" y="743"/>
+      <point x="455" y="747" type="curve"/>
+    </contour>
+    <contour>
+      <point x="570" y="640" type="line"/>
+      <point x="584" y="676"/>
+      <point x="595" y="706"/>
+      <point x="604" y="728" type="curve"/>
+      <point x="594" y="739"/>
+      <point x="584" y="743"/>
+      <point x="565" y="747" type="curve"/>
+      <point x="531" y="657" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+    </dict>
+  </lib>
+</glyph>

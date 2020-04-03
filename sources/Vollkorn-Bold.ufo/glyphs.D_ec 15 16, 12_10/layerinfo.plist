@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>lib</key>
+    <dict>
+      <key>com.schriftgestaltung.layerId</key>
+      <string>10010795-5DB9-42B2-9B42-10234361862C</string>
+      <key>com.schriftgestaltung.layerOrderInGlyph.Kabashkir-cy</key>
+      <integer>5</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.kabashkir-cy</key>
+      <integer>5</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.kabashkir-cy.sc</key>
+      <integer>5</integer>
+    </dict>
+  </dict>
+</plist>

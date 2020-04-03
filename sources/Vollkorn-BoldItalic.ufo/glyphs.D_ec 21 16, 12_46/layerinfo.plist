@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>lib</key>
+    <dict>
+      <key>com.schriftgestaltung.layerId</key>
+      <string>85A6D021-08E6-49CD-92E8-25DAE4257557</string>
+      <key>com.schriftgestaltung.layerOrderInGlyph.Dzeabkhasian-cy</key>
+      <integer>2</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.E-cy</key>
+      <integer>3</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.Ereversed-cy</key>
+      <integer>3</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.Reversedze-cy</key>
+      <integer>2</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.Ze-cy</key>
+      <integer>3</integer>
+    </dict>
+  </dict>
+</plist>

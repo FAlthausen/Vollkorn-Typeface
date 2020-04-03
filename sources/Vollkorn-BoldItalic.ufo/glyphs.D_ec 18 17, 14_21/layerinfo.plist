@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>lib</key>
+    <dict>
+      <key>com.schriftgestaltung.layerId</key>
+      <string>0A48900E-0EA9-4A02-8C5D-5F674E68FDF1</string>
+      <key>com.schriftgestaltung.layerOrderInGlyph.horncomb</key>
+      <integer>3</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.horncomb.case</key>
+      <integer>3</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.horncomb.case.O</key>
+      <integer>3</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.horncomb.o</key>
+      <integer>3</integer>
+    </dict>
+  </dict>
+</plist>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hyphen" format="2">
+  <advance width="367"/>
+  <unicode hex="002D"/>
+  <outline>
+    <contour>
+      <point x="43" y="206" type="curve"/>
+      <point x="158" y="209"/>
+      <point x="246" y="209"/>
+      <point x="312" y="209" type="curve"/>
+      <point x="326" y="240"/>
+      <point x="332" y="267"/>
+      <point x="333" y="306" type="curve"/>
+      <point x="68" y="306" type="line"/>
+      <point x="55" y="281"/>
+      <point x="48" y="253"/>
+    </contour>
+  </outline>
+</glyph>

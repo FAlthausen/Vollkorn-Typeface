@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_part.won.sc" format="2">
+  <outline>
+    <contour>
+      <point x="4" y="206" type="curve"/>
+      <point x="326" y="215"/>
+      <point x="649" y="215"/>
+      <point x="971" y="206" type="curve"/>
+      <point x="978" y="230"/>
+      <point x="983" y="252"/>
+      <point x="983" y="283" type="curve"/>
+      <point x="16" y="283" type="line"/>
+      <point x="5" y="259"/>
+      <point x="4" y="235"/>
+    </contour>
+    <contour>
+      <point x="1" y="371" type="curve"/>
+      <point x="325" y="380"/>
+      <point x="650" y="380"/>
+      <point x="974" y="371" type="curve"/>
+      <point x="982" y="396"/>
+      <point x="985" y="417"/>
+      <point x="985" y="448" type="curve"/>
+      <point x="12" y="448" type="line"/>
+      <point x="3" y="427"/>
+      <point x="1" y="401"/>
+    </contour>
+  </outline>
+</glyph>

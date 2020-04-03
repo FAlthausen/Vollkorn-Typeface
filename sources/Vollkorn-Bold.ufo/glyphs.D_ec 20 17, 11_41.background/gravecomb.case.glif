@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="gravecomb.case" format="2">
+  <anchor x="190" y="676" name="_top"/>
+  <anchor x="190" y="905" name="top"/>
+  <outline>
+    <contour>
+      <point x="161" y="721" type="curve"/>
+      <point x="207" y="721"/>
+      <point x="238" y="727"/>
+      <point x="263" y="739" type="curve"/>
+      <point x="236" y="790"/>
+      <point x="209" y="856"/>
+      <point x="194" y="905" type="curve"/>
+      <point x="136" y="905"/>
+      <point x="78" y="893"/>
+      <point x="30" y="873" type="curve"/>
+      <point x="90" y="819"/>
+      <point x="124" y="773"/>
+    </contour>
+  </outline>
+</glyph>

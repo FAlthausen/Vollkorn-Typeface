@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ereversed-cy" format="2">
+  <advance width="681"/>
+  <unicode hex="042D"/>
+  <anchor x="316" y="676" name="top"/>
+  <outline>
+    <contour>
+      <point x="284" y="-9" type="curve" smooth="yes"/>
+      <point x="514" y="-9"/>
+      <point x="646" y="128"/>
+      <point x="646" y="349" type="curve" smooth="yes"/>
+      <point x="646" y="566"/>
+      <point x="518" y="685"/>
+      <point x="299" y="685" type="curve" smooth="yes"/>
+      <point x="212" y="685"/>
+      <point x="133" y="666"/>
+      <point x="64" y="633" type="curve"/>
+      <point x="72" y="587"/>
+      <point x="75" y="533"/>
+      <point x="75" y="478" type="curve"/>
+      <point x="93" y="468"/>
+      <point x="143" y="464"/>
+      <point x="174" y="464" type="curve"/>
+      <point x="175" y="568"/>
+      <point x="213" y="608"/>
+      <point x="277" y="608" type="curve" smooth="yes"/>
+      <point x="381" y="608"/>
+      <point x="441" y="503"/>
+      <point x="441" y="330" type="curve" smooth="yes"/>
+      <point x="441" y="163"/>
+      <point x="386" y="68"/>
+      <point x="274" y="68" type="curve" smooth="yes"/>
+      <point x="200" y="68"/>
+      <point x="152" y="110"/>
+      <point x="148" y="215" type="curve"/>
+      <point x="115" y="217"/>
+      <point x="68" y="209"/>
+      <point x="50" y="198" type="curve"/>
+      <point x="56" y="147"/>
+      <point x="56" y="89"/>
+      <point x="52" y="43" type="curve"/>
+      <point x="123" y="9"/>
+      <point x="200" y="-9"/>
+    </contour>
+    <contour>
+      <point x="166" y="293" type="curve"/>
+      <point x="300" y="299"/>
+      <point x="361" y="299"/>
+      <point x="456" y="299" type="curve"/>
+      <point x="456" y="385" type="line"/>
+      <point x="182" y="385" type="line"/>
+      <point x="173" y="364"/>
+      <point x="166" y="325"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>=|C</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>O</string>
+      <key>com.schriftgestaltung.Glyphs.layer.leftMetricsKey</key>
+      <string>=|C+30</string>
+    </dict>
+  </lib>
+</glyph>

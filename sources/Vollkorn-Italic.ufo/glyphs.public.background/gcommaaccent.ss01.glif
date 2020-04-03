@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="gcommaaccent.ss01" format="2">
+  <outline>
+    <component base="g.ss01"/>
+    <component base="commaturnedabovecomb" xOffset="129"/>
+  </outline>
+</glyph>

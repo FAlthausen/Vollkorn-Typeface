@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="caroncomb_dotaccentcomb" format="2">
+  <outline>
+    <component base="caroncomb.case" xOffset="-27" yOffset="-200"/>
+    <component base="dotaccentcomb.case" xOffset="97" yOffset="9"/>
+  </outline>
+</glyph>

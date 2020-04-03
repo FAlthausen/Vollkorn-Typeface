@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="product.case" format="2">
+  <outline>
+    <component base="product" yOffset="50"/>
+  </outline>
+</glyph>

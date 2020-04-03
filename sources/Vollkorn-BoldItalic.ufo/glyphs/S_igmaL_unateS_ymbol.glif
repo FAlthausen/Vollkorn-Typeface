@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="SigmaLunateSymbol" format="2">
+  <advance width="613"/>
+  <unicode hex="03F9"/>
+  <outline>
+    <component base="C"/>
+  </outline>
+</glyph>

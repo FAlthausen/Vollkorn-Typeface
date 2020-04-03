@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="peso" format="2">
+  <advance width="664"/>
+  <unicode hex="20B1"/>
+  <outline>
+    <component base="P"/>
+    <component base="_part.peso" xOffset="-8" yOffset="-2"/>
+  </outline>
+</glyph>

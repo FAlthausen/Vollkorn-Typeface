@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_part.dollar" format="2">
+  <advance width="460"/>
+  <anchor x="253" y="338" name="_center"/>
+  <outline>
+    <contour>
+      <point x="183" y="-93" type="curve"/>
+      <point x="212" y="71"/>
+      <point x="236" y="202"/>
+      <point x="261" y="334" type="curve"/>
+      <point x="219" y="362" type="line"/>
+      <point x="136" y="-74" type="line"/>
+      <point x="146" y="-87"/>
+      <point x="165" y="-92"/>
+    </contour>
+    <contour>
+      <point x="268" y="334" type="line"/>
+      <point x="291" y="457"/>
+      <point x="316" y="580"/>
+      <point x="348" y="729" type="curve"/>
+      <point x="336" y="743"/>
+      <point x="320" y="748"/>
+      <point x="300" y="748" type="curve"/>
+      <point x="226" y="362" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+    </dict>
+  </lib>
+</glyph>

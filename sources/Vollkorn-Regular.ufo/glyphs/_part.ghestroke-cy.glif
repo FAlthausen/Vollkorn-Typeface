@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_part.ghestroke-cy" format="2">
+  <advance width="437"/>
+  <anchor x="145" y="224" name="_center"/>
+  <outline>
+    <contour>
+      <point x="17" y="202" type="curve"/>
+      <point x="110" y="203"/>
+      <point x="267" y="203"/>
+      <point x="304" y="203" type="curve"/>
+      <point x="310" y="218"/>
+      <point x="313" y="231"/>
+      <point x="313" y="245" type="curve"/>
+      <point x="27" y="245" type="line"/>
+      <point x="21" y="233"/>
+      <point x="17" y="220"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+    </dict>
+  </lib>
+</glyph>

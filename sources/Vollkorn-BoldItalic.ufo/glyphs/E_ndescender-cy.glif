@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Endescender-cy" format="2">
+  <advance width="870"/>
+  <unicode hex="04A2"/>
+  <outline>
+    <component base="H"/>
+    <component base="__descender-cy.straight.case" xOffset="791"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>anchor</key>
+          <string>bottomright</string>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>__descender-cy.straight.case</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

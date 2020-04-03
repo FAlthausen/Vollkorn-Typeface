@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="horncomb.case.O" format="2">
+  <anchor x="100" y="679" name="_topright"/>
+  <anchor x="100" y="679" name="topright"/>
+  <outline>
+    <contour>
+      <point x="40" y="633" type="line"/>
+      <point x="118" y="633"/>
+      <point x="182" y="677"/>
+      <point x="182" y="744" type="curve" smooth="yes"/>
+      <point x="182" y="765"/>
+      <point x="176" y="785"/>
+      <point x="161" y="805" type="curve"/>
+      <point x="140" y="808"/>
+      <point x="119" y="804"/>
+      <point x="102" y="796" type="curve"/>
+      <point x="106" y="779"/>
+      <point x="108" y="763"/>
+      <point x="108" y="749" type="curve" smooth="yes"/>
+      <point x="108" y="688"/>
+      <point x="71" y="676"/>
+      <point x="14" y="676" type="curve" smooth="yes"/>
+      <point x="-39" y="676"/>
+      <point x="-78" y="688"/>
+      <point x="-142" y="688" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=50</string>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>165</integer>
+    </dict>
+  </lib>
+</glyph>

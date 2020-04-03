@@ -1,0 +1,898 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <array>
+    <array>
+      <string>public.default</string>
+      <string>glyphs</string>
+    </array>
+    <array>
+      <string>public.background</string>
+      <string>glyphs.public.background</string>
+    </array>
+    <array>
+      <string>Dec 19 17, 09:06</string>
+      <string>glyphs.D_ec 19 17, 09_06</string>
+    </array>
+    <array>
+      <string>Dec 19 17, 09:06.background</string>
+      <string>glyphs.D_ec 19 17, 09_06.background</string>
+    </array>
+    <array>
+      <string>Regular Aug 1 16, 22:49</string>
+      <string>glyphs.R_egular A_ug 1 16, 22_49</string>
+    </array>
+    <array>
+      <string>Regular Aug 1 16, 22:49.background</string>
+      <string>glyphs.R_egular A_ug 1 16, 22_49.background</string>
+    </array>
+    <array>
+      <string>Dec 19 17, 09:17</string>
+      <string>glyphs.D_ec 19 17, 09_17</string>
+    </array>
+    <array>
+      <string>Dec 19 17, 09:17.background</string>
+      <string>glyphs.D_ec 19 17, 09_17.background</string>
+    </array>
+    <array>
+      <string>Dec 16 16, 16:54</string>
+      <string>glyphs.D_ec 16 16, 16_54</string>
+    </array>
+    <array>
+      <string>Dec 16 16, 16:54.background</string>
+      <string>glyphs.D_ec 16 16, 16_54.background</string>
+    </array>
+    <array>
+      <string>Dec 20 16, 16:05</string>
+      <string>glyphs.D_ec 20 16, 16_05</string>
+    </array>
+    <array>
+      <string>Dec 20 16, 16:05.background</string>
+      <string>glyphs.D_ec 20 16, 16_05.background</string>
+    </array>
+    <array>
+      <string>Dec 21 16, 12:46</string>
+      <string>glyphs.D_ec 21 16, 12_46</string>
+    </array>
+    <array>
+      <string>Dec 21 16, 12:46.background</string>
+      <string>glyphs.D_ec 21 16, 12_46.background</string>
+    </array>
+    <array>
+      <string>Feb 28 17, 11:30</string>
+      <string>glyphs.F_eb 28 17, 11_30</string>
+    </array>
+    <array>
+      <string>Feb 28 17, 11:30.background</string>
+      <string>glyphs.F_eb 28 17, 11_30.background</string>
+    </array>
+    <array>
+      <string>Feb 28 17, 11:33</string>
+      <string>glyphs.F_eb 28 17, 11_33</string>
+    </array>
+    <array>
+      <string>Feb 28 17, 11:33.background</string>
+      <string>glyphs.F_eb 28 17, 11_33.background</string>
+    </array>
+    <array>
+      <string>Dec 16 16, 14:57</string>
+      <string>glyphs.D_ec 16 16, 14_57</string>
+    </array>
+    <array>
+      <string>Dec 16 16, 14:57.background</string>
+      <string>glyphs.D_ec 16 16, 14_57.background</string>
+    </array>
+    <array>
+      <string>Feb 28 17, 11:07</string>
+      <string>glyphs.F_eb 28 17, 11_07</string>
+    </array>
+    <array>
+      <string>Feb 28 17, 11:07.background</string>
+      <string>glyphs.F_eb 28 17, 11_07.background</string>
+    </array>
+    <array>
+      <string>Feb 28 17, 11:47</string>
+      <string>glyphs.F_eb 28 17, 11_47</string>
+    </array>
+    <array>
+      <string>Feb 28 17, 11:47.background</string>
+      <string>glyphs.F_eb 28 17, 11_47.background</string>
+    </array>
+    <array>
+      <string>Feb 28 17, 11:16</string>
+      <string>glyphs.F_eb 28 17, 11_16</string>
+    </array>
+    <array>
+      <string>Feb 28 17, 11:16.background</string>
+      <string>glyphs.F_eb 28 17, 11_16.background</string>
+    </array>
+    <array>
+      <string>Feb 28 17, 11:24</string>
+      <string>glyphs.F_eb 28 17, 11_24</string>
+    </array>
+    <array>
+      <string>Feb 28 17, 11:24.background</string>
+      <string>glyphs.F_eb 28 17, 11_24.background</string>
+    </array>
+    <array>
+      <string>Dec 16 16, 15:36</string>
+      <string>glyphs.D_ec 16 16, 15_36</string>
+    </array>
+    <array>
+      <string>Dec 16 16, 15:36.background</string>
+      <string>glyphs.D_ec 16 16, 15_36.background</string>
+    </array>
+    <array>
+      <string>Dec 12 16, 21:09</string>
+      <string>glyphs.D_ec 12 16, 21_09</string>
+    </array>
+    <array>
+      <string>Dec 12 16, 21:09.background</string>
+      <string>glyphs.D_ec 12 16, 21_09.background</string>
+    </array>
+    <array>
+      <string>Dec 14 16, 14:12</string>
+      <string>glyphs.D_ec 14 16, 14_12</string>
+    </array>
+    <array>
+      <string>Dec 14 16, 14:12.background</string>
+      <string>glyphs.D_ec 14 16, 14_12.background</string>
+    </array>
+    <array>
+      <string>Dec 20 16, 15:11</string>
+      <string>glyphs.D_ec 20 16, 15_11</string>
+    </array>
+    <array>
+      <string>Dec 20 16, 15:11.background</string>
+      <string>glyphs.D_ec 20 16, 15_11.background</string>
+    </array>
+    <array>
+      <string>Jan 5 17, 10:03</string>
+      <string>glyphs.J_an 5 17, 10_03</string>
+    </array>
+    <array>
+      <string>Jan 5 17, 10:03.background</string>
+      <string>glyphs.J_an 5 17, 10_03.background</string>
+    </array>
+    <array>
+      <string>Dec 21 16, 12:37</string>
+      <string>glyphs.D_ec 21 16, 12_37</string>
+    </array>
+    <array>
+      <string>Dec 21 16, 12:37.background</string>
+      <string>glyphs.D_ec 21 16, 12_37.background</string>
+    </array>
+    <array>
+      <string>Jan 5 17, 11:39</string>
+      <string>glyphs.J_an 5 17, 11_39</string>
+    </array>
+    <array>
+      <string>Jan 5 17, 11:39.background</string>
+      <string>glyphs.J_an 5 17, 11_39.background</string>
+    </array>
+    <array>
+      <string>Dec 21 16, 12:44</string>
+      <string>glyphs.D_ec 21 16, 12_44</string>
+    </array>
+    <array>
+      <string>Dec 21 16, 12:44.background</string>
+      <string>glyphs.D_ec 21 16, 12_44.background</string>
+    </array>
+    <array>
+      <string>Nov 30 16, 16:03</string>
+      <string>glyphs.N_ov 30 16, 16_03</string>
+    </array>
+    <array>
+      <string>Nov 30 16, 16:03.background</string>
+      <string>glyphs.N_ov 30 16, 16_03.background</string>
+    </array>
+    <array>
+      <string>Jan 5 17, 11:35</string>
+      <string>glyphs.J_an 5 17, 11_35</string>
+    </array>
+    <array>
+      <string>Jan 5 17, 11:35.background</string>
+      <string>glyphs.J_an 5 17, 11_35.background</string>
+    </array>
+    <array>
+      <string>Nov 30 16, 16:06</string>
+      <string>glyphs.N_ov 30 16, 16_06</string>
+    </array>
+    <array>
+      <string>Nov 30 16, 16:06.background</string>
+      <string>glyphs.N_ov 30 16, 16_06.background</string>
+    </array>
+    <array>
+      <string>Dec 1 16, 09:37</string>
+      <string>glyphs.D_ec 1 16, 09_37</string>
+    </array>
+    <array>
+      <string>Dec 1 16, 09:37.background</string>
+      <string>glyphs.D_ec 1 16, 09_37.background</string>
+    </array>
+    <array>
+      <string>Dec 1 16, 15:22</string>
+      <string>glyphs.D_ec 1 16, 15_22</string>
+    </array>
+    <array>
+      <string>Dec 1 16, 15:22.background</string>
+      <string>glyphs.D_ec 1 16, 15_22.background</string>
+    </array>
+    <array>
+      <string>Dec 16 16, 11:17</string>
+      <string>glyphs.D_ec 16 16, 11_17</string>
+    </array>
+    <array>
+      <string>Dec 16 16, 11:17.background</string>
+      <string>glyphs.D_ec 16 16, 11_17.background</string>
+    </array>
+    <array>
+      <string>Feb 28 17, 11:48</string>
+      <string>glyphs.F_eb 28 17, 11_48</string>
+    </array>
+    <array>
+      <string>Feb 28 17, 11:48.background</string>
+      <string>glyphs.F_eb 28 17, 11_48.background</string>
+    </array>
+    <array>
+      <string>Dec 16 16, 16:50</string>
+      <string>glyphs.D_ec 16 16, 16_50</string>
+    </array>
+    <array>
+      <string>Dec 16 16, 16:50.background</string>
+      <string>glyphs.D_ec 16 16, 16_50.background</string>
+    </array>
+    <array>
+      <string>Jan 5 17, 09:54</string>
+      <string>glyphs.J_an 5 17, 09_54</string>
+    </array>
+    <array>
+      <string>Jan 5 17, 09:54.background</string>
+      <string>glyphs.J_an 5 17, 09_54.background</string>
+    </array>
+    <array>
+      <string>Dec 1 16, 09:39</string>
+      <string>glyphs.D_ec 1 16, 09_39</string>
+    </array>
+    <array>
+      <string>Dec 1 16, 09:39.background</string>
+      <string>glyphs.D_ec 1 16, 09_39.background</string>
+    </array>
+    <array>
+      <string>Dec 16 16, 13:39</string>
+      <string>glyphs.D_ec 16 16, 13_39</string>
+    </array>
+    <array>
+      <string>Dec 16 16, 13:39.background</string>
+      <string>glyphs.D_ec 16 16, 13_39.background</string>
+    </array>
+    <array>
+      <string>Jan 5 17, 10:13</string>
+      <string>glyphs.J_an 5 17, 10_13</string>
+    </array>
+    <array>
+      <string>Jan 5 17, 10:13.background</string>
+      <string>glyphs.J_an 5 17, 10_13.background</string>
+    </array>
+    <array>
+      <string>Jan 20 17, 10:15</string>
+      <string>glyphs.J_an 20 17, 10_15</string>
+    </array>
+    <array>
+      <string>Jan 20 17, 10:15.background</string>
+      <string>glyphs.J_an 20 17, 10_15.background</string>
+    </array>
+    <array>
+      <string>Dec 1 16, 10:20</string>
+      <string>glyphs.D_ec 1 16, 10_20</string>
+    </array>
+    <array>
+      <string>Dec 1 16, 10:20.background</string>
+      <string>glyphs.D_ec 1 16, 10_20.background</string>
+    </array>
+    <array>
+      <string>Dec 16 16, 11:10</string>
+      <string>glyphs.D_ec 16 16, 11_10</string>
+    </array>
+    <array>
+      <string>Dec 16 16, 11:10.background</string>
+      <string>glyphs.D_ec 16 16, 11_10.background</string>
+    </array>
+    <array>
+      <string>Jan 23 17, 15:26</string>
+      <string>glyphs.J_an 23 17, 15_26</string>
+    </array>
+    <array>
+      <string>Jan 23 17, 15:26.background</string>
+      <string>glyphs.J_an 23 17, 15_26.background</string>
+    </array>
+    <array>
+      <string>Dec 1 16, 11:27</string>
+      <string>glyphs.D_ec 1 16, 11_27</string>
+    </array>
+    <array>
+      <string>Dec 1 16, 11:27.background</string>
+      <string>glyphs.D_ec 1 16, 11_27.background</string>
+    </array>
+    <array>
+      <string>Dec 16 16, 11:52</string>
+      <string>glyphs.D_ec 16 16, 11_52</string>
+    </array>
+    <array>
+      <string>Dec 16 16, 11:52.background</string>
+      <string>glyphs.D_ec 16 16, 11_52.background</string>
+    </array>
+    <array>
+      <string>Dec 1 16, 12:34</string>
+      <string>glyphs.D_ec 1 16, 12_34</string>
+    </array>
+    <array>
+      <string>Dec 1 16, 12:34.background</string>
+      <string>glyphs.D_ec 1 16, 12_34.background</string>
+    </array>
+    <array>
+      <string>Dec 1 16, 12:40</string>
+      <string>glyphs.D_ec 1 16, 12_40</string>
+    </array>
+    <array>
+      <string>Dec 1 16, 12:40.background</string>
+      <string>glyphs.D_ec 1 16, 12_40.background</string>
+    </array>
+    <array>
+      <string>Dec 1 16, 15:05</string>
+      <string>glyphs.D_ec 1 16, 15_05</string>
+    </array>
+    <array>
+      <string>Dec 1 16, 15:05.background</string>
+      <string>glyphs.D_ec 1 16, 15_05.background</string>
+    </array>
+    <array>
+      <string>Dec 16 16, 11:23</string>
+      <string>glyphs.D_ec 16 16, 11_23</string>
+    </array>
+    <array>
+      <string>Dec 16 16, 11:23.background</string>
+      <string>glyphs.D_ec 16 16, 11_23.background</string>
+    </array>
+    <array>
+      <string>Dec 1 16, 11:46</string>
+      <string>glyphs.D_ec 1 16, 11_46</string>
+    </array>
+    <array>
+      <string>Dec 1 16, 11:46.background</string>
+      <string>glyphs.D_ec 1 16, 11_46.background</string>
+    </array>
+    <array>
+      <string>Dec 1 16, 11:49</string>
+      <string>glyphs.D_ec 1 16, 11_49</string>
+    </array>
+    <array>
+      <string>Dec 1 16, 11:49.background</string>
+      <string>glyphs.D_ec 1 16, 11_49.background</string>
+    </array>
+    <array>
+      <string>Feb 28 17, 12:35</string>
+      <string>glyphs.F_eb 28 17, 12_35</string>
+    </array>
+    <array>
+      <string>Feb 28 17, 12:35.background</string>
+      <string>glyphs.F_eb 28 17, 12_35.background</string>
+    </array>
+    <array>
+      <string>Dec 1 16, 11:57</string>
+      <string>glyphs.D_ec 1 16, 11_57</string>
+    </array>
+    <array>
+      <string>Dec 1 16, 11:57.background</string>
+      <string>glyphs.D_ec 1 16, 11_57.background</string>
+    </array>
+    <array>
+      <string>Feb 28 17, 11:36</string>
+      <string>glyphs.F_eb 28 17, 11_36</string>
+    </array>
+    <array>
+      <string>Feb 28 17, 11:36.background</string>
+      <string>glyphs.F_eb 28 17, 11_36.background</string>
+    </array>
+    <array>
+      <string>Dec 16 16, 15:00</string>
+      <string>glyphs.D_ec 16 16, 15_00</string>
+    </array>
+    <array>
+      <string>Dec 16 16, 15:00.background</string>
+      <string>glyphs.D_ec 16 16, 15_00.background</string>
+    </array>
+    <array>
+      <string>Dec 1 16, 14:44</string>
+      <string>glyphs.D_ec 1 16, 14_44</string>
+    </array>
+    <array>
+      <string>Dec 1 16, 14:44.background</string>
+      <string>glyphs.D_ec 1 16, 14_44.background</string>
+    </array>
+    <array>
+      <string>Jan 5 17, 11:23</string>
+      <string>glyphs.J_an 5 17, 11_23</string>
+    </array>
+    <array>
+      <string>Jan 5 17, 11:23.background</string>
+      <string>glyphs.J_an 5 17, 11_23.background</string>
+    </array>
+    <array>
+      <string>Dec 1 16, 14:49</string>
+      <string>glyphs.D_ec 1 16, 14_49</string>
+    </array>
+    <array>
+      <string>Dec 1 16, 14:49.background</string>
+      <string>glyphs.D_ec 1 16, 14_49.background</string>
+    </array>
+    <array>
+      <string>Dec 1 16, 15:02</string>
+      <string>glyphs.D_ec 1 16, 15_02</string>
+    </array>
+    <array>
+      <string>Dec 1 16, 15:02.background</string>
+      <string>glyphs.D_ec 1 16, 15_02.background</string>
+    </array>
+    <array>
+      <string>Dec 16 16, 11:53</string>
+      <string>glyphs.D_ec 16 16, 11_53</string>
+    </array>
+    <array>
+      <string>Dec 16 16, 11:53.background</string>
+      <string>glyphs.D_ec 16 16, 11_53.background</string>
+    </array>
+    <array>
+      <string>Feb 28 17, 11:56</string>
+      <string>glyphs.F_eb 28 17, 11_56</string>
+    </array>
+    <array>
+      <string>Feb 28 17, 11:56.background</string>
+      <string>glyphs.F_eb 28 17, 11_56.background</string>
+    </array>
+    <array>
+      <string>Feb 28 17, 12:10</string>
+      <string>glyphs.F_eb 28 17, 12_10</string>
+    </array>
+    <array>
+      <string>Feb 28 17, 12:10.background</string>
+      <string>glyphs.F_eb 28 17, 12_10.background</string>
+    </array>
+    <array>
+      <string>Jan 5 17, 10:28</string>
+      <string>glyphs.J_an 5 17, 10_28</string>
+    </array>
+    <array>
+      <string>Jan 5 17, 10:28.background</string>
+      <string>glyphs.J_an 5 17, 10_28.background</string>
+    </array>
+    <array>
+      <string>Jan 20 17, 10:33</string>
+      <string>glyphs.J_an 20 17, 10_33</string>
+    </array>
+    <array>
+      <string>Jan 20 17, 10:33.background</string>
+      <string>glyphs.J_an 20 17, 10_33.background</string>
+    </array>
+    <array>
+      <string>Jan 5 17, 11:16</string>
+      <string>glyphs.J_an 5 17, 11_16</string>
+    </array>
+    <array>
+      <string>Jan 5 17, 11:16.background</string>
+      <string>glyphs.J_an 5 17, 11_16.background</string>
+    </array>
+    <array>
+      <string>Dec 1 16, 11:59</string>
+      <string>glyphs.D_ec 1 16, 11_59</string>
+    </array>
+    <array>
+      <string>Dec 1 16, 11:59.background</string>
+      <string>glyphs.D_ec 1 16, 11_59.background</string>
+    </array>
+    <array>
+      <string>Dec 16 16, 13:27</string>
+      <string>glyphs.D_ec 16 16, 13_27</string>
+    </array>
+    <array>
+      <string>Dec 16 16, 13:27.background</string>
+      <string>glyphs.D_ec 16 16, 13_27.background</string>
+    </array>
+    <array>
+      <string>Jan 5 17, 10:37</string>
+      <string>glyphs.J_an 5 17, 10_37</string>
+    </array>
+    <array>
+      <string>Jan 5 17, 10:37.background</string>
+      <string>glyphs.J_an 5 17, 10_37.background</string>
+    </array>
+    <array>
+      <string>Jan 20 17, 10:00</string>
+      <string>glyphs.J_an 20 17, 10_00</string>
+    </array>
+    <array>
+      <string>Jan 20 17, 10:00.background</string>
+      <string>glyphs.J_an 20 17, 10_00.background</string>
+    </array>
+    <array>
+      <string>Feb 28 17, 11:23</string>
+      <string>glyphs.F_eb 28 17, 11_23</string>
+    </array>
+    <array>
+      <string>Feb 28 17, 11:23.background</string>
+      <string>glyphs.F_eb 28 17, 11_23.background</string>
+    </array>
+    <array>
+      <string>Jan 20 17, 09:52</string>
+      <string>glyphs.J_an 20 17, 09_52</string>
+    </array>
+    <array>
+      <string>Jan 20 17, 09:52.background</string>
+      <string>glyphs.J_an 20 17, 09_52.background</string>
+    </array>
+    <array>
+      <string>Dec 16 16, 16:38</string>
+      <string>glyphs.D_ec 16 16, 16_38</string>
+    </array>
+    <array>
+      <string>Dec 16 16, 16:38.background</string>
+      <string>glyphs.D_ec 16 16, 16_38.background</string>
+    </array>
+    <array>
+      <string>Dec 16 16, 15:29</string>
+      <string>glyphs.D_ec 16 16, 15_29</string>
+    </array>
+    <array>
+      <string>Dec 16 16, 15:29.background</string>
+      <string>glyphs.D_ec 16 16, 15_29.background</string>
+    </array>
+    <array>
+      <string>Dec 20 16, 15:13</string>
+      <string>glyphs.D_ec 20 16, 15_13</string>
+    </array>
+    <array>
+      <string>Dec 20 16, 15:13.background</string>
+      <string>glyphs.D_ec 20 16, 15_13.background</string>
+    </array>
+    <array>
+      <string>Dec 20 16, 22:32</string>
+      <string>glyphs.D_ec 20 16, 22_32</string>
+    </array>
+    <array>
+      <string>Dec 20 16, 22:32.background</string>
+      <string>glyphs.D_ec 20 16, 22_32.background</string>
+    </array>
+    <array>
+      <string>Feb 28 17, 12:38</string>
+      <string>glyphs.F_eb 28 17, 12_38</string>
+    </array>
+    <array>
+      <string>Feb 28 17, 12:38.background</string>
+      <string>glyphs.F_eb 28 17, 12_38.background</string>
+    </array>
+    <array>
+      <string>Dec 16 16, 15:06</string>
+      <string>glyphs.D_ec 16 16, 15_06</string>
+    </array>
+    <array>
+      <string>Dec 16 16, 15:06.background</string>
+      <string>glyphs.D_ec 16 16, 15_06.background</string>
+    </array>
+    <array>
+      <string>Dec 21 16, 13:02</string>
+      <string>glyphs.D_ec 21 16, 13_02</string>
+    </array>
+    <array>
+      <string>Dec 21 16, 13:02.background</string>
+      <string>glyphs.D_ec 21 16, 13_02.background</string>
+    </array>
+    <array>
+      <string>Dec 21 16, 12:23</string>
+      <string>glyphs.D_ec 21 16, 12_23</string>
+    </array>
+    <array>
+      <string>Dec 21 16, 12:23.background</string>
+      <string>glyphs.D_ec 21 16, 12_23.background</string>
+    </array>
+    <array>
+      <string>Jan 20 17, 09:17</string>
+      <string>glyphs.J_an 20 17, 09_17</string>
+    </array>
+    <array>
+      <string>Dec 16 16, 16:45</string>
+      <string>glyphs.D_ec 16 16, 16_45</string>
+    </array>
+    <array>
+      <string>Dec 16 16, 16:45.background</string>
+      <string>glyphs.D_ec 16 16, 16_45.background</string>
+    </array>
+    <array>
+      <string>Dec 20 16, 16:07</string>
+      <string>glyphs.D_ec 20 16, 16_07</string>
+    </array>
+    <array>
+      <string>Dec 20 16, 16:07.background</string>
+      <string>glyphs.D_ec 20 16, 16_07.background</string>
+    </array>
+    <array>
+      <string>Regular Oct 5 14, 17:15</string>
+      <string>glyphs.R_egular O_ct 5 14, 17_15</string>
+    </array>
+    <array>
+      <string>Regular Oct 5 14, 17:15.background</string>
+      <string>glyphs.R_egular O_ct 5 14, 17_15.background</string>
+    </array>
+    <array>
+      <string>May 2 18, 09:36</string>
+      <string>glyphs.M_ay 2 18, 09_36</string>
+    </array>
+    <array>
+      <string>May 2 18, 09:36.background</string>
+      <string>glyphs.M_ay 2 18, 09_36.background</string>
+    </array>
+    <array>
+      <string>Regular Oct 13 15, 13:03</string>
+      <string>glyphs.R_egular O_ct 13 15, 13_03</string>
+    </array>
+    <array>
+      <string>Regular Oct 13 15, 13:03.background</string>
+      <string>glyphs.R_egular O_ct 13 15, 13_03.background</string>
+    </array>
+    <array>
+      <string>Regular Oct 13 15, 13:07</string>
+      <string>glyphs.R_egular O_ct 13 15, 13_07</string>
+    </array>
+    <array>
+      <string>Regular Oct 13 15, 13:07.background</string>
+      <string>glyphs.R_egular O_ct 13 15, 13_07.background</string>
+    </array>
+    <array>
+      <string>Regular Feb 17 15, 14:53</string>
+      <string>glyphs.R_egular F_eb 17 15, 14_53</string>
+    </array>
+    <array>
+      <string>Regular Feb 17 15, 14:53.background</string>
+      <string>glyphs.R_egular F_eb 17 15, 14_53.background</string>
+    </array>
+    <array>
+      <string>Mittel {150}</string>
+      <string>glyphs.M_ittel {150}</string>
+    </array>
+    <array>
+      <string>Mittel {150}.background</string>
+      <string>glyphs.M_ittel {150}.background</string>
+    </array>
+    <array>
+      <string>Dec 20 16, 23:27</string>
+      <string>glyphs.D_ec 20 16, 23_27</string>
+    </array>
+    <array>
+      <string>Dec 20 16, 23:27.background</string>
+      <string>glyphs.D_ec 20 16, 23_27.background</string>
+    </array>
+    <array>
+      <string>Dec 20 16, 22:58</string>
+      <string>glyphs.D_ec 20 16, 22_58</string>
+    </array>
+    <array>
+      <string>Dec 20 16, 22:58.background</string>
+      <string>glyphs.D_ec 20 16, 22_58.background</string>
+    </array>
+    <array>
+      <string>Dec 20 16, 22:56</string>
+      <string>glyphs.D_ec 20 16, 22_56</string>
+    </array>
+    <array>
+      <string>Dec 20 16, 22:56.background</string>
+      <string>glyphs.D_ec 20 16, 22_56.background</string>
+    </array>
+    <array>
+      <string>Dec 20 16, 23:13</string>
+      <string>glyphs.D_ec 20 16, 23_13</string>
+    </array>
+    <array>
+      <string>Dec 20 16, 23:13.background</string>
+      <string>glyphs.D_ec 20 16, 23_13.background</string>
+    </array>
+    <array>
+      <string>Jan 20 17, 16:46</string>
+      <string>glyphs.J_an 20 17, 16_46</string>
+    </array>
+    <array>
+      <string>Jan 20 17, 16:46.background</string>
+      <string>glyphs.J_an 20 17, 16_46.background</string>
+    </array>
+    <array>
+      <string>Dec 18 17, 14:48</string>
+      <string>glyphs.D_ec 18 17, 14_48</string>
+    </array>
+    <array>
+      <string>Dec 18 17, 14:48.background</string>
+      <string>glyphs.D_ec 18 17, 14_48.background</string>
+    </array>
+    <array>
+      <string>Dec 18 17, 11:53</string>
+      <string>glyphs.D_ec 18 17, 11_53</string>
+    </array>
+    <array>
+      <string>Dec 18 17, 11:53.background</string>
+      <string>glyphs.D_ec 18 17, 11_53.background</string>
+    </array>
+    <array>
+      <string>Dec 18 17, 14:21</string>
+      <string>glyphs.D_ec 18 17, 14_21</string>
+    </array>
+    <array>
+      <string>Dec 18 17, 14:21.background</string>
+      <string>glyphs.D_ec 18 17, 14_21.background</string>
+    </array>
+    <array>
+      <string>Dec 18 17, 11:49</string>
+      <string>glyphs.D_ec 18 17, 11_49</string>
+    </array>
+    <array>
+      <string>Dec 18 17, 11:49.background</string>
+      <string>glyphs.D_ec 18 17, 11_49.background</string>
+    </array>
+    <array>
+      <string>Dec 1 16, 11:36</string>
+      <string>glyphs.D_ec 1 16, 11_36</string>
+    </array>
+    <array>
+      <string>Dec 1 16, 11:36.background</string>
+      <string>glyphs.D_ec 1 16, 11_36.background</string>
+    </array>
+    <array>
+      <string>Dec 16 16, 11:34</string>
+      <string>glyphs.D_ec 16 16, 11_34</string>
+    </array>
+    <array>
+      <string>Dec 16 16, 11:34.background</string>
+      <string>glyphs.D_ec 16 16, 11_34.background</string>
+    </array>
+    <array>
+      <string>Dec 16 16, 11:41</string>
+      <string>glyphs.D_ec 16 16, 11_41</string>
+    </array>
+    <array>
+      <string>Dec 16 16, 11:41.background</string>
+      <string>glyphs.D_ec 16 16, 11_41.background</string>
+    </array>
+    <array>
+      <string>Dec 16 16, 11:49</string>
+      <string>glyphs.D_ec 16 16, 11_49</string>
+    </array>
+    <array>
+      <string>Dec 16 16, 11:49.background</string>
+      <string>glyphs.D_ec 16 16, 11_49.background</string>
+    </array>
+    <array>
+      <string>Jan 5 17, 11:47</string>
+      <string>glyphs.J_an 5 17, 11_47</string>
+    </array>
+    <array>
+      <string>Jan 5 17, 11:47.background</string>
+      <string>glyphs.J_an 5 17, 11_47.background</string>
+    </array>
+    <array>
+      <string>Dec 1 16, 11:44</string>
+      <string>glyphs.D_ec 1 16, 11_44</string>
+    </array>
+    <array>
+      <string>Dec 1 16, 11:44.background</string>
+      <string>glyphs.D_ec 1 16, 11_44.background</string>
+    </array>
+    <array>
+      <string>Dec 16 16, 11:48</string>
+      <string>glyphs.D_ec 16 16, 11_48</string>
+    </array>
+    <array>
+      <string>Dec 16 16, 11:48.background</string>
+      <string>glyphs.D_ec 16 16, 11_48.background</string>
+    </array>
+    <array>
+      <string>Jan 5 17, 11:54</string>
+      <string>glyphs.J_an 5 17, 11_54</string>
+    </array>
+    <array>
+      <string>Jan 5 17, 11:54.background</string>
+      <string>glyphs.J_an 5 17, 11_54.background</string>
+    </array>
+    <array>
+      <string>Feb 28 17, 11:22</string>
+      <string>glyphs.F_eb 28 17, 11_22</string>
+    </array>
+    <array>
+      <string>Feb 28 17, 11:22.background</string>
+      <string>glyphs.F_eb 28 17, 11_22.background</string>
+    </array>
+    <array>
+      <string>Jan 5 17, 11:00</string>
+      <string>glyphs.J_an 5 17, 11_00</string>
+    </array>
+    <array>
+      <string>Jan 5 17, 11:00.background</string>
+      <string>glyphs.J_an 5 17, 11_00.background</string>
+    </array>
+    <array>
+      <string>Dec 20 16, 15:51</string>
+      <string>glyphs.D_ec 20 16, 15_51</string>
+    </array>
+    <array>
+      <string>Dec 20 16, 15:51.background</string>
+      <string>glyphs.D_ec 20 16, 15_51.background</string>
+    </array>
+    <array>
+      <string>Dec 15 16, 12:21</string>
+      <string>glyphs.D_ec 15 16, 12_21</string>
+    </array>
+    <array>
+      <string>Dec 15 16, 12:21.background</string>
+      <string>glyphs.D_ec 15 16, 12_21.background</string>
+    </array>
+    <array>
+      <string>Dec 15 16, 12:51</string>
+      <string>glyphs.D_ec 15 16, 12_51</string>
+    </array>
+    <array>
+      <string>Dec 15 16, 12:51.background</string>
+      <string>glyphs.D_ec 15 16, 12_51.background</string>
+    </array>
+    <array>
+      <string>Dec 20 16, 15:36</string>
+      <string>glyphs.D_ec 20 16, 15_36</string>
+    </array>
+    <array>
+      <string>Dec 20 16, 15:36.background</string>
+      <string>glyphs.D_ec 20 16, 15_36.background</string>
+    </array>
+    <array>
+      <string>Jan 5 17, 09:58</string>
+      <string>glyphs.J_an 5 17, 09_58</string>
+    </array>
+    <array>
+      <string>Jan 5 17, 09:58.background</string>
+      <string>glyphs.J_an 5 17, 09_58.background</string>
+    </array>
+    <array>
+      <string>Dec 20 16, 23:18</string>
+      <string>glyphs.D_ec 20 16, 23_18</string>
+    </array>
+    <array>
+      <string>Dec 20 16, 23:18.background</string>
+      <string>glyphs.D_ec 20 16, 23_18.background</string>
+    </array>
+    <array>
+      <string>Dec 16 16, 15:41</string>
+      <string>glyphs.D_ec 16 16, 15_41</string>
+    </array>
+    <array>
+      <string>Dec 16 16, 15:41.background</string>
+      <string>glyphs.D_ec 16 16, 15_41.background</string>
+    </array>
+    <array>
+      <string>Dec 20 16, 14:27</string>
+      <string>glyphs.D_ec 20 16, 14_27</string>
+    </array>
+    <array>
+      <string>Dec 20 16, 14:27.background</string>
+      <string>glyphs.D_ec 20 16, 14_27.background</string>
+    </array>
+    <array>
+      <string>Dec 20 16, 22:39</string>
+      <string>glyphs.D_ec 20 16, 22_39</string>
+    </array>
+    <array>
+      <string>Dec 20 16, 22:39.background</string>
+      <string>glyphs.D_ec 20 16, 22_39.background</string>
+    </array>
+    <array>
+      <string>Dec 20 16, 16:22</string>
+      <string>glyphs.D_ec 20 16, 16_22</string>
+    </array>
+    <array>
+      <string>Dec 20 16, 16:22.background</string>
+      <string>glyphs.D_ec 20 16, 16_22.background</string>
+    </array>
+  </array>
+</plist>

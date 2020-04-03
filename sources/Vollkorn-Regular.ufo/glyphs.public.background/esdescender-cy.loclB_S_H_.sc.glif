@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="esdescender-cy.loclBSH.sc" format="2">
+  <outline>
+    <component base="es-cy.sc"/>
+    <component base="esdescendercomb.loclBSH" xOffset="244"/>
+  </outline>
+</glyph>

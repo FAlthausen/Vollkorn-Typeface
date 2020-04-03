@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="gestrokehook-cy" format="2">
+  <outline>
+    <component base="ge-cy"/>
+    <component base="strokeshortcomb" xOffset="-33" yOffset="-131"/>
+    <component base="_part.hook-cy" xOffset="-49"/>
+  </outline>
+</glyph>

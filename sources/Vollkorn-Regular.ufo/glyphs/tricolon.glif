@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tricolon" format="2">
+  <advance width="236"/>
+  <unicode hex="205D"/>
+  <outline>
+    <component base="_part.dot"/>
+    <component base="_part.dot" yOffset="290"/>
+    <component base="_part.dot" yOffset="581"/>
+  </outline>
+</glyph>

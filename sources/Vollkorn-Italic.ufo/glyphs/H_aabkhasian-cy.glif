@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Haabkhasian-cy" format="2">
+  <advance width="848"/>
+  <unicode hex="04A8"/>
+  <outline>
+    <contour>
+      <point x="345" y="-9" type="curve" smooth="yes"/>
+      <point x="560" y="-9"/>
+      <point x="741" y="136"/>
+      <point x="777" y="358" type="curve" smooth="yes"/>
+      <point x="804" y="521"/>
+      <point x="735" y="637"/>
+      <point x="595" y="637" type="curve" smooth="yes"/>
+      <point x="463" y="637"/>
+      <point x="353" y="533"/>
+      <point x="325" y="362" type="curve" smooth="yes"/>
+      <point x="289" y="140"/>
+      <point x="426" y="0"/>
+      <point x="609" y="0" type="curve" smooth="yes"/>
+      <point x="682" y="0"/>
+      <point x="745" y="22"/>
+      <point x="801" y="67" type="curve"/>
+      <point x="796" y="83"/>
+      <point x="789" y="97"/>
+      <point x="775" y="106" type="curve"/>
+      <point x="725" y="71"/>
+      <point x="673" y="50"/>
+      <point x="622" y="50" type="curve" smooth="yes"/>
+      <point x="501" y="50"/>
+      <point x="398" y="165"/>
+      <point x="430" y="373" type="curve" smooth="yes"/>
+      <point x="450" y="501"/>
+      <point x="511" y="593"/>
+      <point x="585" y="593" type="curve" smooth="yes"/>
+      <point x="660" y="593"/>
+      <point x="696" y="497"/>
+      <point x="675" y="361" type="curve" smooth="yes"/>
+      <point x="644" y="160"/>
+      <point x="513" y="38"/>
+      <point x="365" y="38" type="curve" smooth="yes"/>
+      <point x="211" y="38"/>
+      <point x="139" y="170"/>
+      <point x="168" y="352" type="curve" smooth="yes"/>
+      <point x="194" y="515"/>
+      <point x="284" y="622"/>
+      <point x="397" y="636" type="curve"/>
+      <point x="398" y="654"/>
+      <point x="397" y="670"/>
+      <point x="388" y="680" type="curve"/>
+      <point x="220" y="660"/>
+      <point x="95" y="536"/>
+      <point x="64" y="344" type="curve" smooth="yes"/>
+      <point x="30" y="132"/>
+      <point x="133" y="-9"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>=O</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=V</string>
+    </dict>
+  </lib>
+</glyph>

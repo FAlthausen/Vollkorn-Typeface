@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ze-cy" format="2">
+  <advance width="468"/>
+  <unicode hex="0417"/>
+  <anchor x="159" y="-3" name="bottom"/>
+  <anchor x="316" y="676" name="top"/>
+  <outline>
+    <contour>
+      <point x="156" y="-9" type="curve" smooth="yes"/>
+      <point x="301" y="-9"/>
+      <point x="401" y="60"/>
+      <point x="429" y="186" type="curve" smooth="yes"/>
+      <point x="455" y="303"/>
+      <point x="396" y="379"/>
+      <point x="263" y="379" type="curve"/>
+      <point x="262" y="372" type="line"/>
+      <point x="374" y="372"/>
+      <point x="449" y="431"/>
+      <point x="468" y="526" type="curve" smooth="yes"/>
+      <point x="490" y="634"/>
+      <point x="422" y="685"/>
+      <point x="303" y="685" type="curve" smooth="yes"/>
+      <point x="238" y="685"/>
+      <point x="175" y="670"/>
+      <point x="123" y="638" type="curve"/>
+      <point x="119" y="593"/>
+      <point x="109" y="549"/>
+      <point x="98" y="508" type="curve"/>
+      <point x="114" y="502"/>
+      <point x="132" y="500"/>
+      <point x="151" y="502" type="curve"/>
+      <point x="190" y="604"/>
+      <point x="223" y="640"/>
+      <point x="286" y="640" type="curve" smooth="yes"/>
+      <point x="356" y="640"/>
+      <point x="381" y="595"/>
+      <point x="369" y="530" type="curve" smooth="yes"/>
+      <point x="354" y="449"/>
+      <point x="292" y="392"/>
+      <point x="180" y="382" type="curve"/>
+      <point x="176" y="375"/>
+      <point x="173" y="358"/>
+      <point x="173" y="343" type="curve"/>
+      <point x="290" y="343"/>
+      <point x="345" y="287"/>
+      <point x="328" y="185" type="curve" smooth="yes"/>
+      <point x="312" y="91"/>
+      <point x="248" y="36"/>
+      <point x="165" y="36" type="curve" smooth="yes"/>
+      <point x="83" y="36"/>
+      <point x="68" y="89"/>
+      <point x="69" y="174" type="curve"/>
+      <point x="51" y="176"/>
+      <point x="32" y="174"/>
+      <point x="14" y="168" type="curve"/>
+      <point x="9" y="127"/>
+      <point x="2" y="83"/>
+      <point x="-12" y="38" type="curve"/>
+      <point x="25" y="7"/>
+      <point x="86" y="-9"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>S</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>B</string>
+    </dict>
+  </lib>
+</glyph>

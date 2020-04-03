@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="QdoubleStruck" format="2">
+  <advance width="745"/>
+  <unicode hex="211A"/>
+  <outline>
+    <component base="OdoubleStruck"/>
+    <component base="_part.QdoubleStruck" xOffset="332"/>
+  </outline>
+</glyph>

@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_part.Cheabkhasian-cy" format="2">
+  <advance width="688"/>
+  <anchor x="380" y="4" name="bottom"/>
+  <anchor x="35" y="353" name="left"/>
+  <anchor x="576" y="47" name="ogonek"/>
+  <anchor x="367" y="668" name="top"/>
+  <outline>
+    <contour>
+      <point x="375" y="-9" type="curve" smooth="yes"/>
+      <point x="485" y="-9"/>
+      <point x="576" y="24"/>
+      <point x="647" y="100" type="curve"/>
+      <point x="645" y="125"/>
+      <point x="629" y="154"/>
+      <point x="611" y="165" type="curve"/>
+      <point x="566" y="119"/>
+      <point x="497" y="91"/>
+      <point x="429" y="91" type="curve" smooth="yes"/>
+      <point x="283" y="91"/>
+      <point x="238" y="221"/>
+      <point x="238" y="373" type="curve" smooth="yes"/>
+      <point x="238" y="539"/>
+      <point x="291" y="606"/>
+      <point x="352" y="606" type="curve" smooth="yes"/>
+      <point x="420" y="606"/>
+      <point x="458" y="525"/>
+      <point x="458" y="391" type="curve"/>
+      <point x="183" y="391" type="line"/>
+      <point x="183" y="302" type="line"/>
+      <point x="333" y="312"/>
+      <point x="534" y="312"/>
+      <point x="622" y="312" type="curve"/>
+      <point x="636" y="328"/>
+      <point x="647" y="349"/>
+      <point x="653" y="375" type="curve"/>
+      <point x="645" y="545"/>
+      <point x="562" y="681"/>
+      <point x="364" y="681" type="curve" smooth="yes"/>
+      <point x="156" y="681"/>
+      <point x="35" y="532"/>
+      <point x="35" y="330" type="curve" smooth="yes"/>
+      <point x="35" y="142"/>
+      <point x="139" y="-9"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>height</key>
+        <integer>145</integer>
+        <key>verticalShift</key>
+        <integer>4</integer>
+        <key>weight</key>
+        <integer>2</integer>
+        <key>width</key>
+        <integer>145</integer>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>=O</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=O</string>
+    </dict>
+  </lib>
+</glyph>

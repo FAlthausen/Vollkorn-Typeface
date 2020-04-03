@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_part.colonsign.sc.black" format="2">
+  <outline>
+    <component base="colonsign.sc" xOffset="-23"/>
+  </outline>
+</glyph>

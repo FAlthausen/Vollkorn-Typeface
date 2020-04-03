@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="zero.lf.zero" format="2">
+  <advance width="652"/>
+  <outline>
+    <contour>
+      <point x="273" y="80" type="line"/>
+      <point x="440" y="530" type="line"/>
+      <point x="371" y="590" type="line"/>
+      <point x="189" y="104" type="line"/>
+    </contour>
+    <component base="zero.lf"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>zero.lf</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>zero.lf</string>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
+    </dict>
+  </lib>
+</glyph>

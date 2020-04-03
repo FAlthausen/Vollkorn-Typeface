@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Gestrokehook-cy" format="2">
+  <outline>
+    <component base="Ge-cy"/>
+    <component base="strokeshortcomb.case" xOffset="-37" yOffset="-2"/>
+    <component base="_part.hook-cy" xOffset="5"/>
+  </outline>
+</glyph>

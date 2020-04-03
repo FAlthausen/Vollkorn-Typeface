@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ldot.sc" format="2">
+  <outline>
+    <component base="l.sc"/>
+    <component base="_part.Ldot" xOffset="14" yOffset="-87"/>
+  </outline>
+</glyph>

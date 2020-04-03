@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_part.peso.black" format="2">
+  <anchor x="329" y="463" name="_center"/>
+  <outline>
+    <contour>
+      <point x="28" y="374" type="curve"/>
+      <point x="223" y="377"/>
+      <point x="419" y="377"/>
+      <point x="614" y="374" type="curve"/>
+      <point x="622" y="387"/>
+      <point x="626" y="403"/>
+      <point x="626" y="421" type="curve"/>
+      <point x="39" y="421" type="line"/>
+      <point x="32" y="407"/>
+      <point x="28" y="389"/>
+    </contour>
+    <contour>
+      <point x="32" y="499" type="curve"/>
+      <point x="227" y="502"/>
+      <point x="422" y="502"/>
+      <point x="617" y="499" type="curve"/>
+      <point x="623" y="513"/>
+      <point x="628" y="526"/>
+      <point x="628" y="546" type="curve"/>
+      <point x="42" y="546" type="line"/>
+      <point x="36" y="533"/>
+      <point x="32" y="516"/>
+    </contour>
+    <component base="peso"/>
+  </outline>
+</glyph>

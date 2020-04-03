@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tripleintegral" format="2">
+  <outline>
+    <component base="integral" xOffset="440"/>
+    <component base="integral" xOffset="220"/>
+    <component base="integral"/>
+  </outline>
+</glyph>

@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="De-cy" format="2">
+  <advance width="725"/>
+  <unicode hex="0414"/>
+  <outline>
+    <contour>
+      <point x="50" y="0" type="line"/>
+      <point x="621" y="0" type="line"/>
+      <point x="621" y="40" type="line"/>
+      <point x="568" y="40"/>
+      <point x="552" y="57"/>
+      <point x="552" y="127" type="curve" smooth="yes"/>
+      <point x="552" y="549" type="line" smooth="yes"/>
+      <point x="552" y="616"/>
+      <point x="568" y="633"/>
+      <point x="621" y="636" type="curve"/>
+      <point x="625" y="647"/>
+      <point x="626" y="661"/>
+      <point x="626" y="679" type="curve"/>
+      <point x="587" y="677"/>
+      <point x="540" y="676"/>
+      <point x="411" y="676" type="curve" smooth="yes"/>
+      <point x="273" y="676"/>
+      <point x="200" y="677"/>
+      <point x="158" y="679" type="curve"/>
+      <point x="158" y="661"/>
+      <point x="159" y="647"/>
+      <point x="163" y="636" type="curve"/>
+      <point x="230" y="630"/>
+      <point x="237" y="619"/>
+      <point x="233" y="547" type="curve" smooth="yes"/>
+      <point x="221" y="322"/>
+      <point x="173" y="40"/>
+      <point x="50" y="40" type="curve"/>
+    </contour>
+    <contour>
+      <point x="161" y="31" type="line"/>
+      <point x="237" y="94"/>
+      <point x="265" y="277"/>
+      <point x="283" y="549" type="curve" smooth="yes"/>
+      <point x="285" y="581"/>
+      <point x="286" y="608"/>
+      <point x="303" y="620" type="curve" smooth="yes"/>
+      <point x="311" y="626"/>
+      <point x="332" y="633"/>
+      <point x="373" y="633" type="curve" smooth="yes"/>
+      <point x="404" y="633"/>
+      <point x="426" y="627"/>
+      <point x="436" y="621" type="curve" smooth="yes"/>
+      <point x="454" y="610"/>
+      <point x="458" y="591"/>
+      <point x="458" y="549" type="curve" smooth="yes"/>
+      <point x="458" y="130" type="line" smooth="yes"/>
+      <point x="458" y="56"/>
+      <point x="439" y="43"/>
+      <point x="371" y="43" type="curve" smooth="yes"/>
+      <point x="147" y="43" type="line"/>
+    </contour>
+    <component base="__descender-cy.straight.case" xOffset="641"/>
+    <component base="__descender-cy.straight.case" xScale="-1" xOffset="57"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=Tse-cy</string>
+    </dict>
+  </lib>
+</glyph>

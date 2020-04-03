@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="pemiddlehook-cy" format="2">
+  <outline>
+    <component base="pe-cy"/>
+    <component base="__middlehook-cy" xOffset="582"/>
+  </outline>
+</glyph>

@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="caretSign" format="2">
+  <outline>
+    <component base="asciicircum" yOffset="-392"/>
+  </outline>
+</glyph>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="upFrombarArrow" format="2">
+  <outline>
+    <contour>
+      <point x="135" y="392" type="line"/>
+      <point x="285" y="561" type="line"/>
+      <point x="435" y="392" type="line"/>
+      <point x="521" y="485" type="line"/>
+      <point x="285" y="720" type="line"/>
+      <point x="49" y="485" type="line"/>
+    </contour>
+    <contour>
+      <point x="78" y="0" type="line"/>
+      <point x="493" y="0" type="line"/>
+      <point x="493" y="134" type="line"/>
+      <point x="78" y="134" type="line"/>
+    </contour>
+    <contour>
+      <point x="218" y="0" type="line"/>
+      <point x="352" y="0" type="line"/>
+      <point x="352" y="575" type="line"/>
+      <point x="218" y="575" type="line"/>
+    </contour>
+    <component base="upArrow"/>
+  </outline>
+</glyph>

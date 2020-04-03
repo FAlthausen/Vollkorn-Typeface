@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Rinvertedbreve.calt" format="2">
+  <outline>
+    <component base="R.calt"/>
+    <component base="breveinvertedcomb.case" xOffset="128"/>
+  </outline>
+</glyph>

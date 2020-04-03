@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="yeru-cy" format="2">
+  <anchor x="385" y="458" name="top"/>
+  <outline>
+    <contour>
+      <point x="173" y="146" type="move"/>
+    </contour>
+    <component base="softsign-cy"/>
+    <component base="stem-cy" xOffset="480"/>
+  </outline>
+</glyph>

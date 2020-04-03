@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="endescender-cy.sc" format="2">
+  <outline>
+    <component base="h.sc"/>
+    <component base="descender-cy" xOffset="631" yOffset="40"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>anchor</key>
+          <string>bottomright</string>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>descender-cy</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

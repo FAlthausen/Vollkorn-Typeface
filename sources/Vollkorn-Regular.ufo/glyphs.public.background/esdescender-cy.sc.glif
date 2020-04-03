@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="esdescender-cy.sc" format="2">
+  <outline>
+    <component base="es-cy.sc"/>
+    <component base="descender-cy" xOffset="367" yOffset="36"/>
+  </outline>
+</glyph>

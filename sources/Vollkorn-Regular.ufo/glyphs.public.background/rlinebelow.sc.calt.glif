@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="rlinebelow.sc.calt" format="2">
+  <outline>
+    <component base="r.sc.calt"/>
+    <component base="macronbelowcomb" xOffset="86"/>
+  </outline>
+</glyph>

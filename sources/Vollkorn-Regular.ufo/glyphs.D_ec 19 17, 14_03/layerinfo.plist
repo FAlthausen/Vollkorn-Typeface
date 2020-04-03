@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>lib</key>
+    <dict>
+      <key>com.schriftgestaltung.layerId</key>
+      <string>3E50CC82-DA30-4FA6-92EB-816A028B873A</string>
+      <key>com.schriftgestaltung.layerOrderInGlyph.kappaSymbol</key>
+      <integer>2</integer>
+    </dict>
+  </dict>
+</plist>

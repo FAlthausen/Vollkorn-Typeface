@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dblgravecomb.case" format="2">
+  <anchor x="316" y="676" name="_top"/>
+  <anchor x="352" y="863" name="top"/>
+  <outline>
+    <contour>
+      <point x="260" y="726" type="curve"/>
+      <point x="276" y="723"/>
+      <point x="286" y="721"/>
+      <point x="298" y="722" type="curve"/>
+      <point x="280" y="771"/>
+      <point x="271" y="817"/>
+      <point x="260" y="858" type="curve"/>
+      <point x="230" y="864"/>
+      <point x="195" y="864"/>
+      <point x="171" y="854" type="curve"/>
+      <point x="201" y="817"/>
+      <point x="228" y="778"/>
+    </contour>
+    <contour>
+      <point x="410" y="726" type="curve"/>
+      <point x="426" y="723"/>
+      <point x="436" y="721"/>
+      <point x="448" y="722" type="curve"/>
+      <point x="430" y="771"/>
+      <point x="421" y="817"/>
+      <point x="410" y="858" type="curve"/>
+      <point x="380" y="864"/>
+      <point x="345" y="864"/>
+      <point x="321" y="854" type="curve"/>
+      <point x="351" y="817"/>
+      <point x="378" y="778"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>=50</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=50</string>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>402</integer>
+    </dict>
+  </lib>
+</glyph>

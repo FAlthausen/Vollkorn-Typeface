@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dzhe-cy.sc" format="2">
+  <outline>
+    <contour>
+      <point x="312" y="-128" type="curve"/>
+      <point x="346" y="-141"/>
+      <point x="393" y="-141"/>
+      <point x="423" y="-128" type="curve"/>
+      <point x="422" y="-84"/>
+      <point x="426" y="-38"/>
+      <point x="433" y="0" type="curve"/>
+      <point x="433" y="30"/>
+      <point x="427" y="54"/>
+      <point x="414" y="75" type="curve"/>
+      <point x="345" y="75" type="line"/>
+      <point x="295" y="35" type="line"/>
+      <point x="307" y="-26"/>
+      <point x="312" y="-85"/>
+    </contour>
+    <component base="pe-cy.sc" xScale="-1" yScale="-1" xOffset="722" yOffset="500"/>
+  </outline>
+</glyph>

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hyphenbullet" format="2">
+  <outline>
+    <contour>
+      <point x="60" y="197" type="line"/>
+      <point x="278" y="197" type="line"/>
+      <point x="278" y="322" type="line"/>
+      <point x="60" y="322" type="line"/>
+    </contour>
+  </outline>
+</glyph>

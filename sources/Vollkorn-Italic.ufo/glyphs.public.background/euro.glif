@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="euro" format="2">
+  <outline>
+    <component base="C" xOffset="50"/>
+    <component base="_part.euro" xOffset="-15"/>
+  </outline>
+</glyph>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="upBlackTriangle" format="2">
+  <advance width="816"/>
+  <unicode hex="25B2"/>
+  <outline>
+    <contour>
+      <point x="47" y="0" type="curve"/>
+      <point x="767" y="0" type="line"/>
+      <point x="781" y="22"/>
+      <point x="789" y="46"/>
+      <point x="791" y="72" type="curve"/>
+      <point x="447" y="685" type="line"/>
+      <point x="421" y="685"/>
+      <point x="397" y="683"/>
+      <point x="373" y="677" type="curve"/>
+      <point x="25" y="72" type="line"/>
+      <point x="26" y="45"/>
+      <point x="34" y="21"/>
+    </contour>
+  </outline>
+</glyph>

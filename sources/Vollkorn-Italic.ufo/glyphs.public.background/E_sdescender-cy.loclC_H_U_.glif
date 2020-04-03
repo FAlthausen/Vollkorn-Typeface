@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Esdescender-cy.loclCHU" format="2">
+  <outline>
+    <component base="Es-cy"/>
+    <component base="cedillacomb" xOffset="282"/>
+  </outline>
+</glyph>

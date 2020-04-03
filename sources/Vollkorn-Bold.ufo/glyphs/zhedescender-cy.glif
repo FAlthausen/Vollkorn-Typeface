@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="zhedescender-cy" format="2">
+  <advance width="954"/>
+  <unicode hex="0497"/>
+  <outline>
+    <component base="zhe-cy"/>
+    <component base="descender-cy" xOffset="792"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>anchor</key>
+          <string>bottomright</string>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>descender-cy</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

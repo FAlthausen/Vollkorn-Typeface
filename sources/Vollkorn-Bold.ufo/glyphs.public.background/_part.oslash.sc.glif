@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_part.oslash.sc" format="2">
+  <outline>
+    <contour>
+      <point x="481" y="475" type="line"/>
+      <point x="579" y="448" type="line"/>
+      <point x="658" y="537" type="line"/>
+      <point x="637" y="550"/>
+      <point x="594" y="560"/>
+      <point x="556" y="560" type="curve"/>
+    </contour>
+    <contour>
+      <point x="225" y="58" type="line"/>
+      <point x="127" y="81" type="line"/>
+      <point x="50" y="-2" type="line"/>
+      <point x="71" y="-14"/>
+      <point x="110" y="-19"/>
+      <point x="154" y="-19" type="curve"/>
+    </contour>
+    <contour>
+      <point x="163" y="116" type="line"/>
+      <point x="237" y="59" type="line"/>
+      <point x="522" y="380" type="line"/>
+      <point x="448" y="439" type="line"/>
+    </contour>
+  </outline>
+</glyph>

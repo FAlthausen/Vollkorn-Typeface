@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="__descender-cy.straight.case" format="2">
+  <anchor x="-13" y="-36" name="_bottom"/>
+  <anchor x="13" y="0" name="_bottomright"/>
+  <anchor x="13" y="0" name="_hook-cy"/>
+  <anchor x="-132" y="-4" name="top"/>
+  <outline>
+    <contour>
+      <point x="13" y="0" type="curve"/>
+      <point x="-44" y="0" type="line"/>
+      <point x="-59" y="-14" type="line"/>
+      <point x="-47" y="-65"/>
+      <point x="-40" y="-137"/>
+      <point x="-41" y="-208" type="curve"/>
+      <point x="-23" y="-213"/>
+      <point x="-1" y="-213"/>
+      <point x="15" y="-208" type="curve"/>
+      <point x="15" y="-133"/>
+      <point x="20" y="-75"/>
+      <point x="28" y="-36" type="curve"/>
+      <point x="28" y="-23"/>
+      <point x="23" y="-9"/>
+    </contour>
+  </outline>
+</glyph>

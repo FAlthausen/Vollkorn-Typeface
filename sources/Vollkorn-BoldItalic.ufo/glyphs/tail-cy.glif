@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tail-cy" format="2">
+  <advance width="224"/>
+  <anchor x="157" y="75" name="_bottomright"/>
+  <outline>
+    <contour>
+      <point x="47" y="-152" type="curve"/>
+      <point x="81" y="-58"/>
+      <point x="124" y="27"/>
+      <point x="157" y="75" type="curve"/>
+      <point x="18" y="26" type="line"/>
+      <point x="7" y="-30"/>
+      <point x="-14" y="-83"/>
+      <point x="-33" y="-118" type="curve"/>
+      <point x="-13" y="-138"/>
+      <point x="10" y="-148"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Spacing Combining</string>
+    </dict>
+  </lib>
+</glyph>

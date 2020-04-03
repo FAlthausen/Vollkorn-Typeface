@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="parallel.sups" format="2">
+  <advance width="287"/>
+  <outline>
+    <contour>
+      <point x="190" y="281" type="line"/>
+      <point x="208" y="281"/>
+      <point x="225" y="282"/>
+      <point x="244" y="292" type="curve"/>
+      <point x="351" y="840" type="line"/>
+      <point x="335" y="840"/>
+      <point x="315" y="839"/>
+      <point x="297" y="829" type="curve"/>
+    </contour>
+    <contour>
+      <point x="65" y="281" type="line"/>
+      <point x="81" y="281"/>
+      <point x="101" y="282"/>
+      <point x="119" y="292" type="curve"/>
+      <point x="226" y="840" type="line"/>
+      <point x="208" y="840"/>
+      <point x="191" y="839"/>
+      <point x="172" y="829" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>height</key>
+        <integer>60</integer>
+        <key>verticalShift</key>
+        <integer>420</integer>
+        <key>weight</key>
+        <integer>-70</integer>
+        <key>width</key>
+        <integer>72</integer>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

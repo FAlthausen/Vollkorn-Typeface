@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_part.ertick-cy" format="2">
+  <outline>
+    <contour>
+      <point x="417" y="-41" type="curve"/>
+      <point x="432" y="-39"/>
+      <point x="447" y="-33"/>
+      <point x="465" y="-15" type="curve"/>
+      <point x="320" y="167" type="line"/>
+      <point x="302" y="163"/>
+      <point x="286" y="154"/>
+      <point x="270" y="139" type="curve"/>
+      <point x="322" y="80"/>
+      <point x="370" y="21"/>
+    </contour>
+  </outline>
+</glyph>

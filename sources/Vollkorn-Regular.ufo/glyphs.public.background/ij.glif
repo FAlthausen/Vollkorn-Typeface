@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ij" format="2">
+  <outline>
+    <contour>
+      <point x="166" y="254" type="move"/>
+    </contour>
+    <component base="i"/>
+    <component base="j" xOffset="252"/>
+  </outline>
+</glyph>

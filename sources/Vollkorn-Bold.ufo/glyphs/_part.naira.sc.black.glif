@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_part.naira.sc.black" format="2">
+  <advance width="621"/>
+  <anchor x="345" y="249" name="_center"/>
+  <outline>
+    <contour>
+      <point x="17" y="211" type="curve"/>
+      <point x="75" y="212"/>
+      <point x="124" y="212"/>
+      <point x="168" y="213" type="curve"/>
+      <point x="168" y="287" type="line"/>
+      <point x="31" y="287" type="line"/>
+      <point x="24" y="269"/>
+      <point x="17" y="249"/>
+    </contour>
+    <contour>
+      <point x="537" y="215" type="line"/>
+      <point x="574" y="215"/>
+      <point x="614" y="215"/>
+      <point x="659" y="215" type="curve"/>
+      <point x="668" y="236"/>
+      <point x="673" y="255"/>
+      <point x="673" y="287" type="curve"/>
+      <point x="537" y="287" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>height</key>
+        <integer>74</integer>
+        <key>weight</key>
+        <integer>-8</integer>
+        <key>width</key>
+        <integer>88</integer>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

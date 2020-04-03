@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="leftanglebracket-math" format="2">
+  <outline>
+    <contour>
+      <point x="212" y="-267" type="curve"/>
+      <point x="240" y="-267"/>
+      <point x="266" y="-264"/>
+      <point x="286" y="-255" type="curve"/>
+      <point x="280" y="-102"/>
+      <point x="254" y="86"/>
+      <point x="215" y="270" type="curve"/>
+      <point x="204" y="216" type="line"/>
+      <point x="314" y="393"/>
+      <point x="412" y="576"/>
+      <point x="479" y="728" type="curve"/>
+      <point x="457" y="738"/>
+      <point x="438" y="741"/>
+      <point x="409" y="738" type="curve"/>
+      <point x="307" y="565"/>
+      <point x="157" y="374"/>
+      <point x="49" y="265" type="curve"/>
+      <point x="43" y="244"/>
+      <point x="40" y="219"/>
+      <point x="43" y="201" type="curve"/>
+      <point x="107" y="93"/>
+      <point x="179" y="-96"/>
+    </contour>
+  </outline>
+</glyph>
