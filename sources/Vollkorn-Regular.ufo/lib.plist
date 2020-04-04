@@ -4488,6 +4488,7 @@
       <string>Eltail-cy</string>
       <string>Enhook-cy</string>
       <string>Entail-cy</string>
+      <string>Chekhakassian-cy</string>
       <string>Emtail-cy</string>
       <string>Abreve-cy</string>
       <string>Adieresis-cy</string>
@@ -4790,7 +4791,6 @@
       <string>gedescender-cy.sc</string>
       <string>yerudieresis-cy.sc</string>
       <string>gestrokehook-cy.sc</string>
-      <string>Chekhakassian-cy</string>
       <string>hahook-cy.sc</string>
       <string>hastroke-cy.sc</string>
       <string>reversedze-cy.sc</string>
