@@ -56,7 +56,7 @@
         </dict>
       </lib>
     </instance>
-    <instance name="Vollkorn Medium Italic" familyname="Vollkorn" stylename="Medium Italic" filename="instance_ufos/Vollkorn-MediumItalic.ufo">
+    <instance name="Vollkorn Medium Italic" familyname="Vollkorn" stylename="Medium Italic" filename="instance_ufos/Vollkorn-MediumItalic.ufo" stylemapfamilyname="Vollkorn Medium" stylemapstylename="italic">
       <location>
         <dimension name="Weight" xvalue="114"/>
       </location>
