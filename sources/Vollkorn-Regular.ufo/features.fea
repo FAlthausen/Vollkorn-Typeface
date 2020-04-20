@@ -353,7 +353,6 @@ lookup DOWN {
 } frac;
 
 feature ordn {
-# automatic
 sub [zero one two three four five six seven eight nine] [A a a.sc]' by ordfeminine;
 sub [zero one two three four five six seven eight nine] [O o o.sc]' by ordmasculine;
 sub N o period by numero;
@@ -1739,7 +1738,6 @@ feature ss01 {
 featureNames {
 	name "Alternative Letters";
 };
-# automatic
 sub M by M.ss01;
 sub Mdotbelow by Mdotbelow.ss01;
 sub N by N.ss01;
