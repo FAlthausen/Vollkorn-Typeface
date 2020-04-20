@@ -829,6 +829,9 @@ sub zdotbelow by zdotbelow.ss01;
 feature ss01 {
 # notes:
 # Name: Alternative Stylistic Glyphs
+featureNames {
+	name "Alternative Stylistic Glyphs";
+};
 # automatic
 sub A by A.ss01;
 sub Aacute by Aacute.ss01;
@@ -928,6 +931,9 @@ sub zdotbelow by zdotbelow.ss01;
 feature ss02 {
 # notes:
 # Name: Polish
+featureNames {
+	name "Polish";
+};
 sub Cacute by Cacute.loclPLK;
 sub Nacute by Nacute.loclPLK;
 sub Oacute by Oacute.loclPLK;
@@ -945,6 +951,9 @@ sub acute by acute.loclPLK;
 feature ss03 {
 # notes:
 # Name: Dutch
+featureNames {
+	name "Dutch";
+};
 sub [f f.calt] i j by f_i_j.loclNLD;
 sub [fi f_i.liga] j by f_i_j.loclNLD;
 sub f ij by f_i_j.loclNLD;
@@ -958,6 +967,9 @@ sub Iacute J by Iacute_J.loclNLD;
 feature ss04 {
 # notes:
 # Name: Bulgarian
+featureNames {
+	name "Bulgarian";
+};
 sub De-cy by De-cy.loclBGR;
 sub Ii-cy by Ii-cy.loclBGR;
 sub Iishort-cy by Iishort-cy.loclBGR;
@@ -976,6 +988,9 @@ sub iu-cy by iu-cy.loclBGR;
 feature ss05 {
 # notes:
 # Name: Serbian
+featureNames {
+	name "Serbian";
+};
 sub be-cy by be-cy.loclSRB;
 sub ge-cy by ge-cy.loclSRB;
 sub de-cy by de-cy.loclSRB;
@@ -986,6 +1001,9 @@ sub te-cy by te-cy.loclSRB;
 feature ss11 {
 # notes:
 # Name: Alternative Figure One
+featureNames {
+	name "Alternative Figure One";
+};
 # automatic
 sub one by one.ss11;
 sub one.tosf by one.tosf.ss11;
@@ -997,6 +1015,9 @@ sub onesuperior by onesuperior.ss11;
 feature ss14 {
 # notes:
 # Name: Alternative Figure Four
+featureNames {
+	name "Alternative Figure Four";
+};
 # automatic
 sub four.lf by four.lf.ss14;
 sub four by four.ss14;
@@ -1012,6 +1033,9 @@ sub foursuperior by foursuperior.ss14;
 feature ss17 {
 # notes:
 # Name: Alternative Figure Seven
+featureNames {
+	name "Alternative Figure Seven";
+};
 # automatic
 sub seven.lf by seven.lf.ss17;
 sub seven by seven.ss17;
