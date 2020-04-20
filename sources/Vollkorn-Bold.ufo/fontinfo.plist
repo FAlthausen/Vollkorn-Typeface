@@ -151,9 +151,9 @@
       <integer>195</integer>
     </array>
     <key>postscriptUnderlinePosition</key>
-    <integer>-355</integer>
+    <integer>-340</integer>
     <key>postscriptUnderlineThickness</key>
-    <integer>70</integer>
+    <integer>40</integer>
     <key>styleName</key>
     <string>Bold</string>
     <key>unitsPerEm</key>
