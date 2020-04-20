@@ -9,14 +9,13 @@ echo $(pwd)
 
 
 echo "Generating Static fonts"
+rm -rf ../fonts
 mkdir -p ../fonts
 mkdir -p ../fonts/otf
 mkdir -p ../fonts/ttf
 mkdir -p ../fonts/variable
 fontmake -m Vollkorn.designspace -i -o ttf --output-dir ../fonts/ttf/
-# fontmake -m Vollkorn.designspace -i -o otf --output-dir ../fonts/otf/
 fontmake -m Vollkorn-Italic.designspace -i -o ttf --output-dir ../fonts/ttf/
-# fontmake -m Vollkorn-Italic.designspace -i -o otf --output-dir ../fonts/otf/
 
 echo "Generating VFs"
 fontmake -m Vollkorn.designspace -o variable --output-path ../fonts/variable/Vollkorn[wght].ttf
@@ -30,7 +29,7 @@ pyftsubset  --glyph-names --layout-features="*" --name-IDs="*" --unicodes="*" --
 mv ../fonts/variable/VollkornSC\[wght\].subset.ttf ../fonts/variable/VollkornSC\[wght\].ttf
 
 echo "Generate Vollkorn SC static fonts"
-ttfs=$(ls ../fonts/ttf/*.ttf)
+ttfs=$(ls ../fonts/ttf/*.ttf | grep -v "SC-")
 for ttf in $ttfs
 do
 	scttf=$(echo $ttf | sed 's/-/SC-/');
