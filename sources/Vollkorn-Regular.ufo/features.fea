@@ -167,18 +167,25 @@ sub tcedilla by tcommaaccent;
 language KAZ;
 sub i by idotaccent;
 language PLK;
-sub Cacute by Cacute.loclPLK;
-sub Nacute by Nacute.loclPLK;
-sub Oacute by Oacute.loclPLK;
-sub Sacute by Sacute.loclPLK;
-sub Zacute by Zacute.loclPLK;
-sub cacute by cacute.loclPLK;
-sub nacute by nacute.loclPLK;
-sub oacute by oacute.loclPLK;
-sub sacute by sacute.loclPLK;
-sub zacute by zacute.loclPLK;
-sub acutecomb by acutecomb.loclPLK;
-sub acute by acute.loclPLK;
+lookup locl_PLK {
+	sub Cacute by Cacute.loclPLK;
+	sub Nacute by Nacute.loclPLK;
+	sub Oacute by Oacute.loclPLK;
+	sub Sacute by Sacute.loclPLK;
+	sub Zacute by Zacute.loclPLK;
+	sub cacute by cacute.loclPLK;
+	sub nacute by nacute.loclPLK;
+	sub oacute by oacute.loclPLK;
+	sub sacute by sacute.loclPLK;
+	sub zacute by zacute.loclPLK;
+	sub acutecomb by acutecomb.loclPLK;
+	sub acute by acute.loclPLK;
+	sub cacute.sc by cacute.loclPLK.sc;
+	sub nacute.sc by nacute.loclPLK.sc;
+	sub oacute.sc by oacute.loclPLK.sc;
+	sub sacute.sc by sacute.loclPLK.sc;
+	sub zacute.sc by zacute.loclPLK.sc;
+} locl_PLK;
 language AZE;
 sub i by idotaccent;
 language CAT;
@@ -189,43 +196,57 @@ sub i by idotaccent;
 language NSM;
 sub Eng by Eng.loclNSM;
 language NLD;
-sub [f f.calt] i j by f_i_j.loclNLD;
-sub [fi f_i.liga] j by f_i_j.loclNLD;
-sub f ij by f_i_j.loclNLD;
-sub [f f.calt] iacute [j jacute] by f_iacute_j.loclNLD;
-sub iacute j' by jacute;
-sub Iacute J' by Jacute;
+lookup locl_NLD_ligature {
+	sub [f f.calt] i j by f_i_j.loclNLD;
+	sub [fi f_i.liga] j by f_i_j.loclNLD;
+	sub f ij by f_i_j.loclNLD;
+	sub [f f.calt] iacute [j jacute] by f_iacute_j.loclNLD;
+} locl_NLD_ligature;
+lookup locl_NLD_ijacute {
+	sub iacute j' by jacute;
+	sub Iacute J' by Jacute;
+} locl_NLD_ijacute;
 
 script cyrl;
 language BGR;
-sub De-cy by De-cy.loclBGR;
-sub Ii-cy by Ii-cy.loclBGR;
-sub Iishort-cy by Iishort-cy.loclBGR;
-sub Iigrave-cy by Iigrave-cy.loclBGR;
-sub El-cy by El-cy.loclBGR;
-sub Ef-cy by Ef-cy.loclBGR;
-sub ve-cy by ve-cy.loclBGR;
-sub ge-cy by ge-cy.loclBGR;
-sub de-cy by de-cy.loclBGR;
-sub zhe-cy by zhe-cy.loclBGR;
-sub ze-cy by ze-cy.loclBGR;
-sub ii-cy by ii-cy.loclBGR;
-sub iishort-cy by iishort-cy.loclBGR;
-sub iigrave-cy by iigrave-cy.loclBGR;
-sub ka-cy by ka-cy.loclBGR;
-sub el-cy by el-cy.loclBGR;
-sub en-cy by en-cy.loclBGR;
-sub pe-cy by pe-cy.loclBGR;
-sub te-cy by te-cy.loclBGR;
-sub che-cy by che-cy.loclBGR;
-sub tse-cy by tse-cy.loclBGR;
-sub sha-cy by sha-cy.loclBGR;
-sub shcha-cy by shcha-cy.loclBGR;
-sub softsign-cy by softsign-cy.loclBGR;
-sub hardsign-cy by hardsign-cy.loclBGR;
-sub iu-cy by iu-cy.loclBGR;
+lookup locl_BGR {
+	sub De-cy by De-cy.loclBGR;
+	sub Ii-cy by Ii-cy.loclBGR;
+	sub Iishort-cy by Iishort-cy.loclBGR;
+	sub Iigrave-cy by Iigrave-cy.loclBGR;
+	sub El-cy by El-cy.loclBGR;
+	sub Ef-cy by Ef-cy.loclBGR;
+	sub ve-cy by ve-cy.loclBGR;
+	sub ge-cy by ge-cy.loclBGR;
+	sub de-cy by de-cy.loclBGR;
+	sub zhe-cy by zhe-cy.loclBGR;
+	sub ze-cy by ze-cy.loclBGR;
+	sub ii-cy by ii-cy.loclBGR;
+	sub iishort-cy by iishort-cy.loclBGR;
+	sub iigrave-cy by iigrave-cy.loclBGR;
+	sub ka-cy by ka-cy.loclBGR;
+	sub el-cy by el-cy.loclBGR;
+	sub en-cy by en-cy.loclBGR;
+	sub pe-cy by pe-cy.loclBGR;
+	sub te-cy by te-cy.loclBGR;
+	sub che-cy by che-cy.loclBGR;
+	sub tse-cy by tse-cy.loclBGR;
+	sub sha-cy by sha-cy.loclBGR;
+	sub shcha-cy by shcha-cy.loclBGR;
+	sub softsign-cy by softsign-cy.loclBGR;
+	sub hardsign-cy by hardsign-cy.loclBGR;
+	sub iu-cy by iu-cy.loclBGR;
+	sub de-cy.sc by de-cy.loclBGR.sc;
+	sub ii-cy.sc by ii-cy.loclBGR.sc;
+	sub iishort-cy.sc by iishort-cy.loclBGR.sc;
+	sub iigrave-cy.sc by iigrave-cy.loclBGR.sc;
+	sub el-cy.sc by el-cy.loclBGR.sc;
+	sub ef-cy.sc by ef-cy.loclBGR.sc;
+} locl_BGR;
 language SRB;
-sub be-cy by be-cy.loclSRB;
+lookup locl_SRB {
+	sub be-cy by be-cy.loclSRB;
+} locl_SRB;
 language CHU;
 sub Esdescender-cy by Esdescender-cy.loclCHU;
 sub esdescender-cy by esdescender-cy.loclCHU;
@@ -333,8 +354,8 @@ lookup DOWN {
 
 feature ordn {
 # automatic
-sub [zero one two three four five six seven eight nine] [A a]' by ordfeminine;
-sub [zero one two three four five six seven eight nine] [O o]' by ordmasculine;
+sub [zero one two three four five six seven eight nine] [A a a.sc]' by ordfeminine;
+sub [zero one two three four five six seven eight nine] [O o o.sc]' by ordmasculine;
 sub N o period by numero;
 
 } ordn;
@@ -1715,6 +1736,9 @@ sub ampersand.sc by ampersand.sc.ss01;
 feature ss01 {
 # notes:
 # Name: Alternative Letters
+featureNames {
+	name "Alternative Letters";
+};
 # automatic
 sub M by M.ss01;
 sub Mdotbelow by Mdotbelow.ss01;
@@ -1792,73 +1816,91 @@ sub ampersand.sc by ampersand.sc.ss01;
 feature ss02 {
 # notes:
 # Name: Polish
-sub Cacute by Cacute.loclPLK;
-sub Nacute by Nacute.loclPLK;
-sub Oacute by Oacute.loclPLK;
-sub Sacute by Sacute.loclPLK;
-sub Zacute by Zacute.loclPLK;
-sub cacute by cacute.loclPLK;
-sub nacute by nacute.loclPLK;
-sub oacute by oacute.loclPLK;
-sub sacute by sacute.loclPLK;
-sub zacute by zacute.loclPLK;
-sub acutecomb by acutecomb.loclPLK;
-sub acute by acute.loclPLK;
-
+featureNames {
+	name "Polish";
+};
+# sub Cacute by Cacute.loclPLK;
+# sub Nacute by Nacute.loclPLK;
+# sub Oacute by Oacute.loclPLK;
+# sub Sacute by Sacute.loclPLK;
+# sub Zacute by Zacute.loclPLK;
+# sub cacute by cacute.loclPLK;
+# sub nacute by nacute.loclPLK;
+# sub oacute by oacute.loclPLK;
+# sub sacute by sacute.loclPLK;
+# sub zacute by zacute.loclPLK;
+# sub acutecomb by acutecomb.loclPLK;
+# sub acute by acute.loclPLK;
+lookup locl_PLK;
 } ss02;
 
 feature ss03 {
 # notes:
 # Name: Dutch
-sub [f f.calt] i j by f_i_j.loclNLD;
-sub [fi f_i.liga] j by f_i_j.loclNLD;
-sub f ij by f_i_j.loclNLD;
-sub [f f.calt] iacute [j jacute] by f_iacute_j.loclNLD;
-sub iacute j' by jacute;
-sub Iacute J' by Jacute;
+featureNames {
+	name "Dutch";
+};
+# sub [f f.calt] i j by f_i_j.loclNLD;
+# sub [fi f_i.liga] j by f_i_j.loclNLD;
+# sub f ij by f_i_j.loclNLD;
+# sub [f f.calt] iacute [j jacute] by f_iacute_j.loclNLD;
+# sub iacute j' by jacute;
+# sub Iacute J' by Jacute;
+lookup locl_NLD_ligature;
+lookup locl_NLD_ijacute;
 } ss03;
 
 feature ss04 {
 # notes:
 # Name: Bulgarian
-sub De-cy by De-cy.loclBGR;
-sub Ii-cy by Ii-cy.loclBGR;
-sub Iishort-cy by Iishort-cy.loclBGR;
-sub Iigrave-cy by Iigrave-cy.loclBGR;
-sub El-cy by El-cy.loclBGR;
-sub Ef-cy by Ef-cy.loclBGR;
-sub ve-cy by ve-cy.loclBGR;
-sub ge-cy by ge-cy.loclBGR;
-sub de-cy by de-cy.loclBGR;
-sub zhe-cy by zhe-cy.loclBGR;
-sub ze-cy by ze-cy.loclBGR;
-sub ii-cy by ii-cy.loclBGR;
-sub iishort-cy by iishort-cy.loclBGR;
-sub iigrave-cy by iigrave-cy.loclBGR;
-sub ka-cy by ka-cy.loclBGR;
-sub el-cy by el-cy.loclBGR;
-sub en-cy by en-cy.loclBGR;
-sub pe-cy by pe-cy.loclBGR;
-sub te-cy by te-cy.loclBGR;
-sub che-cy by che-cy.loclBGR;
-sub tse-cy by tse-cy.loclBGR;
-sub sha-cy by sha-cy.loclBGR;
-sub shcha-cy by shcha-cy.loclBGR;
-sub softsign-cy by softsign-cy.loclBGR;
-sub hardsign-cy by hardsign-cy.loclBGR;
-sub iu-cy by iu-cy.loclBGR;
+featureNames {
+	name "Bulgarian";
+};
+lookup locl_BGR;
+# sub De-cy by De-cy.loclBGR;
+# sub Ii-cy by Ii-cy.loclBGR;
+# sub Iishort-cy by Iishort-cy.loclBGR;
+# sub Iigrave-cy by Iigrave-cy.loclBGR;
+# sub El-cy by El-cy.loclBGR;
+# sub Ef-cy by Ef-cy.loclBGR;
+# sub ve-cy by ve-cy.loclBGR;
+# sub ge-cy by ge-cy.loclBGR;
+# sub de-cy by de-cy.loclBGR;
+# sub zhe-cy by zhe-cy.loclBGR;
+# sub ze-cy by ze-cy.loclBGR;
+# sub ii-cy by ii-cy.loclBGR;
+# sub iishort-cy by iishort-cy.loclBGR;
+# sub iigrave-cy by iigrave-cy.loclBGR;
+# sub ka-cy by ka-cy.loclBGR;
+# sub el-cy by el-cy.loclBGR;
+# sub en-cy by en-cy.loclBGR;
+# sub pe-cy by pe-cy.loclBGR;
+# sub te-cy by te-cy.loclBGR;
+# sub che-cy by che-cy.loclBGR;
+# sub tse-cy by tse-cy.loclBGR;
+# sub sha-cy by sha-cy.loclBGR;
+# sub shcha-cy by shcha-cy.loclBGR;
+# sub softsign-cy by softsign-cy.loclBGR;
+# sub hardsign-cy by hardsign-cy.loclBGR;
+# sub iu-cy by iu-cy.loclBGR;
 } ss04;
 
 feature ss05 {
 # notes:
 # Name: Serbian
-sub be-cy by be-cy.loclSRB;
-
+featureNames {
+	name "Serbian";
+};
+# sub be-cy by be-cy.loclSRB;
+lookup locl_SRB;
 } ss05;
 
 feature ss11 {
 # notes:
 # Name: Alternative Figure One
+featureNames {
+	name "Alternative Figure One";
+};
 # automatic
 sub one by one.ss11;
 sub one.tosf by one.tosf.ss11;
@@ -1870,6 +1912,9 @@ sub onesuperior by onesuperior.ss11;
 feature ss13 {
 # notes:
 # Name: Alternative Figure Three
+featureNames {
+	name "Alternative Figure Three";
+};
 # automatic
 sub three.lf by three.lf.ss13;
 sub three by three.ss13;
@@ -1886,6 +1931,9 @@ sub three.sc by three.sc.ss13;
 feature ss14 {
 # notes:
 # Name: Alternative Figure Four
+featureNames {
+	name "Alternative Figure Four";
+};
 # automatic
 sub four.lf by four.lf.ss14;
 sub four by four.ss14;
@@ -1902,6 +1950,9 @@ sub four.sc by four.sc.ss14;
 feature ss17 {
 # notes:
 # Name: Alternative Figure Seven
+featureNames {
+	name "Alternative Figure Seven";
+};
 # automatic
 sub seven.lf by seven.lf.ss17;
 sub seven by seven.ss17;
