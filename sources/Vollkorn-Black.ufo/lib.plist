@@ -1127,7 +1127,9 @@
       </dict>
     </dict>
     <key>com.schriftgestaltung.appVersion</key>
-    <string>1147</string>
+    <string>1313</string>
+    <key>com.schriftgestaltung.customName</key>
+    <string>Black</string>
     <key>com.schriftgestaltung.customParameter.GSFont.Use Line Breaks</key>
     <integer>1</integer>
     <key>com.schriftgestaltung.customParameter.GSFont.disablesAutomaticAlignment</key>
@@ -1145,7 +1147,7 @@
     <key>com.schriftgestaltung.customParameter.GSFontMaster.customValue3</key>
     <integer>0</integer>
     <key>com.schriftgestaltung.customParameter.GSFontMaster.iconName</key>
-    <string></string>
+    <string>Bold</string>
     <key>com.schriftgestaltung.customParameter.GSFontMaster.smallCapHeight</key>
     <integer>500</integer>
     <key>com.schriftgestaltung.customParameter.GSFontMaster.weightValue</key>
@@ -1157,7 +1159,7 @@
     <key>com.schriftgestaltung.keyboardIncrement</key>
     <integer>1</integer>
     <key>com.schriftgestaltung.weight</key>
-    <string>Bold</string>
+    <string>Regular</string>
     <key>com.schriftgestaltung.weightValue</key>
     <integer>190</integer>
     <key>com.schriftgestaltung.width</key>

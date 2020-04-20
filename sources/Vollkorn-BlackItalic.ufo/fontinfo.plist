@@ -166,11 +166,11 @@
     <key>postscriptUnderlineThickness</key>
     <integer>40</integer>
     <key>styleMapFamilyName</key>
-    <string>Vollkorn Bold</string>
+    <string>Vollkorn Black</string>
     <key>styleMapStyleName</key>
     <string>italic</string>
     <key>styleName</key>
-    <string>Bold Italic</string>
+    <string>Black Italic</string>
     <key>unitsPerEm</key>
     <integer>1000</integer>
     <key>versionMajor</key>

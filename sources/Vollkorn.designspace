@@ -25,7 +25,7 @@
         <dimension name="Weight" xvalue="150"/>
       </location>
     </source>
-    <source filename="Vollkorn-Bold.ufo" name="Vollkorn Bold" familyname="Vollkorn" stylename="Bold">
+    <source filename="Vollkorn-Black.ufo" name="Vollkorn Black" familyname="Vollkorn" stylename="Black">
       <location>
         <dimension name="Weight" xvalue="190"/>
       </location>
