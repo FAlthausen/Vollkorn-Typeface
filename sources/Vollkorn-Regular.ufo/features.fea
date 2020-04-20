@@ -1899,7 +1899,6 @@ feature ss11 {
 featureNames {
 	name "Alternative Figure One";
 };
-# automatic
 sub one by one.ss11;
 sub one.tosf by one.tosf.ss11;
 sub oneinferior by oneinferior.ss11;
@@ -1913,7 +1912,6 @@ feature ss13 {
 featureNames {
 	name "Alternative Figure Three";
 };
-# automatic
 sub three.lf by three.lf.ss13;
 sub three by three.ss13;
 sub three.tf by three.tf.ss13;
@@ -1932,7 +1930,6 @@ feature ss14 {
 featureNames {
 	name "Alternative Figure Four";
 };
-# automatic
 sub four.lf by four.lf.ss14;
 sub four by four.ss14;
 sub four.tf by four.tf.ss14;
@@ -1951,7 +1948,6 @@ feature ss17 {
 featureNames {
 	name "Alternative Figure Seven";
 };
-# automatic
 sub seven.lf by seven.lf.ss17;
 sub seven by seven.ss17;
 sub seven.tf by seven.tf.ss17;
