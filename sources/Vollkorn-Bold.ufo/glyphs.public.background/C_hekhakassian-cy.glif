@@ -8,14 +8,14 @@
       <point x="359.5" y="-182.4"/>
       <point x="326" y="-169" type="curve"/>
       <point x="328.68" y="-111.38"/>
-      <point x="325.38" y="-49.580000000000005"/>
+      <point x="325.38" y="-49.58"/>
       <point x="316" y="0" type="curve"/>
-      <point x="316.0" y="29.48"/>
+      <point x="316" y="29.48"/>
       <point x="321.6" y="53.56"/>
       <point x="335" y="75" type="curve"/>
       <point x="417" y="75" type="line"/>
       <point x="465" y="35" type="line"/>
-      <point x="451.6" y="-41.38000000000001"/>
+      <point x="451.6" y="-41.38"/>
       <point x="446.66" y="-115.4"/>
     </contour>
     <contour>

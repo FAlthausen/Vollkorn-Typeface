@@ -1,9 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="bauch.comp" format="2">
   <advance width="600"/>
-  <note>
-leer
-</note>
   <outline>
     <contour>
       <point x="494" y="447" type="line"/>

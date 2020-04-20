@@ -12,6 +12,8 @@
       <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
       <array>
         <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
           <key>anchor</key>
           <string>top_1</string>
           <key>index</key>
@@ -20,6 +22,8 @@
           <string>dotaccentcomb</string>
         </dict>
         <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
           <key>anchor</key>
           <string>top_2</string>
           <key>index</key>
@@ -32,12 +36,6 @@
       <string>i</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>=g</string>
-      <key>com.schriftgestaltung.componentsAlignment</key>
-      <array>
-        <integer>0</integer>
-        <integer>-1</integer>
-        <integer>-1</integer>
-      </array>
     </dict>
   </lib>
 </glyph>

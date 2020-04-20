@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<designspace format="4.0">
+<designspace format="4.1">
   <axes>
     <axis tag="wght" name="Weight" minimum="400" maximum="900" default="400">
       <map input="400" output="100"/>
@@ -32,29 +32,12 @@
     </source>
   </sources>
   <instances>
-    <instance name="Vollkorn Italic" familyname="Vollkorn" stylename="Italic" filename="instance_ufos/Vollkorn-Italic.ufo">
+    <instance name="Vollkorn Italic" familyname="Vollkorn" stylename="Italic" filename="instance_ufos/Vollkorn-Italic.ufo" stylemapfamilyname="Vollkorn Italic" stylemapstylename="regular">
       <location>
         <dimension name="Weight" xvalue="100"/>
       </location>
       <kerning/>
       <info/>
-      <lib>
-        <dict>
-          <key>com.schriftgestaltung.export</key>
-          <true/>
-          <key>com.schriftgestaltung.intanceInterpolations</key>
-          <dict>
-            <key>9785DD90-0D66-4E3E-881E-09053C5F0A8A</key>
-            <integer>1</integer>
-          </dict>
-          <key>com.schriftgestaltung.manualInterpolation</key>
-          <false/>
-          <key>com.schriftgestaltung.weight</key>
-          <string>Regular</string>
-          <key>com.schriftgestaltung.width</key>
-          <string>Medium (normal)</string>
-        </dict>
-      </lib>
     </instance>
     <instance name="Vollkorn Medium Italic" familyname="Vollkorn" stylename="Medium Italic" filename="instance_ufos/Vollkorn-MediumItalic.ufo" stylemapfamilyname="Vollkorn Medium" stylemapstylename="italic">
       <location>
@@ -71,21 +54,6 @@
               <string>RMXHarmonizer;dekink</string>
             </array>
           </array>
-          <key>com.schriftgestaltung.export</key>
-          <true/>
-          <key>com.schriftgestaltung.intanceInterpolations</key>
-          <dict>
-            <key>9785DD90-0D66-4E3E-881E-09053C5F0A8A</key>
-            <real>0.84444</real>
-            <key>B20BA836-AF41-4C81-B953-D076FC766EB4</key>
-            <real>0.15556</real>
-          </dict>
-          <key>com.schriftgestaltung.manualInterpolation</key>
-          <false/>
-          <key>com.schriftgestaltung.weight</key>
-          <string>Medium</string>
-          <key>com.schriftgestaltung.width</key>
-          <string>Medium (normal)</string>
         </dict>
       </lib>
     </instance>
@@ -104,25 +72,10 @@
               <string>RMXHarmonizer;dekink</string>
             </array>
           </array>
-          <key>com.schriftgestaltung.export</key>
-          <true/>
-          <key>com.schriftgestaltung.intanceInterpolations</key>
-          <dict>
-            <key>9785DD90-0D66-4E3E-881E-09053C5F0A8A</key>
-            <real>0.67778</real>
-            <key>B20BA836-AF41-4C81-B953-D076FC766EB4</key>
-            <real>0.32222</real>
-          </dict>
-          <key>com.schriftgestaltung.manualInterpolation</key>
-          <false/>
-          <key>com.schriftgestaltung.weight</key>
-          <string>SemiBold</string>
-          <key>com.schriftgestaltung.width</key>
-          <string>Medium (normal)</string>
         </dict>
       </lib>
     </instance>
-    <instance name="Vollkorn Bold Italic" familyname="Vollkorn" stylename="Bold Italic" filename="instance_ufos/Vollkorn-BoldItalic.ufo">
+    <instance name="Vollkorn Bold Italic" familyname="Vollkorn" stylename="Bold Italic" filename="instance_ufos/Vollkorn-BoldItalic.ufo" stylemapfamilyname="Vollkorn Bold Italic" stylemapstylename="regular">
       <location>
         <dimension name="Weight" xvalue="147"/>
       </location>
@@ -146,21 +99,6 @@
               </array>
             </array>
           </array>
-          <key>com.schriftgestaltung.export</key>
-          <true/>
-          <key>com.schriftgestaltung.intanceInterpolations</key>
-          <dict>
-            <key>9785DD90-0D66-4E3E-881E-09053C5F0A8A</key>
-            <real>0.47778</real>
-            <key>B20BA836-AF41-4C81-B953-D076FC766EB4</key>
-            <real>0.52222</real>
-          </dict>
-          <key>com.schriftgestaltung.manualInterpolation</key>
-          <false/>
-          <key>com.schriftgestaltung.weight</key>
-          <string>Bold</string>
-          <key>com.schriftgestaltung.width</key>
-          <string>Medium (normal)</string>
         </dict>
       </lib>
     </instance>
@@ -191,21 +129,6 @@
               </array>
             </array>
           </array>
-          <key>com.schriftgestaltung.export</key>
-          <true/>
-          <key>com.schriftgestaltung.intanceInterpolations</key>
-          <dict>
-            <key>9785DD90-0D66-4E3E-881E-09053C5F0A8A</key>
-            <real>0.25556</real>
-            <key>B20BA836-AF41-4C81-B953-D076FC766EB4</key>
-            <real>0.74444</real>
-          </dict>
-          <key>com.schriftgestaltung.manualInterpolation</key>
-          <false/>
-          <key>com.schriftgestaltung.weight</key>
-          <string>ExtraBold</string>
-          <key>com.schriftgestaltung.width</key>
-          <string>Medium (normal)</string>
         </dict>
       </lib>
     </instance>
@@ -232,19 +155,6 @@
               </array>
             </array>
           </array>
-          <key>com.schriftgestaltung.export</key>
-          <true/>
-          <key>com.schriftgestaltung.intanceInterpolations</key>
-          <dict>
-            <key>B20BA836-AF41-4C81-B953-D076FC766EB4</key>
-            <integer>1</integer>
-          </dict>
-          <key>com.schriftgestaltung.manualInterpolation</key>
-          <false/>
-          <key>com.schriftgestaltung.weight</key>
-          <string>Black</string>
-          <key>com.schriftgestaltung.width</key>
-          <string>Medium (normal)</string>
         </dict>
       </lib>
     </instance>

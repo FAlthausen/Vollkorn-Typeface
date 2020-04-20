@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<designspace format="4.0">
+<designspace format="4.1">
   <axes>
     <axis tag="wght" name="Weight" minimum="400" maximum="900" default="400">
       <map input="400" output="100"/>
@@ -32,7 +32,7 @@
     </source>
   </sources>
   <instances>
-    <instance name="Vollkorn Regular" familyname="Vollkorn" stylename="Regular" filename="instance_ufos/Vollkorn-Regular.ufo">
+    <instance name="Vollkorn Regular" familyname="Vollkorn" stylename="Regular" filename="instance_ufos/Vollkorn-Regular.ufo" stylemapfamilyname="Vollkorn" stylemapstylename="regular">
       <location>
         <dimension name="Weight" xvalue="100"/>
       </location>
@@ -544,23 +544,10 @@
               </array>
             </array>
           </array>
-          <key>com.schriftgestaltung.export</key>
-          <true/>
-          <key>com.schriftgestaltung.intanceInterpolations</key>
-          <dict>
-            <key>EE8DAF6C-4A03-42BC-B349-EF1608E3D459</key>
-            <integer>1</integer>
-          </dict>
-          <key>com.schriftgestaltung.manualInterpolation</key>
-          <false/>
-          <key>com.schriftgestaltung.weight</key>
-          <string>Regular</string>
-          <key>com.schriftgestaltung.width</key>
-          <string>Medium (normal)</string>
         </dict>
       </lib>
     </instance>
-    <instance name="Vollkorn Medium" familyname="Vollkorn" stylename="Medium" filename="instance_ufos/Vollkorn-Medium.ufo">
+    <instance name="Vollkorn Medium" familyname="Vollkorn" stylename="Medium" filename="instance_ufos/Vollkorn-Medium.ufo" stylemapfamilyname="Vollkorn Medium" stylemapstylename="regular">
       <location>
         <dimension name="Weight" xvalue="114"/>
       </location>
@@ -1072,25 +1059,10 @@
               </array>
             </array>
           </array>
-          <key>com.schriftgestaltung.export</key>
-          <true/>
-          <key>com.schriftgestaltung.intanceInterpolations</key>
-          <dict>
-            <key>0D645010-4956-4D2B-A695-E77D5AF37854</key>
-            <real>0.15556</real>
-            <key>EE8DAF6C-4A03-42BC-B349-EF1608E3D459</key>
-            <real>0.84444</real>
-          </dict>
-          <key>com.schriftgestaltung.manualInterpolation</key>
-          <false/>
-          <key>com.schriftgestaltung.weight</key>
-          <string>Medium</string>
-          <key>com.schriftgestaltung.width</key>
-          <string>Medium (normal)</string>
         </dict>
       </lib>
     </instance>
-    <instance name="Vollkorn SemiBold" familyname="Vollkorn" stylename="SemiBold" filename="instance_ufos/Vollkorn-SemiBold.ufo">
+    <instance name="Vollkorn SemiBold" familyname="Vollkorn" stylename="SemiBold" filename="instance_ufos/Vollkorn-SemiBold.ufo" stylemapfamilyname="Vollkorn SemiBold" stylemapstylename="regular">
       <location>
         <dimension name="Weight" xvalue="129"/>
       </location>
@@ -1602,25 +1574,10 @@
               </array>
             </array>
           </array>
-          <key>com.schriftgestaltung.export</key>
-          <true/>
-          <key>com.schriftgestaltung.intanceInterpolations</key>
-          <dict>
-            <key>0D645010-4956-4D2B-A695-E77D5AF37854</key>
-            <real>0.32222</real>
-            <key>EE8DAF6C-4A03-42BC-B349-EF1608E3D459</key>
-            <real>0.67778</real>
-          </dict>
-          <key>com.schriftgestaltung.manualInterpolation</key>
-          <false/>
-          <key>com.schriftgestaltung.weight</key>
-          <string>SemiBold</string>
-          <key>com.schriftgestaltung.width</key>
-          <string>Medium (normal)</string>
         </dict>
       </lib>
     </instance>
-    <instance name="Vollkorn Bold" familyname="Vollkorn" stylename="Bold" filename="instance_ufos/Vollkorn-Bold.ufo">
+    <instance name="Vollkorn Bold" familyname="Vollkorn" stylename="Bold" filename="instance_ufos/Vollkorn-Bold.ufo" stylemapfamilyname="Vollkorn Bold" stylemapstylename="regular">
       <location>
         <dimension name="Weight" xvalue="147"/>
       </location>
@@ -2141,25 +2098,10 @@
               </array>
             </array>
           </array>
-          <key>com.schriftgestaltung.export</key>
-          <true/>
-          <key>com.schriftgestaltung.intanceInterpolations</key>
-          <dict>
-            <key>0D645010-4956-4D2B-A695-E77D5AF37854</key>
-            <real>0.52222</real>
-            <key>EE8DAF6C-4A03-42BC-B349-EF1608E3D459</key>
-            <real>0.47778</real>
-          </dict>
-          <key>com.schriftgestaltung.manualInterpolation</key>
-          <false/>
-          <key>com.schriftgestaltung.weight</key>
-          <string>Bold</string>
-          <key>com.schriftgestaltung.width</key>
-          <string>Medium (normal)</string>
         </dict>
       </lib>
     </instance>
-    <instance name="Vollkorn ExtraBold" familyname="Vollkorn" stylename="ExtraBold" filename="instance_ufos/Vollkorn-ExtraBold.ufo">
+    <instance name="Vollkorn ExtraBold" familyname="Vollkorn" stylename="ExtraBold" filename="instance_ufos/Vollkorn-ExtraBold.ufo" stylemapfamilyname="Vollkorn ExtraBold" stylemapstylename="regular">
       <location>
         <dimension name="Weight" xvalue="167"/>
       </location>
@@ -2684,25 +2626,10 @@
               </array>
             </array>
           </array>
-          <key>com.schriftgestaltung.export</key>
-          <true/>
-          <key>com.schriftgestaltung.intanceInterpolations</key>
-          <dict>
-            <key>0D645010-4956-4D2B-A695-E77D5AF37854</key>
-            <real>0.74444</real>
-            <key>EE8DAF6C-4A03-42BC-B349-EF1608E3D459</key>
-            <real>0.25556</real>
-          </dict>
-          <key>com.schriftgestaltung.manualInterpolation</key>
-          <false/>
-          <key>com.schriftgestaltung.weight</key>
-          <string>ExtraBold</string>
-          <key>com.schriftgestaltung.width</key>
-          <string>Medium (normal)</string>
         </dict>
       </lib>
     </instance>
-    <instance name="Vollkorn Black" familyname="Vollkorn" stylename="Black" filename="instance_ufos/Vollkorn-Black.ufo">
+    <instance name="Vollkorn Black" familyname="Vollkorn" stylename="Black" filename="instance_ufos/Vollkorn-Black.ufo" stylemapfamilyname="Vollkorn Black" stylemapstylename="regular">
       <location>
         <dimension name="Weight" xvalue="190"/>
       </location>
@@ -3227,19 +3154,6 @@
               </array>
             </array>
           </array>
-          <key>com.schriftgestaltung.export</key>
-          <true/>
-          <key>com.schriftgestaltung.intanceInterpolations</key>
-          <dict>
-            <key>0D645010-4956-4D2B-A695-E77D5AF37854</key>
-            <integer>1</integer>
-          </dict>
-          <key>com.schriftgestaltung.manualInterpolation</key>
-          <false/>
-          <key>com.schriftgestaltung.weight</key>
-          <string>Black</string>
-          <key>com.schriftgestaltung.width</key>
-          <string>Medium (normal)</string>
         </dict>
       </lib>
     </instance>

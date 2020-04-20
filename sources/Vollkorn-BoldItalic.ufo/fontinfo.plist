@@ -146,10 +146,6 @@
       <integer>758</integer>
       <integer>767</integer>
     </array>
-    <key>postscriptFamilyBlues</key>
-    <array/>
-    <key>postscriptFamilyOtherBlues</key>
-    <array/>
     <key>postscriptOtherBlues</key>
     <array>
       <integer>-249</integer>
@@ -169,6 +165,10 @@
     <integer>-340</integer>
     <key>postscriptUnderlineThickness</key>
     <integer>40</integer>
+    <key>styleMapFamilyName</key>
+    <string>Vollkorn Bold</string>
+    <key>styleMapStyleName</key>
+    <string>italic</string>
     <key>styleName</key>
     <string>Bold Italic</string>
     <key>unitsPerEm</key>
