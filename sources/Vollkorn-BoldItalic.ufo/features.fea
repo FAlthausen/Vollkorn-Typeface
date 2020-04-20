@@ -832,7 +832,6 @@ feature ss01 {
 featureNames {
 	name "Alternative Stylistic Glyphs";
 };
-# automatic
 sub A by A.ss01;
 sub Aacute by Aacute.ss01;
 sub Abreve by Abreve.ss01;
@@ -1004,7 +1003,6 @@ feature ss11 {
 featureNames {
 	name "Alternative Figure One";
 };
-# automatic
 sub one by one.ss11;
 sub one.tosf by one.tosf.ss11;
 sub oneinferior by oneinferior.ss11;
@@ -1018,7 +1016,6 @@ feature ss14 {
 featureNames {
 	name "Alternative Figure Four";
 };
-# automatic
 sub four.lf by four.lf.ss14;
 sub four by four.ss14;
 sub four.tf by four.tf.ss14;
@@ -1036,7 +1033,6 @@ feature ss17 {
 featureNames {
 	name "Alternative Figure Seven";
 };
-# automatic
 sub seven.lf by seven.lf.ss17;
 sub seven by seven.ss17;
 sub seven.tf by seven.tf.ss17;
