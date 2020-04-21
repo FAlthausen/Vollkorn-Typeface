@@ -3,6 +3,6 @@
   <advance width="699"/>
   <outline>
     <component base="G"/>
-    <component base="_part.guarani.black" xOffset="10"/>
+    <component base="_part.guarani.black"/>
   </outline>
 </glyph>
