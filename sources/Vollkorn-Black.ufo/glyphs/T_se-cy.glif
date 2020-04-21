@@ -2,6 +2,7 @@
 <glyph name="Tse-cy" format="2">
   <advance width="854"/>
   <unicode hex="0426"/>
+  <anchor x="398" y="676" name="top"/>
   <outline>
     <component base="Pe-cy" xScale="-1" yScale="-1" xOffset="794" yOffset="676"/>
     <component base="__descender-cy.straight.case" xOffset="777"/>

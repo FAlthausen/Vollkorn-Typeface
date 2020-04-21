@@ -2,6 +2,7 @@
 <glyph name="Shhadescender-cy" format="2">
   <advance width="720"/>
   <unicode hex="0526"/>
+  <anchor x="410" y="676" name="top"/>
   <outline>
     <component base="Shha-cy"/>
     <component base="__descender-cy.straight.case" xOffset="667"/>

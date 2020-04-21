@@ -2,6 +2,7 @@
 <glyph name="gradient" format="2">
   <advance width="668"/>
   <unicode hex="2207"/>
+  <anchor x="411" y="676" name="top"/>
   <outline>
     <component base="Delta" xScale="-1" yScale="-1" xOffset="711" yOffset="685"/>
   </outline>

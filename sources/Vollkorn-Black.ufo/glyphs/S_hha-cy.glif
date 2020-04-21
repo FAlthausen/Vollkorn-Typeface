@@ -2,6 +2,7 @@
 <glyph name="Shha-cy" format="2">
   <advance width="772"/>
   <unicode hex="04BA"/>
+  <anchor x="381" y="676" name="top"/>
   <outline>
     <component base="Che-cy" xScale="-1" yScale="-1" xOffset="772" yOffset="676"/>
   </outline>

@@ -2,6 +2,7 @@
 <glyph name="dzhe-cy" format="2">
   <advance width="695"/>
   <unicode hex="045F"/>
+  <anchor x="349" y="458" name="top"/>
   <outline>
     <component base="pe-cy" xScale="-1" yScale="-1" xOffset="695" yOffset="458"/>
     <component base="_part.Dzhe-cy" xOffset="151"/>

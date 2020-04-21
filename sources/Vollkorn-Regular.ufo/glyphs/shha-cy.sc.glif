@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="shha-cy.sc" format="2">
   <advance width="671"/>
+  <anchor x="329" y="500" name="top"/>
   <outline>
     <component base="che-cy.sc" xScale="-1" yScale="-1" xOffset="671" yOffset="500"/>
   </outline>
