@@ -1577,7 +1577,7 @@
         </dict>
       </lib>
     </instance>
-    <instance name="Vollkorn Bold" familyname="Vollkorn" stylename="Bold" filename="instance_ufos/Vollkorn-Bold.ufo" stylemapfamilyname="Vollkorn Bold" stylemapstylename="regular">
+    <instance name="Vollkorn Bold" familyname="Vollkorn" stylename="Bold" filename="instance_ufos/Vollkorn-Bold.ufo" stylemapfamilyname="Vollkorn" stylemapstylename="bold">
       <location>
         <dimension name="Weight" xvalue="147"/>
       </location>

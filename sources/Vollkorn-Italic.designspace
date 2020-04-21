@@ -32,7 +32,7 @@
     </source>
   </sources>
   <instances>
-    <instance name="Vollkorn Italic" familyname="Vollkorn" stylename="Italic" filename="instance_ufos/Vollkorn-Italic.ufo" stylemapfamilyname="Vollkorn Italic" stylemapstylename="regular">
+    <instance name="Vollkorn Italic" familyname="Vollkorn" stylename="Italic" filename="instance_ufos/Vollkorn-Italic.ufo" stylemapfamilyname="Vollkorn" stylemapstylename="italic">
       <location>
         <dimension name="Weight" xvalue="100"/>
       </location>
@@ -75,7 +75,7 @@
         </dict>
       </lib>
     </instance>
-    <instance name="Vollkorn Bold Italic" familyname="Vollkorn" stylename="Bold Italic" filename="instance_ufos/Vollkorn-BoldItalic.ufo" stylemapfamilyname="Vollkorn Bold Italic" stylemapstylename="regular">
+    <instance name="Vollkorn Bold Italic" familyname="Vollkorn" stylename="Bold Italic" filename="instance_ufos/Vollkorn-BoldItalic.ufo" stylemapfamilyname="Vollkorn" stylemapstylename="bold italic">
       <location>
         <dimension name="Weight" xvalue="147"/>
       </location>
