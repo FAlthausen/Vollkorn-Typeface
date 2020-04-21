@@ -828,9 +828,9 @@ sub zdotbelow by zdotbelow.ss01;
 
 feature ss01 {
 # notes:
-# Name: Alternative Stylistic Glyphs
+# Name: Alternative Letters
 featureNames {
-	name "Alternative Stylistic Glyphs";
+	name "Alternative Letters";
 };
 sub A by A.ss01;
 sub Aacute by Aacute.ss01;
