@@ -3,6 +3,6 @@
   <advance width="576"/>
   <outline>
     <component base="s.sc"/>
-    <component base="_part.dollar.sc.black" xOffset="54" yOffset="-6"/>
+    <component base="_part.dollar.sc.black" xOffset="43" yOffset="0"/>
   </outline>
 </glyph>

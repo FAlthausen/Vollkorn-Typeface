@@ -3,6 +3,6 @@
   <advance width="689"/>
   <outline>
     <component base="n.sc"/>
-    <component base="_part.naira.sc.black" xOffset="34" yOffset="-35"/>
+    <component base="_part.naira.sc.black"/>
   </outline>
 </glyph>

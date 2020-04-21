@@ -3,6 +3,6 @@
   <advance width="663"/>
   <outline>
     <component base="p.sc"/>
-    <component base="_part.peso.sc.black" xOffset="21" yOffset="-5"/>
+    <component base="_part.peso.sc.black"/>
   </outline>
 </glyph>
