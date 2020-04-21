@@ -1550,12 +1550,16 @@
     <string>cedi.glif</string>
     <key>cedi.sc</key>
     <string>cedi.sc.glif</string>
+    <key>cedi.sc.BRACKET.166</key>
+    <string>cedi.sc.B_R_A_C_K_E_T_.166.glif</string>
     <key>cedilla</key>
     <string>cedilla.glif</string>
     <key>cedillacomb</key>
     <string>cedillacomb.glif</string>
     <key>cent</key>
     <string>cent.glif</string>
+    <key>cent.BRACKET.166</key>
+    <string>cent.B_R_A_C_K_E_T_.166.glif</string>
     <key>charactertie</key>
     <string>charactertie.glif</string>
     <key>che-cy</key>
@@ -1618,8 +1622,12 @@
     <string>colonequals.case.glif</string>
     <key>colonsign</key>
     <string>colonsign.glif</string>
+    <key>colonsign.BRACKET.146</key>
+    <string>colonsign.B_R_A_C_K_E_T_.146.glif</string>
     <key>colonsign.sc</key>
     <string>colonsign.sc.glif</string>
+    <key>colonsign.sc.BRACKET.166</key>
+    <string>colonsign.sc.B_R_A_C_K_E_T_.166.glif</string>
     <key>comma</key>
     <string>comma.glif</string>
     <key>commaabovecomb</key>
@@ -1760,8 +1768,12 @@
     <string>doesnotdivide.case.glif</string>
     <key>dollar</key>
     <string>dollar.glif</string>
+    <key>dollar.BRACKET.166</key>
+    <string>dollar.B_R_A_C_K_E_T_.166.glif</string>
     <key>dollar.sc</key>
     <string>dollar.sc.glif</string>
+    <key>dollar.sc.BRACKET.166</key>
+    <string>dollar.sc.B_R_A_C_K_E_T_.166.glif</string>
     <key>dong</key>
     <string>dong.glif</string>
     <key>dong.sc</key>
@@ -2372,12 +2384,16 @@
     <string>greaterequal.case.glif</string>
     <key>gstroke</key>
     <string>gstroke.glif</string>
+    <key>gstroke.BRACKET.166</key>
+    <string>gstroke.B_R_A_C_K_E_T_.166.glif</string>
     <key>gstroke.sc</key>
     <string>gstroke.sc.glif</string>
     <key>gstroke.ss01</key>
     <string>gstroke.ss01.glif</string>
     <key>guarani</key>
     <string>guarani.glif</string>
+    <key>guarani.BRACKET.146</key>
+    <string>guarani.B_R_A_C_K_E_T_.146.glif</string>
     <key>guarani.sc</key>
     <string>guarani.sc.glif</string>
     <key>guillemetleft</key>
@@ -3006,8 +3022,12 @@
     <string>nacute.sc.glif</string>
     <key>naira</key>
     <string>naira.glif</string>
+    <key>naira.BRACKET.166</key>
+    <string>naira.B_R_A_C_K_E_T_.166.glif</string>
     <key>naira.sc</key>
     <string>naira.sc.glif</string>
+    <key>naira.sc.BRACKET.166</key>
+    <string>naira.sc.B_R_A_C_K_E_T_.166.glif</string>
     <key>napostrophe</key>
     <string>napostrophe.glif</string>
     <key>napostrophe.sc</key>
@@ -3444,8 +3464,12 @@
     <string>peseta.sc.glif</string>
     <key>peso</key>
     <string>peso.glif</string>
+    <key>peso.BRACKET.146</key>
+    <string>peso.B_R_A_C_K_E_T_.146.glif</string>
     <key>peso.sc</key>
     <string>peso.sc.glif</string>
+    <key>peso.sc.BRACKET.166</key>
+    <string>peso.sc.B_R_A_C_K_E_T_.166.glif</string>
     <key>phi</key>
     <string>phi.glif</string>
     <key>phiSymbol</key>
@@ -4370,6 +4394,8 @@
     <string>whiteS_quare.glif</string>
     <key>won</key>
     <string>won.glif</string>
+    <key>won.BRACKET.146</key>
+    <string>won.B_R_A_C_K_E_T_.146.glif</string>
     <key>won.sc</key>
     <string>won.sc.glif</string>
     <key>x</key>

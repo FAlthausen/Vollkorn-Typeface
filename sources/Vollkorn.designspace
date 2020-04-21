@@ -10,6 +10,31 @@
       <map input="900" output="190"/>
     </axis>
   </axes>
+  <rules>
+    <rule name="BRACKET.146.190">
+      <conditionset>
+        <condition name="Weight" minimum="146" maximum="190"/>
+      </conditionset>
+      <sub name="colonsign" with="colonsign.BRACKET.146"/>
+      <sub name="guarani" with="guarani.BRACKET.146"/>
+      <sub name="peso" with="peso.BRACKET.146"/>
+      <sub name="won" with="won.BRACKET.146"/>
+    </rule>
+    <rule name="BRACKET.166.190">
+      <conditionset>
+        <condition name="Weight" minimum="166" maximum="190"/>
+      </conditionset>
+      <sub name="cedi.sc" with="cedi.sc.BRACKET.166"/>
+      <sub name="cent" with="cent.BRACKET.166"/>
+      <sub name="colonsign.sc" with="colonsign.sc.BRACKET.166"/>
+      <sub name="dollar" with="dollar.BRACKET.166"/>
+      <sub name="dollar.sc" with="dollar.sc.BRACKET.166"/>
+      <sub name="gstroke" with="gstroke.BRACKET.166"/>
+      <sub name="naira" with="naira.BRACKET.166"/>
+      <sub name="naira.sc" with="naira.sc.BRACKET.166"/>
+      <sub name="peso.sc" with="peso.sc.BRACKET.166"/>
+    </rule>
+  </rules>
   <sources>
     <source filename="Vollkorn-Regular.ufo" name="Vollkorn Regular" familyname="Vollkorn" stylename="Regular">
       <lib copy="1"/>
@@ -1588,15 +1613,6 @@
           <key>com.schriftgestaltung.customParameters</key>
           <array>
             <array>
-              <string>Rename Glyphs</string>
-              <array>
-                <string>_part.won.black=_part.won</string>
-                <string>_part.peso.black=_part.peso</string>
-                <string>_part.guarani.black=_part.guarani</string>
-                <string>_part.colonsign.black=_part.colonsign</string>
-              </array>
-            </array>
-            <array>
               <string>Replace Class</string>
               <string>allR; R Racute Rcaron Rcommaaccent Rdblgrave Rdotbelow Rinvertedbreve Rlinebelow</string>
             </array>
@@ -2112,19 +2128,6 @@
           <key>com.schriftgestaltung.customParameters</key>
           <array>
             <array>
-              <string>Rename Glyphs</string>
-              <array>
-                <string>_part.cent.black=_part.cent</string>
-                <string>_part.dollar.black=_part.dollar</string>
-                <string>_part.won.black=_part.won</string>
-                <string>_part.naira.black=_part.naira</string>
-                <string>_part.peso.black=_part.peso</string>
-                <string>_part.guarani.black=_part.guarani</string>
-                <string>_part.colonsign.black=_part.colonsign</string>
-                <string>_part.gstroke.black=_part.gstroke</string>
-              </array>
-            </array>
-            <array>
               <string>Replace Class</string>
               <string>allR; R Racute Rcaron Rcommaaccent Rdblgrave Rdotbelow Rinvertedbreve Rlinebelow</string>
             </array>
@@ -2639,19 +2642,6 @@
         <dict>
           <key>com.schriftgestaltung.customParameters</key>
           <array>
-            <array>
-              <string>Rename Glyphs</string>
-              <array>
-                <string>_part.cent.black=_part.cent</string>
-                <string>_part.dollar.black=_part.dollar</string>
-                <string>_part.won.black=_part.won</string>
-                <string>_part.naira.black=_part.naira</string>
-                <string>_part.peso.black=_part.peso</string>
-                <string>_part.guarani.black=_part.guarani</string>
-                <string>_part.colonsign.black=_part.colonsign</string>
-                <string>_part.gstroke.black=_part.gstroke</string>
-              </array>
-            </array>
             <array>
               <string>Replace Class</string>
               <string>allR; R Racute Rcaron Rcommaaccent Rdblgrave Rdotbelow Rinvertedbreve Rlinebelow</string>

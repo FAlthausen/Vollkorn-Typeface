@@ -10,6 +10,25 @@
       <map input="900" output="190"/>
     </axis>
   </axes>
+  <rules>
+    <rule name="BRACKET.146.190">
+      <conditionset>
+        <condition name="Weight" minimum="146" maximum="190"/>
+      </conditionset>
+      <sub name="colonsign" with="colonsign.BRACKET.146"/>
+      <sub name="guarani" with="guarani.BRACKET.146"/>
+      <sub name="peso" with="peso.BRACKET.146"/>
+      <sub name="won" with="won.BRACKET.146"/>
+    </rule>
+    <rule name="BRACKET.166.190">
+      <conditionset>
+        <condition name="Weight" minimum="166" maximum="190"/>
+      </conditionset>
+      <sub name="cent" with="cent.BRACKET.166"/>
+      <sub name="dollar" with="dollar.BRACKET.166"/>
+      <sub name="naira" with="naira.BRACKET.166"/>
+    </rule>
+  </rules>
   <sources>
     <source filename="Vollkorn-Italic.ufo" name="Vollkorn Italic" familyname="Vollkorn" stylename="Italic">
       <lib copy="1"/>
@@ -89,15 +108,6 @@
               <string>Filter</string>
               <string>RMXHarmonizer;dekink</string>
             </array>
-            <array>
-              <string>Rename Glyphs</string>
-              <array>
-                <string>_part.guarani.black=_part.guarani</string>
-                <string>_part.won.black=_part.won</string>
-                <string>_part.peso.black=_part.peso</string>
-                <string>_part.colonsign.black=_part.colonsign</string>
-              </array>
-            </array>
           </array>
         </dict>
       </lib>
@@ -116,18 +126,6 @@
               <string>Filter</string>
               <string>RMXHarmonizer;dekink</string>
             </array>
-            <array>
-              <string>Rename Glyphs</string>
-              <array>
-                <string>_part.cent.black=_part.cent</string>
-                <string>_part.dollar.black=_part.dollar</string>
-                <string>_part.guarani.black=_part.guarani</string>
-                <string>_part.naira.black=_part.naira</string>
-                <string>_part.won.black=_part.won</string>
-                <string>_part.peso.black=_part.peso</string>
-                <string>_part.colonsign.black=_part.colonsign</string>
-              </array>
-            </array>
           </array>
         </dict>
       </lib>
@@ -138,25 +136,6 @@
       </location>
       <kerning/>
       <info/>
-      <lib>
-        <dict>
-          <key>com.schriftgestaltung.customParameters</key>
-          <array>
-            <array>
-              <string>Rename Glyphs</string>
-              <array>
-                <string>_part.cent.black=_part.cent</string>
-                <string>_part.dollar.black=_part.dollar</string>
-                <string>_part.guarani.black=_part.guarani</string>
-                <string>_part.naira.black=_part.naira</string>
-                <string>_part.won.black=_part.won</string>
-                <string>_part.peso.black=_part.peso</string>
-                <string>_part.colonsign.black=_part.colonsign</string>
-              </array>
-            </array>
-          </array>
-        </dict>
-      </lib>
     </instance>
   </instances>
   <lib>
