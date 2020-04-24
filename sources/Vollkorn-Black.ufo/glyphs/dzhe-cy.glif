@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dzhe-cy" format="2">
+  <advance width="695"/>
+  <unicode hex="045F"/>
+  <anchor x="349" y="458" name="top"/>
+  <outline>
+    <component base="pe-cy" xScale="-1" yScale="-1" xOffset="695" yOffset="458"/>
+    <component base="_part.Dzhe-cy" xOffset="151"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>=n</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=|n</string>
+    </dict>
+  </lib>
+</glyph>

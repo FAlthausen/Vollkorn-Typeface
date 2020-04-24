@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="rightanglebracket-math" format="2">
+  <advance width="430"/>
+  <unicode hex="27E9"/>
+  <outline>
+    <component base="leftanglebracket-math" xScale="-1" yScale="-1" xOffset="431" yOffset="467"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>leftanglebracket-math</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>=|leftanglebracket-math</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=|leftanglebracket-math</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string></string>
+    </dict>
+  </lib>
+</glyph>

@@ -2,19 +2,27 @@
 <glyph name="gradient" format="2">
   <advance width="656"/>
   <unicode hex="2207"/>
+  <anchor x="327" y="676" name="top"/>
   <outline>
     <component base="Delta" xScale="-1" yScale="-1" xOffset="656" yOffset="685"/>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>Delta</string>
+        </dict>
+      </array>
       <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
       <string>=Delta</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>=Delta</string>
-      <key>com.schriftgestaltung.componentsAlignment</key>
-      <array>
-        <integer>-1</integer>
-      </array>
     </dict>
   </lib>
 </glyph>

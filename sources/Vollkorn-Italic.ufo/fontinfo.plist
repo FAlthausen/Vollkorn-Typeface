@@ -128,10 +128,6 @@
       <integer>758</integer>
       <integer>767</integer>
     </array>
-    <key>postscriptFamilyBlues</key>
-    <array/>
-    <key>postscriptFamilyOtherBlues</key>
-    <array/>
     <key>postscriptOtherBlues</key>
     <array>
       <integer>-249</integer>
@@ -151,14 +147,18 @@
     <integer>-340</integer>
     <key>postscriptUnderlineThickness</key>
     <integer>40</integer>
+    <key>styleMapFamilyName</key>
+    <string>Vollkorn</string>
+    <key>styleMapStyleName</key>
+    <string>italic</string>
     <key>styleName</key>
     <string>Italic</string>
     <key>unitsPerEm</key>
     <integer>1000</integer>
     <key>versionMajor</key>
-    <integer>4</integer>
+    <integer>5</integer>
     <key>versionMinor</key>
-    <integer>106</integer>
+    <integer>0</integer>
     <key>xHeight</key>
     <integer>458</integer>
   </dict>

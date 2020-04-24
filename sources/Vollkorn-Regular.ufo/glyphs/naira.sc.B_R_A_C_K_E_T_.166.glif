@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="naira.sc.BRACKET.166" format="2">
+  <advance width="721"/>
+  <outline>
+    <component base="n.sc"/>
+    <component base="_part.naira.sc.black" xOffset="27" yOffset="-17"/>
+  </outline>
+</glyph>

@@ -14,17 +14,31 @@
         <key>width</key>
         <integer>82</integer>
       </dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>_part.cheabkhasian-cy.sc</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>_part.cheabkhasian</string>
+        </dict>
+      </array>
       <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
       <string>=+200</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>=O+20</string>
       <key>com.schriftgestaltung.Glyphs.layer.leftMetricsKey</key>
       <string>=+150</string>
-      <key>com.schriftgestaltung.componentsAlignment</key>
-      <array>
-        <integer>1</integer>
-        <integer>1</integer>
-      </array>
       <key>public.markColor</key>
       <string>0.97,1,0,1</string>
     </dict>

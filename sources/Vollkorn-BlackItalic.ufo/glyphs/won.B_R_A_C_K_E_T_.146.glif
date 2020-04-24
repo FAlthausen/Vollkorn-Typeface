@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="won.BRACKET.146" format="2">
+  <advance width="977"/>
+  <outline>
+    <component base="W"/>
+    <component base="_part.won.black" xOffset="17"/>
+  </outline>
+</glyph>

@@ -2,6 +2,7 @@
 <glyph name="Tse-cy" format="2">
   <advance width="789"/>
   <unicode hex="0426"/>
+  <anchor x="371" y="676" name="top"/>
   <outline>
     <component base="Pe-cy" xScale="-1" yScale="-1" xOffset="742" yOffset="676"/>
     <component base="__descender-cy.straight.case" xOffset="705"/>
@@ -10,6 +11,14 @@
     <dict>
       <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
       <array>
+        <dict>
+          <key>alignment</key>
+          <integer>1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>Pe-cy</string>
+        </dict>
         <dict>
           <key>anchor</key>
           <string>bottomright</string>
@@ -23,11 +32,6 @@
       <string>=H</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>=H</string>
-      <key>com.schriftgestaltung.componentsAlignment</key>
-      <array>
-        <integer>1</integer>
-        <integer>0</integer>
-      </array>
     </dict>
   </lib>
 </glyph>

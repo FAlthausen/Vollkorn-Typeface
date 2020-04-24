@@ -2312,6 +2312,15 @@
         <string>glyphList</string>
       </dict>
     </array>
+    <key>com.github.googlei18n.ufo2ft.filters</key>
+    <array>
+      <dict>
+        <key>name</key>
+        <string>propagateAnchors</string>
+        <key>pre</key>
+        <true/>
+      </dict>
+    </array>
     <key>com.schriftgestaltung.Glyphs.glyphUserData._part.Cheabkhasian-cy</key>
     <dict>
       <key>RMXScaler</key>
@@ -3426,12 +3435,10 @@
     </dict>
     <key>com.schriftgestaltung.appVersion</key>
     <string>1147</string>
-    <key>com.schriftgestaltung.customParameter.GSFont.DisplayStrings</key>
-    <string></string>
     <key>com.schriftgestaltung.customParameter.GSFont.Use Line Breaks</key>
     <integer>1</integer>
     <key>com.schriftgestaltung.customParameter.GSFont.disablesAutomaticAlignment</key>
-    <false/>
+    <true/>
     <key>com.schriftgestaltung.customParameter.GSFont.disablesLastChange</key>
     <true/>
     <key>com.schriftgestaltung.customParameter.GSFont.useNiceNames</key>
@@ -3452,12 +3459,8 @@
     <integer>100</integer>
     <key>com.schriftgestaltung.customParameter.GSFontMaster.widthValue</key>
     <integer>100</integer>
-    <key>com.schriftgestaltung.fontMasterID</key>
-    <string>EE8DAF6C-4A03-42BC-B349-EF1608E3D459</string>
     <key>com.schriftgestaltung.fontMasterOrder</key>
     <integer>0</integer>
-    <key>com.schriftgestaltung.glyphOrder</key>
-    <false/>
     <key>com.schriftgestaltung.keyboardIncrement</key>
     <integer>1</integer>
     <key>com.schriftgestaltung.weight</key>
@@ -4488,6 +4491,7 @@
       <string>Eltail-cy</string>
       <string>Enhook-cy</string>
       <string>Entail-cy</string>
+      <string>Chekhakassian-cy</string>
       <string>Emtail-cy</string>
       <string>Abreve-cy</string>
       <string>Adieresis-cy</string>
@@ -4790,7 +4794,6 @@
       <string>gedescender-cy.sc</string>
       <string>yerudieresis-cy.sc</string>
       <string>gestrokehook-cy.sc</string>
-      <string>Chekhakassian-cy</string>
       <string>hahook-cy.sc</string>
       <string>hastroke-cy.sc</string>
       <string>reversedze-cy.sc</string>
