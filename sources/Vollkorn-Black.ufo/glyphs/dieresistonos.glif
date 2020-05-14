@@ -2,7 +2,6 @@
 <glyph name="dieresistonos" format="2">
   <advance width="300"/>
   <unicode hex="0385"/>
-  <anchor x="150" y="458" name="_top"/>
   <outline>
     <contour>
       <point x="312" y="518" type="curve" smooth="yes"/>

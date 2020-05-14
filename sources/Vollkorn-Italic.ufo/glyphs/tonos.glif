@@ -2,7 +2,6 @@
 <glyph name="tonos" format="2">
   <advance width="300"/>
   <unicode hex="0384"/>
-  <anchor x="156" y="458" name="_top"/>
   <outline>
     <contour>
       <point x="194" y="522" type="curve"/>
