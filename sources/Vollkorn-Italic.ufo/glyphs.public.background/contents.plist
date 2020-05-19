@@ -1192,6 +1192,10 @@
     <string>acute.glif</string>
     <key>acutecomb</key>
     <string>acutecomb.glif</string>
+    <key>acutecomb.GREK</key>
+    <string>acutecomb.G_R_E_K_.glif</string>
+    <key>acutecomb.GREK.case</key>
+    <string>acutecomb.G_R_E_K_.case.glif</string>
     <key>acutecomb.case</key>
     <string>acutecomb.case.glif</string>
     <key>acutecomb.loclPLK</key>
@@ -1542,6 +1546,8 @@
     <string>dieresiscomb.titl.O_U_.glif</string>
     <key>dieresiscomb_acutecomb</key>
     <string>dieresiscomb_acutecomb.glif</string>
+    <key>dieresiscomb_acutecomb.GREK</key>
+    <string>dieresiscomb_acutecomb.G_R_E_K_.glif</string>
     <key>dieresiscomb_macroncomb</key>
     <string>dieresiscomb_macroncomb.glif</string>
     <key>dieresistonos</key>
@@ -3180,8 +3186,6 @@
     <string>tlinebelow.glif</string>
     <key>tonos</key>
     <string>tonos.glif</string>
-    <key>tonos.case</key>
-    <string>tonos.case.glif</string>
     <key>topcurlybracket</key>
     <string>topcurlybracket.glif</string>
     <key>trademark</key>

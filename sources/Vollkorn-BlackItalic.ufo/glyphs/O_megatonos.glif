@@ -4,6 +4,6 @@
   <unicode hex="038F"/>
   <outline>
     <component base="Omega"/>
-    <component base="tonos.case" xOffset="-206"/>
+    <component base="acutecomb.GREK.case" xOffset="-206"/>
   </outline>
 </glyph>

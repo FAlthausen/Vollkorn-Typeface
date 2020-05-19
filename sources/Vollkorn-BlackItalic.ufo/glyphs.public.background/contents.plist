@@ -348,6 +348,10 @@
     <string>a.glif</string>
     <key>acutecomb</key>
     <string>acutecomb.glif</string>
+    <key>acutecomb.GREK</key>
+    <string>acutecomb.G_R_E_K_.glif</string>
+    <key>acutecomb.GREK.case</key>
+    <string>acutecomb.G_R_E_K_.case.glif</string>
     <key>acutecomb.loclPLK</key>
     <string>acutecomb.loclP_L_K_.glif</string>
     <key>acutecomb.loclPLK.case</key>
@@ -1096,8 +1100,6 @@
     <string>tildecomb.i.case.glif</string>
     <key>tonos</key>
     <string>tonos.glif</string>
-    <key>tonos.case</key>
-    <string>tonos.case.glif</string>
     <key>topcurlybracket</key>
     <string>topcurlybracket.glif</string>
     <key>trademark</key>

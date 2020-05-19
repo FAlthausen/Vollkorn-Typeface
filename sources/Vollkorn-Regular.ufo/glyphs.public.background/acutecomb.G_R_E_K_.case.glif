@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph name="tonos.case" format="2">
-  <advance width="201"/>
+<glyph name="acutecomb.GREK.case" format="2">
   <anchor x="171" y="676" name="_topleft"/>
   <outline>
     <contour>
@@ -21,12 +20,4 @@
       <point x="75" y="477"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
-      <string>=acutecomb.case</string>
-      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
-      <string>=acutecomb.case</string>
-    </dict>
-  </lib>
 </glyph>

@@ -318,6 +318,8 @@
     <string>a.sc.glif</string>
     <key>a.ss01</key>
     <string>a.ss01.glif</string>
+    <key>acutecomb.GREK.case</key>
+    <string>acutecomb.G_R_E_K_.case.glif</string>
     <key>acutecomb.case</key>
     <string>acutecomb.case.glif</string>
     <key>acutecomb.loclPLK</key>
@@ -454,6 +456,8 @@
     <string>descender-cy.center.glif</string>
     <key>descender-cy.center.case</key>
     <string>descender-cy.center.case.glif</string>
+    <key>dieresiscomb_acutecomb.GREK</key>
+    <string>dieresiscomb_acutecomb.G_R_E_K_.glif</string>
     <key>dieresistonos</key>
     <string>dieresistonos.glif</string>
     <key>divides</key>
@@ -1174,8 +1178,6 @@
     <string>tildecomb.i.glif</string>
     <key>tildecomb.i.case</key>
     <string>tildecomb.i.case.glif</string>
-    <key>tonos.case</key>
-    <string>tonos.case.glif</string>
     <key>topcurlybracket</key>
     <string>topcurlybracket.glif</string>
     <key>trademark</key>

@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph name="tonos.case" format="2">
+<glyph name="acutecomb.GREK.case" format="2">
   <anchor x="291" y="676" name="_topleft"/>
   <outline>
     <contour>
@@ -20,4 +20,10 @@
       <point x="157" y="477"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>300</integer>
+    </dict>
+  </lib>
 </glyph>
