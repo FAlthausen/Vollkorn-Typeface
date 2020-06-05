@@ -3475,6 +3475,8 @@
     <string>oVQff1jawRJSdgfTIcgTQr1074vM29CtCI-rgjQ8WwQ</string>
     <key>com.typemytype.robofont.segmentType</key>
     <string>curve</string>
+    <key>com.typemytype.robofont.smartSets.uniqueKey</key>
+    <string>4931030544</string>
     <key>public.glyphOrder</key>
     <array>
       <string>A</string>
@@ -5765,6 +5767,19 @@
       <string>__part.numero</string>
       <string>_negationslash</string>
       <string>__descender-cy.straight.case</string>
+      <string>gstroke.BRACKET.166</string>
+      <string>colonsign.BRACKET.146</string>
+      <string>won.BRACKET.146</string>
+      <string>peso.BRACKET.146</string>
+      <string>guarani.BRACKET.146</string>
+      <string>dollar.BRACKET.166</string>
+      <string>cent.BRACKET.166</string>
+      <string>naira.BRACKET.166</string>
+      <string>dollar.sc.BRACKET.166</string>
+      <string>colonsign.sc.BRACKET.166</string>
+      <string>naira.sc.BRACKET.166</string>
+      <string>peso.sc.BRACKET.166</string>
+      <string>cedi.sc.BRACKET.166</string>
     </array>
     <key>public.postscriptNames</key>
     <dict>
