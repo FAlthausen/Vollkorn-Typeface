@@ -3,6 +3,6 @@
   <advance width="640"/>
   <outline>
     <component base="L"/>
-    <component base="_part.Lslash.titl" xOffset="185" yOffset="10"/>
+    <component base="_part.Lslash.titl" xOffset="20" yOffset="21"/>
   </outline>
 </glyph>

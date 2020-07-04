@@ -3,6 +3,31 @@
   <advance width="712"/>
   <outline>
     <contour>
+      <point x="161" y="40" type="line"/>
+      <point x="215" y="223"/>
+      <point x="258" y="354"/>
+      <point x="323" y="531" type="curve"/>
+      <point x="387" y="342"/>
+      <point x="433" y="211"/>
+      <point x="503" y="40" type="curve"/>
+    </contour>
+    <contour>
+      <point x="39" y="-168" type="curve"/>
+      <point x="57" y="-173"/>
+      <point x="83" y="-173"/>
+      <point x="103" y="-168" type="curve"/>
+      <point x="102" y="-97"/>
+      <point x="110" y="-25"/>
+      <point x="123" y="26" type="curve"/>
+      <point x="108" y="40" type="line"/>
+      <point x="40" y="40" type="line"/>
+      <point x="30" y="31"/>
+      <point x="25" y="17"/>
+      <point x="25" y="4" type="curve"/>
+      <point x="34" y="-35"/>
+      <point x="39" y="-93"/>
+    </contour>
+    <contour>
       <point x="90" y="0" type="line"/>
       <point x="626" y="0" type="line"/>
       <point x="656" y="40" type="line"/>
@@ -23,19 +48,21 @@
       <point x="62" y="40" type="curve"/>
     </contour>
     <contour>
-      <point x="512" y="20" type="curve"/>
-      <point x="543" y="40" type="line"/>
-      <point x="125" y="40" type="line"/>
-      <point x="155" y="22" type="line"/>
-      <point x="209" y="205"/>
-      <point x="266" y="376"/>
-      <point x="331" y="553" type="curve"/>
-      <point x="316" y="553" type="line"/>
-      <point x="380" y="364"/>
-      <point x="442" y="191"/>
+      <point x="609" y="-168" type="curve"/>
+      <point x="629" y="-173"/>
+      <point x="655" y="-173"/>
+      <point x="673" y="-168" type="curve"/>
+      <point x="673" y="-93"/>
+      <point x="678" y="-35"/>
+      <point x="687" y="4" type="curve"/>
+      <point x="687" y="17"/>
+      <point x="682" y="31"/>
+      <point x="672" y="40" type="curve"/>
+      <point x="604" y="40" type="line"/>
+      <point x="589" y="26" type="line"/>
+      <point x="602" y="-25"/>
+      <point x="610" y="-97"/>
     </contour>
-    <component base="__descender-cy.straight.case" xOffset="652"/>
-    <component base="__descender-cy.straight.case" xScale="-1" xOffset="60"/>
   </outline>
   <lib>
     <dict>

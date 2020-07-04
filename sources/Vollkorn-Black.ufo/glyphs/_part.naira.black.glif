@@ -4,9 +4,9 @@
   <anchor x="358" y="373" name="_center"/>
   <outline>
     <contour>
-      <point x="573" y="413" type="line"/>
-      <point x="573" y="337" type="line"/>
-      <point x="616" y="337"/>
+      <point x="567" y="413" type="line"/>
+      <point x="567" y="337" type="line"/>
+      <point x="610" y="337"/>
       <point x="661" y="337"/>
       <point x="711" y="337" type="curve"/>
       <point x="720" y="360"/>
@@ -14,14 +14,14 @@
       <point x="726" y="413" type="curve"/>
     </contour>
     <contour>
-      <point x="138" y="334" type="curve"/>
-      <point x="138" y="413" type="line"/>
+      <point x="132" y="334" type="curve"/>
+      <point x="132" y="413" type="line"/>
       <point x="5" y="413" type="line"/>
       <point x="-3" y="394"/>
       <point x="-10" y="367"/>
       <point x="-10" y="332" type="curve"/>
       <point x="44" y="333"/>
-      <point x="93" y="334"/>
+      <point x="87" y="334"/>
     </contour>
   </outline>
   <lib>

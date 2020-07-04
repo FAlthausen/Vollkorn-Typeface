@@ -3,7 +3,7 @@
   <advance width="627"/>
   <outline>
     <component base="l.sc"/>
-    <component base="_part.lslashss01" xOffset="159" yOffset="-76"/>
+    <component base="_part.lslashss01" xOffset="7" yOffset="-50"/>
   </outline>
   <lib>
     <dict>

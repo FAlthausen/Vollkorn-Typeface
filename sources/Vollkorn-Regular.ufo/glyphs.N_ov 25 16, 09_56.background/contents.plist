@@ -4,5 +4,7 @@
   <dict>
     <key>ka-cy</key>
     <string>ka-cy.glif</string>
+    <key>stem-cy</key>
+    <string>stem-cy.glif</string>
   </dict>
 </plist>

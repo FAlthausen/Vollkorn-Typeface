@@ -537,6 +537,10 @@
     <string>Regular</string>
     <key>com.schriftgestaltung.widthValue</key>
     <integer>100</integer>
+    <key>com.typemytype.robofont.segmentType</key>
+    <string>curve</string>
+    <key>com.typemytype.robofont.smartSets.uniqueKey</key>
+    <string>4623498128</string>
     <key>public.glyphOrder</key>
     <array>
       <string>A</string>
@@ -2365,6 +2369,13 @@
       <string>__descender-cy.straight.case</string>
       <string>__tail-cy</string>
       <string>__tail-cy.case</string>
+      <string>colonsign.BRACKET.146</string>
+      <string>won.BRACKET.146</string>
+      <string>peso.BRACKET.146</string>
+      <string>guarani.BRACKET.146</string>
+      <string>dollar.BRACKET.166</string>
+      <string>cent.BRACKET.166</string>
+      <string>naira.BRACKET.166</string>
     </array>
     <key>public.postscriptNames</key>
     <dict>
