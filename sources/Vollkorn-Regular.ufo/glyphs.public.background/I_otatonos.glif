@@ -2,6 +2,6 @@
 <glyph name="Iotatonos" format="2">
   <outline>
     <component base="Iota"/>
-    <component base="tonos.case" xOffset="-141"/>
+    <component base="acutecomb.GREK.case" xOffset="-141"/>
   </outline>
 </glyph>

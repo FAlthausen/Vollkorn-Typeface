@@ -106,8 +106,34 @@
       <point x="568" y="-203"/>
       <point x="578" y="-228"/>
     </contour>
-    <component base="acutecomb" xOffset="440"/>
-    <component base="acutecomb" xOffset="699"/>
+    <contour>
+      <point x="622" y="716" type="curve"/>
+      <point x="609" y="678"/>
+      <point x="575" y="608"/>
+      <point x="543" y="558" type="curve"/>
+      <point x="568" y="543"/>
+      <point x="600" y="533"/>
+      <point x="631" y="530" type="curve"/>
+      <point x="663" y="581"/>
+      <point x="716" y="642"/>
+      <point x="780" y="699" type="curve"/>
+      <point x="748" y="718"/>
+      <point x="683" y="725"/>
+    </contour>
+    <contour>
+      <point x="881" y="716" type="curve"/>
+      <point x="868" y="678"/>
+      <point x="834" y="608"/>
+      <point x="802" y="558" type="curve"/>
+      <point x="827" y="543"/>
+      <point x="859" y="533"/>
+      <point x="890" y="530" type="curve"/>
+      <point x="922" y="581"/>
+      <point x="975" y="642"/>
+      <point x="1039" y="699" type="curve"/>
+      <point x="1007" y="718"/>
+      <point x="942" y="725"/>
+    </contour>
   </outline>
   <lib>
     <dict>

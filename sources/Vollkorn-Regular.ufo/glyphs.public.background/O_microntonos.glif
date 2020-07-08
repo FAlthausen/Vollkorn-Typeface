@@ -2,6 +2,6 @@
 <glyph name="Omicrontonos" format="2">
   <outline>
     <component base="Omicron"/>
-    <component base="tonos.case" xOffset="-101"/>
+    <component base="acutecomb.GREK.case" xOffset="-101"/>
   </outline>
 </glyph>

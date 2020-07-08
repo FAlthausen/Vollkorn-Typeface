@@ -2,6 +2,6 @@
 <glyph name="Etatonos" format="2">
   <outline>
     <component base="Eta"/>
-    <component base="tonos.case" xOffset="-141"/>
+    <component base="acutecomb.GREK.case" xOffset="-141"/>
   </outline>
 </glyph>

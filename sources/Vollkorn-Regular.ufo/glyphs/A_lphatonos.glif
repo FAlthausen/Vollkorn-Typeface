@@ -4,7 +4,7 @@
   <unicode hex="0386"/>
   <outline>
     <component base="Alpha"/>
-    <component base="tonos.case" xOffset="39"/>
+    <component base="acutecomb.GREK.case" xOffset="39"/>
   </outline>
   <lib>
     <dict>

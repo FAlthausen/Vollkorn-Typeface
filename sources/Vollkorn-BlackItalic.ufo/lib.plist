@@ -10,6 +10,10 @@
         <key>pre</key>
         <true/>
       </dict>
+      <dict>
+        <key>name</key>
+        <string>flattenComponents</string>
+      </dict>
     </array>
     <key>com.schriftgestaltung.Glyphs.glyphUserData.E.ss02</key>
     <dict>

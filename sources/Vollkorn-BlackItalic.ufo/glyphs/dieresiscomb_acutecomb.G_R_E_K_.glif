@@ -1,7 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph name="dieresistonos" format="2">
-  <advance width="300"/>
-  <unicode hex="0385"/>
+<glyph name="dieresiscomb_acutecomb.GREK" format="2">
+  <anchor x="191" y="458" name="_top"/>
   <outline>
     <contour>
       <point x="234" y="515" type="curve"/>
@@ -53,6 +52,8 @@
     <dict>
       <key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
       <string>=300</string>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>300</integer>
     </dict>
   </lib>
 </glyph>

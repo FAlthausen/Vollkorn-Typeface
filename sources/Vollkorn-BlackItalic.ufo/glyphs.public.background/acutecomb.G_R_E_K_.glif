@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="acutecomb.GREK" format="2">
+  <outline>
+    <contour>
+      <point x="220" y="526" type="curve"/>
+      <point x="245" y="579"/>
+      <point x="283" y="639"/>
+      <point x="329" y="702" type="curve"/>
+      <point x="295" y="721"/>
+      <point x="227" y="728"/>
+      <point x="161" y="719" type="curve"/>
+      <point x="155" y="668"/>
+      <point x="141" y="606"/>
+      <point x="124" y="549" type="curve"/>
+      <point x="152" y="534"/>
+      <point x="187" y="526"/>
+    </contour>
+  </outline>
+</glyph>

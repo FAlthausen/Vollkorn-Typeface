@@ -2,6 +2,6 @@
 <glyph name="Upsilontonos" format="2">
   <outline>
     <component base="Upsilon"/>
-    <component base="tonos.case" xOffset="-161"/>
+    <component base="acutecomb.GREK.case" xOffset="-161"/>
   </outline>
 </glyph>
