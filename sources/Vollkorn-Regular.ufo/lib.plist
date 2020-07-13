@@ -5785,6 +5785,9 @@
       <string>peso.sc.BRACKET.166</string>
       <string>cedi.sc.BRACKET.166</string>
       <string>stem-cy</string>
+      <string>acutecomb.GREK</string>
+      <string>dieresiscomb_acutecomb.GREK</string>
+      <string>acutecomb.GREK.case</string>
     </array>
     <key>public.postscriptNames</key>
     <dict>
