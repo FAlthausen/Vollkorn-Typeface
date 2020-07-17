@@ -3,9 +3,35 @@
   <advance width="612"/>
   <unicode hex="0133"/>
   <outline>
+    <contour>
+      <point x="213.0" y="505" type="curve" smooth="yes"/>
+      <point x="280.5" y="505"/>
+      <point x="317.40000000000003" y="533"/>
+      <point x="325.5" y="587" type="curve" smooth="yes"/>
+      <point x="334.5" y="646"/>
+      <point x="299.40000000000003" y="685"/>
+      <point x="248.1" y="685" type="curve" smooth="yes"/>
+      <point x="183.3" y="685"/>
+      <point x="142.8" y="655"/>
+      <point x="135.60000000000002" y="601" type="curve" smooth="yes"/>
+      <point x="128.4" y="543"/>
+      <point x="159.0" y="505"/>
+    </contour>
+    <contour>
+      <point x="490.0" y="505" type="curve" smooth="yes"/>
+      <point x="557.5" y="505"/>
+      <point x="594.4000000000001" y="533"/>
+      <point x="602.5" y="587" type="curve" smooth="yes"/>
+      <point x="611.5" y="646"/>
+      <point x="576.4000000000001" y="685"/>
+      <point x="525.1" y="685" type="curve" smooth="yes"/>
+      <point x="460.3" y="685"/>
+      <point x="419.8" y="655"/>
+      <point x="412.6" y="601" type="curve" smooth="yes"/>
+      <point x="405.4" y="543"/>
+      <point x="436.0" y="505"/>
+    </contour>
     <component base="_part.ij.dotless"/>
-    <component base="dotaccentcomb" xScale="0.9" xOffset="42" yOffset="-5"/>
-    <component base="dotaccentcomb" xScale="0.9" xOffset="319" yOffset="-5"/>
   </outline>
   <lib>
     <dict>

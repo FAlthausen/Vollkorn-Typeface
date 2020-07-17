@@ -1,7 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="periodcentered.loclCAT.case" format="2">
   <outline>
-    <component base="_part.dot" xScale="0.71" yScale="0.71" xOffset="-236" yOffset="296"/>
+    <contour>
+      <point x="-120" y="290" type="curve" smooth="yes"/>
+      <point x="-73" y="290"/>
+      <point x="-46" y="325"/>
+      <point x="-46" y="366" type="curve" smooth="yes"/>
+      <point x="-46" y="400"/>
+      <point x="-73" y="432"/>
+      <point x="-116" y="432" type="curve" smooth="yes"/>
+      <point x="-160" y="432"/>
+      <point x="-193" y="406"/>
+      <point x="-193" y="362" type="curve" smooth="yes"/>
+      <point x="-193" y="318"/>
+      <point x="-166" y="290"/>
+    </contour>
   </outline>
   <lib>
     <dict>

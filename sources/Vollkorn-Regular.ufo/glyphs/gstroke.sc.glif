@@ -2,8 +2,19 @@
 <glyph name="gstroke.sc" format="2">
   <advance width="695"/>
   <outline>
+    <contour>
+      <point x="392" y="103" type="curve"/>
+      <point x="472" y="104"/>
+      <point x="607" y="104"/>
+      <point x="639" y="104" type="curve"/>
+      <point x="645" y="119"/>
+      <point x="648" y="132"/>
+      <point x="648" y="146" type="curve"/>
+      <point x="402" y="146" type="line"/>
+      <point x="396" y="134"/>
+      <point x="392" y="121"/>
+    </contour>
     <component base="g.sc"/>
-    <component base="strokeshortcomb" xOffset="342" yOffset="-230"/>
   </outline>
   <lib>
     <dict>

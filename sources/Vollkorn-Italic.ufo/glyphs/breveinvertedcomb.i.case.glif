@@ -3,7 +3,26 @@
   <anchor x="262" y="676" name="_top"/>
   <anchor x="299" y="867" name="top"/>
   <outline>
-    <component base="brevecomb.i.case" xScale="-1" yScale="-1" xOffset="590" yOffset="1583"/>
+    <contour>
+      <point x="307" y="867" type="curve" smooth="yes"/>
+      <point x="217" y="867"/>
+      <point x="163" y="818"/>
+      <point x="146" y="728" type="curve"/>
+      <point x="151" y="720"/>
+      <point x="164" y="715"/>
+      <point x="177" y="712" type="curve"/>
+      <point x="190" y="765"/>
+      <point x="235" y="803"/>
+      <point x="294" y="803" type="curve" smooth="yes"/>
+      <point x="351" y="803"/>
+      <point x="377" y="773"/>
+      <point x="379" y="721" type="curve"/>
+      <point x="391" y="716"/>
+      <point x="406" y="716"/>
+      <point x="418" y="720" type="curve"/>
+      <point x="435" y="812"/>
+      <point x="399" y="867"/>
+    </contour>
   </outline>
   <lib>
     <dict>

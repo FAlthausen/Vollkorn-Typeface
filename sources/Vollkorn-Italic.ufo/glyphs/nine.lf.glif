@@ -2,7 +2,42 @@
 <glyph name="nine.lf" format="2">
   <advance width="555"/>
   <outline>
-    <component base="six.lf" xScale="-1" yScale="-1" xOffset="597" yOffset="676"/>
+    <contour>
+      <point x="521" y="365" type="curve" smooth="yes"/>
+      <point x="564" y="553"/>
+      <point x="499" y="685"/>
+      <point x="350" y="685" type="curve" smooth="yes"/>
+      <point x="238" y="685"/>
+      <point x="135" y="611"/>
+      <point x="110" y="474" type="curve" smooth="yes"/>
+      <point x="86" y="343"/>
+      <point x="152" y="249"/>
+      <point x="283" y="249" type="curve" smooth="yes"/>
+      <point x="332" y="249"/>
+      <point x="373" y="262"/>
+      <point x="421" y="300" type="curve"/>
+      <point x="431" y="344" type="line"/>
+      <point x="393" y="318"/>
+      <point x="354" y="308"/>
+      <point x="319" y="308" type="curve" smooth="yes"/>
+      <point x="212" y="308"/>
+      <point x="188" y="398"/>
+      <point x="205" y="491" type="curve" smooth="yes"/>
+      <point x="224" y="594"/>
+      <point x="282" y="639"/>
+      <point x="336" y="639" type="curve" smooth="yes"/>
+      <point x="424" y="639"/>
+      <point x="461" y="524"/>
+      <point x="427" y="359" type="curve" smooth="yes"/>
+      <point x="397" y="214"/>
+      <point x="320" y="75"/>
+      <point x="66" y="27" type="curve"/>
+      <point x="63" y="13"/>
+      <point x="65" y="1"/>
+      <point x="70" y="-7" type="curve"/>
+      <point x="299" y="8"/>
+      <point x="469" y="140"/>
+    </contour>
   </outline>
   <lib>
     <dict>

@@ -4,7 +4,26 @@
   <anchor x="287" y="458" name="_top"/>
   <anchor x="337" y="716" name="top"/>
   <outline>
-    <component base="brevecomb" xScale="-1" yScale="-1" xOffset="648" yOffset="1233"/>
+    <contour>
+      <point x="354" y="716" type="curve" smooth="yes"/>
+      <point x="217" y="716"/>
+      <point x="132" y="651"/>
+      <point x="108" y="527" type="curve"/>
+      <point x="131" y="518"/>
+      <point x="163" y="514"/>
+      <point x="197" y="520" type="curve"/>
+      <point x="210" y="568"/>
+      <point x="253" y="595"/>
+      <point x="316" y="595" type="curve" smooth="yes"/>
+      <point x="380" y="595"/>
+      <point x="416" y="568"/>
+      <point x="414" y="520" type="curve"/>
+      <point x="450" y="515"/>
+      <point x="491" y="520"/>
+      <point x="523" y="532" type="curve"/>
+      <point x="546" y="653"/>
+      <point x="489" y="716"/>
+    </contour>
   </outline>
   <lib>
     <dict>

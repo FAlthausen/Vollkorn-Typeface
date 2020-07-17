@@ -3,6 +3,21 @@
   <advance width="550"/>
   <unicode hex="2228"/>
   <outline>
-    <component base="logicaland" xScale="-1" yScale="-1" xOffset="549" yOffset="498"/>
+    <contour>
+      <point x="448" y="493" type="curve"/>
+      <point x="246" y="58" type="line"/>
+      <point x="303" y="58" type="line"/>
+      <point x="101" y="493" type="line"/>
+      <point x="66" y="490"/>
+      <point x="39" y="480"/>
+      <point x="20" y="463" type="curve"/>
+      <point x="239" y="5" type="line"/>
+      <point x="268" y="3"/>
+      <point x="294" y="8"/>
+      <point x="319" y="22" type="curve"/>
+      <point x="529" y="463" type="line"/>
+      <point x="507" y="484"/>
+      <point x="480" y="494"/>
+    </contour>
   </outline>
 </glyph>

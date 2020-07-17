@@ -3,6 +3,22 @@
   <advance width="253"/>
   <unicode hex="0375"/>
   <outline>
-    <component base="minute" xScale="-1" yScale="-1" xOffset="253" yOffset="521"/>
+    <contour>
+      <point x="54" y="-182"/>
+      <point x="62" y="-191"/>
+      <point x="73" y="-193" type="curve"/>
+      <point x="91" y="-184"/>
+      <point x="119" y="-175"/>
+      <point x="139" y="-172" type="curve"/>
+      <point x="154" y="-106"/>
+      <point x="171" y="-36"/>
+      <point x="193" y="34" type="curve"/>
+      <point x="182" y="41"/>
+      <point x="171" y="44"/>
+      <point x="156" y="44" type="curve"/>
+      <point x="119" y="-41"/>
+      <point x="85" y="-104"/>
+      <point x="66" y="-151" type="curve" smooth="yes"/>
+    </contour>
   </outline>
 </glyph>

@@ -15,18 +15,24 @@
     <key>guidelines</key>
     <array>
       <dict>
+        <key>identifier</key>
+        <string>KfJbKU0CH6</string>
         <key>name</key>
         <string> [locked]</string>
         <key>y</key>
         <integer>383</integer>
       </dict>
       <dict>
+        <key>identifier</key>
+        <string>6u4gfdF5Gd</string>
         <key>name</key>
         <string> [locked]</string>
         <key>y</key>
         <integer>395</integer>
       </dict>
       <dict>
+        <key>identifier</key>
+        <string>md8TpVDSC0</string>
         <key>name</key>
         <string> [locked]</string>
         <key>y</key>
@@ -35,6 +41,8 @@
       <dict>
         <key>angle</key>
         <integer>79</integer>
+        <key>identifier</key>
+        <string>QlS9Ujmm7s</string>
         <key>name</key>
         <string> [locked]</string>
         <key>x</key>
@@ -43,48 +51,64 @@
         <integer>45</integer>
       </dict>
       <dict>
+        <key>identifier</key>
+        <string>pYyl3TxZQT</string>
         <key>name</key>
         <string>Fussserife [locked]</string>
         <key>y</key>
         <integer>75</integer>
       </dict>
       <dict>
+        <key>identifier</key>
+        <string>eEgfHCLTMX</string>
         <key>name</key>
         <string> [locked]</string>
         <key>y</key>
         <integer>-9</integer>
       </dict>
       <dict>
+        <key>identifier</key>
+        <string>cFYYs8nxfI</string>
         <key>name</key>
         <string> [locked]</string>
         <key>y</key>
         <integer>-3</integer>
       </dict>
       <dict>
+        <key>identifier</key>
+        <string>C6LmPKaguB</string>
         <key>name</key>
         <string>Topline Numr [locked]</string>
         <key>y</key>
         <integer>724</integer>
       </dict>
       <dict>
+        <key>identifier</key>
+        <string>yi4bXhR3h8</string>
         <key>name</key>
         <string>Baseline Numr [locked]</string>
         <key>y</key>
         <integer>281</integer>
       </dict>
       <dict>
+        <key>identifier</key>
+        <string>MywOH3Y2PJ</string>
         <key>name</key>
         <string>Topline Dnom [locked]</string>
         <key>y</key>
         <integer>443</integer>
       </dict>
       <dict>
+        <key>identifier</key>
+        <string>lQPM3DCBBr</string>
         <key>name</key>
         <string>Hyphen's Center [locked]</string>
         <key>y</key>
         <integer>260</integer>
       </dict>
       <dict>
+        <key>identifier</key>
+        <string>VKo8ks1ual</string>
         <key>name</key>
         <string>OSF [locked]</string>
         <key>y</key>

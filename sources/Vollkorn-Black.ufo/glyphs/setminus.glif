@@ -3,6 +3,15 @@
   <advance width="550"/>
   <unicode hex="2216"/>
   <outline>
-    <component base="divisionslash" xScale="-1" xOffset="550"/>
+    <contour>
+      <point x="362" y="-104" type="curve"/>
+      <point x="101" y="600" type="line"/>
+      <point x="124" y="613"/>
+      <point x="154" y="622"/>
+      <point x="184" y="622" type="curve"/>
+      <point x="449" y="-87" type="line"/>
+      <point x="431" y="-98"/>
+      <point x="402" y="-104"/>
+    </contour>
   </outline>
 </glyph>

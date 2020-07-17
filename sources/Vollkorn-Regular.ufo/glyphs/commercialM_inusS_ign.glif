@@ -3,7 +3,16 @@
   <advance width="572"/>
   <unicode hex="2052"/>
   <outline>
-    <component base="slash" xScale="0.93969" xyScale="-0.34202" yxScale="0.34202" yScale="0.93969" xOffset="-7" yOffset="80"/>
+    <contour>
+      <point x="61.338260000000005" y="45.54927" type="curve"/>
+      <point x="541.8242" y="611.33235" type="line"/>
+      <point x="536.78719" y="623.8074300000001"/>
+      <point x="522.09763" y="641.92411"/>
+      <point x="510.31005000000005" y="650.47115" type="curve"/>
+      <point x="29.824109999999997" y="84.68807" type="line"/>
+      <point x="33.32376" y="73.83672"/>
+      <point x="45.53627" y="57.68579"/>
+    </contour>
     <component base="_part.dot" yOffset="518"/>
     <component base="_part.dot" xOffset="336" yOffset="84"/>
   </outline>

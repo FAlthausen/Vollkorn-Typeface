@@ -3,7 +3,30 @@
   <advance width="423"/>
   <unicode hex="27E9"/>
   <outline>
-    <component base="leftanglebracket-math" xScale="-1" yScale="-1" xOffset="411" yOffset="467"/>
+    <contour>
+      <point x="109" y="734" type="curve"/>
+      <point x="81" y="734"/>
+      <point x="55" y="731"/>
+      <point x="37" y="722" type="curve"/>
+      <point x="73" y="569"/>
+      <point x="135" y="381"/>
+      <point x="210" y="197" type="curve"/>
+      <point x="210" y="251" type="line"/>
+      <point x="135" y="74"/>
+      <point x="72" y="-109"/>
+      <point x="35" y="-261" type="curve"/>
+      <point x="59" y="-271"/>
+      <point x="79" y="-274"/>
+      <point x="107" y="-271" type="curve"/>
+      <point x="175" y="-98"/>
+      <point x="288" y="93"/>
+      <point x="375" y="202" type="curve"/>
+      <point x="377" y="223"/>
+      <point x="375" y="248"/>
+      <point x="369" y="266" type="curve"/>
+      <point x="284" y="374"/>
+      <point x="175" y="563"/>
+    </contour>
   </outline>
   <lib>
     <dict>

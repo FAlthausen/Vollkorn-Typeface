@@ -2,6 +2,8 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
   <dict>
+    <key>_part.Tse-cy</key>
+    <string>_part.T_se-cy.glif</string>
     <key>de-cy</key>
     <string>de-cy.glif</string>
   </dict>

@@ -1,9 +1,48 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="quotedblleft" format="2">
-  <advance width="504.56"/>
+  <advance width="505"/>
   <unicode hex="201C"/>
   <outline>
-    <component base="quotedblbase" xScale="-1" yScale="-1" xOffset="509" yOffset="563"/>
+    <contour>
+      <point x="133" y="378" type="curve"/>
+      <point x="167" y="398"/>
+      <point x="209" y="413"/>
+      <point x="262" y="415" type="curve"/>
+      <point x="283" y="448"/>
+      <point x="293" y="484"/>
+      <point x="293" y="525" type="curve"/>
+      <point x="216" y="540"/>
+      <point x="224" y="601"/>
+      <point x="297" y="671" type="curve"/>
+      <point x="286" y="691"/>
+      <point x="266" y="704"/>
+      <point x="235" y="708" type="curve"/>
+      <point x="162" y="655"/>
+      <point x="118" y="577"/>
+      <point x="103" y="498" type="curve" smooth="yes"/>
+      <point x="88" y="420"/>
+      <point x="108" y="389"/>
+    </contour>
+    <contour>
+      <point x="348" y="378" type="curve"/>
+      <point x="382" y="398"/>
+      <point x="423" y="413"/>
+      <point x="476" y="415" type="curve"/>
+      <point x="497" y="448"/>
+      <point x="507" y="484"/>
+      <point x="507" y="525" type="curve"/>
+      <point x="429" y="535"/>
+      <point x="422" y="592"/>
+      <point x="498" y="664" type="curve"/>
+      <point x="487" y="684"/>
+      <point x="467" y="697"/>
+      <point x="436" y="701" type="curve"/>
+      <point x="384" y="664"/>
+      <point x="341" y="590"/>
+      <point x="323" y="517" type="curve" smooth="yes"/>
+      <point x="302" y="435"/>
+      <point x="312" y="394"/>
+    </contour>
   </outline>
   <lib>
     <dict>

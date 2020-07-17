@@ -64,7 +64,26 @@
       <point x="296" y="92"/>
       <point x="296" y="162" type="curve" smooth="yes"/>
     </contour>
-    <component base="_part.hook" xScale="-1" xOffset="669"/>
+    <contour>
+      <point x="361" y="-249" type="curve" smooth="yes"/>
+      <point x="494" y="-249"/>
+      <point x="632" y="-90"/>
+      <point x="632" y="133" type="curve" smooth="yes"/>
+      <point x="632" y="287" type="line"/>
+      <point x="442" y="287" type="line"/>
+      <point x="442" y="37" type="line" smooth="yes"/>
+      <point x="442" y="-56"/>
+      <point x="438" y="-106"/>
+      <point x="376" y="-106" type="curve" smooth="yes"/>
+      <point x="326" y="-106"/>
+      <point x="283" y="-96"/>
+      <point x="260" y="-87" type="curve"/>
+      <point x="247" y="-121"/>
+      <point x="243" y="-169"/>
+      <point x="247" y="-195" type="curve"/>
+      <point x="268" y="-226"/>
+      <point x="317" y="-249"/>
+    </contour>
   </outline>
   <lib>
     <dict>

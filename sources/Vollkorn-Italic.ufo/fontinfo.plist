@@ -15,20 +15,28 @@
     <key>guidelines</key>
     <array>
       <dict>
+        <key>identifier</key>
+        <string>NKTkRoXanZ</string>
         <key>y</key>
         <integer>-9</integer>
       </dict>
       <dict>
+        <key>identifier</key>
+        <string>1O93cmOICO</string>
         <key>y</key>
         <integer>395</integer>
       </dict>
       <dict>
+        <key>identifier</key>
+        <string>9QWLosG4ca</string>
         <key>y</key>
         <integer>383</integer>
       </dict>
       <dict>
         <key>angle</key>
         <integer>79</integer>
+        <key>identifier</key>
+        <string>zy3qDjzg9p</string>
         <key>name</key>
         <string> [locked]</string>
         <key>x</key>
@@ -37,36 +45,48 @@
         <integer>45</integer>
       </dict>
       <dict>
+        <key>identifier</key>
+        <string>yEAHJmxzJb</string>
         <key>name</key>
         <string>Topline Numr [locked]</string>
         <key>y</key>
         <integer>724</integer>
       </dict>
       <dict>
+        <key>identifier</key>
+        <string>yo0pyvA5mF</string>
         <key>name</key>
         <string>Baseline Numr [locked]</string>
         <key>y</key>
         <integer>281</integer>
       </dict>
       <dict>
+        <key>identifier</key>
+        <string>GxXts8Nrl8</string>
         <key>name</key>
         <string>Topline Dnom [locked]</string>
         <key>y</key>
         <integer>443</integer>
       </dict>
       <dict>
+        <key>identifier</key>
+        <string>NMJZ2GXMuT</string>
         <key>name</key>
         <string>Hyphen's Center [locked]</string>
         <key>y</key>
         <integer>260</integer>
       </dict>
       <dict>
+        <key>identifier</key>
+        <string>fuJOrLEVLx</string>
         <key>name</key>
         <string>OSF [locked]</string>
         <key>y</key>
         <integer>500</integer>
       </dict>
       <dict>
+        <key>identifier</key>
+        <string>epiTrCoAjg</string>
         <key>name</key>
         <string>Fussserife [locked]</string>
         <key>y</key>

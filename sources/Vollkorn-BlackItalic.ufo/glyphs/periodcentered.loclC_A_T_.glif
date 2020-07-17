@@ -2,6 +2,19 @@
 <glyph name="periodcentered.loclCAT" format="2">
   <advance width="15"/>
   <outline>
-    <component base="_part.dot" xScale="0.66" yScale="0.68" xOffset="-53" yOffset="292"/>
+    <contour>
+      <point x="23.560000000000002" y="285.88" type="curve" smooth="yes"/>
+      <point x="65.80000000000001" y="285.88"/>
+      <point x="88.24000000000001" y="307.64"/>
+      <point x="94.84" y="343.0" type="curve" smooth="yes"/>
+      <point x="104.74000000000001" y="396.72"/>
+      <point x="69.10000000000001" y="425.96000000000004"/>
+      <point x="31.480000000000004" y="425.96000000000004" type="curve" smooth="yes"/>
+      <point x="-12.739999999999995" y="425.96000000000004"/>
+      <point x="-37.82" y="405.56"/>
+      <point x="-44.42" y="369.52" type="curve" smooth="yes"/>
+      <point x="-54.98" y="315.8"/>
+      <point x="-25.279999999999998" y="285.88"/>
+    </contour>
   </outline>
 </glyph>

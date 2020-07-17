@@ -56,8 +56,38 @@
       <point x="131" y="75" type="line"/>
       <point x="41" y="75" type="line"/>
     </contour>
-    <component base="__descender-cy.straight" xOffset="588"/>
-    <component base="__descender-cy.straight" xScale="-1" xOffset="62"/>
+    <contour>
+      <point x="508" y="-169" type="curve"/>
+      <point x="546" y="-182"/>
+      <point x="597" y="-182"/>
+      <point x="630" y="-169" type="curve"/>
+      <point x="627" y="-111"/>
+      <point x="631" y="-50"/>
+      <point x="640" y="0" type="curve"/>
+      <point x="640" y="30"/>
+      <point x="634" y="54"/>
+      <point x="621" y="75" type="curve"/>
+      <point x="491" y="75" type="line"/>
+      <point x="491" y="35" type="line"/>
+      <point x="505" y="-42"/>
+      <point x="510" y="-115"/>
+    </contour>
+    <contour>
+      <point x="142" y="-169" type="curve"/>
+      <point x="140" y="-115"/>
+      <point x="145" y="-42"/>
+      <point x="159" y="35" type="curve"/>
+      <point x="159" y="75" type="line"/>
+      <point x="29" y="75" type="line"/>
+      <point x="16" y="54"/>
+      <point x="10" y="30"/>
+      <point x="10" y="0" type="curve"/>
+      <point x="19" y="-50"/>
+      <point x="23" y="-111"/>
+      <point x="20" y="-169" type="curve"/>
+      <point x="53" y="-182"/>
+      <point x="104" y="-182"/>
+    </contour>
   </outline>
   <lib>
     <dict>

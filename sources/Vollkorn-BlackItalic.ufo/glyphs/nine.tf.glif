@@ -4,7 +4,42 @@
   <guideline x="31" y="11" angle="90"/>
   <guideline x="631" y="11" angle="90"/>
   <outline>
-    <component base="six.tf" xScale="-1" yScale="-1" xOffset="593" yOffset="676"/>
+    <contour>
+      <point x="335" y="685" type="curve" smooth="yes"/>
+      <point x="197" y="685"/>
+      <point x="87" y="614"/>
+      <point x="62" y="475" type="curve" smooth="yes"/>
+      <point x="42" y="363"/>
+      <point x="84" y="261"/>
+      <point x="212" y="261" type="curve" smooth="yes"/>
+      <point x="245" y="261"/>
+      <point x="285" y="269"/>
+      <point x="339" y="288" type="curve"/>
+      <point x="363" y="356" type="line"/>
+      <point x="344" y="347"/>
+      <point x="324" y="343"/>
+      <point x="314" y="343" type="curve" smooth="yes"/>
+      <point x="260" y="343"/>
+      <point x="247" y="421"/>
+      <point x="262" y="497" type="curve" smooth="yes"/>
+      <point x="276" y="566"/>
+      <point x="302" y="600"/>
+      <point x="329" y="600" type="curve" smooth="yes"/>
+      <point x="377" y="600"/>
+      <point x="384" y="494"/>
+      <point x="354" y="362" type="curve" smooth="yes"/>
+      <point x="322" y="219"/>
+      <point x="255" y="110"/>
+      <point x="72" y="65" type="curve"/>
+      <point x="63" y="34"/>
+      <point x="63" y="6"/>
+      <point x="73" y="-9" type="curve"/>
+      <point x="343" y="11"/>
+      <point x="499" y="141"/>
+      <point x="544" y="371" type="curve" smooth="yes"/>
+      <point x="582" y="564"/>
+      <point x="514" y="685"/>
+    </contour>
   </outline>
   <lib>
     <dict>

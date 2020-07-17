@@ -3,6 +3,41 @@
   <advance width="730"/>
   <unicode hex="2199"/>
   <outline>
-    <component base="northWestArrow" xScale="0" xyScale="1" yxScale="-1" yScale="0" xOffset="719" yOffset="-15"/>
+    <contour>
+      <point x="680" y="590" type="curve"/>
+      <point x="670" y="620"/>
+      <point x="651" y="645"/>
+      <point x="624" y="673" type="curve"/>
+      <point x="213.142" y="262.122" type="line"/>
+      <point x="187.68600000000004" y="308.791"/>
+      <point x="172.837" y="351.924"/>
+      <point x="160.81600000000003" y="404.958" type="curve"/>
+      <point x="150.91700000000003" y="406.372"/>
+      <point x="132.53200000000004" y="396.472"/>
+      <point x="121.21799999999996" y="385.159" type="curve" smooth="yes"/>
+      <point x="104.24800000000005" y="368.188"/>
+      <point x="100.71199999999999" y="353.339"/>
+      <point x="101.41899999999998" y="337.075" type="curve" smooth="yes"/>
+      <point x="104.95500000000004" y="255.75799999999998"/>
+      <point x="90.106" y="185.754"/>
+      <point x="49.799999999999955" y="71.91" type="curve"/>
+      <point x="61.11400000000003" y="60.596999999999994"/>
+      <point x="91.51999999999998" y="40.09"/>
+      <point x="107.78300000000002" y="35.141" type="curve"/>
+      <point x="161.52300000000002" y="62.010999999999996"/>
+      <point x="316.38" y="93.831"/>
+      <point x="404.061" y="89.588" type="curve"/>
+      <point x="418.203" y="120.701"/>
+      <point x="423.153" y="139.792"/>
+      <point x="409.011" y="153.935" type="curve" smooth="yes"/>
+      <point x="401.233" y="161.713"/>
+      <point x="389.212" y="168.077"/>
+      <point x="371.534" y="171.612" type="curve" smooth="yes"/>
+      <point x="339.007" y="178.683"/>
+      <point x="300.823" y="189.997"/>
+      <point x="273.953" y="201.311" type="curve"/>
+      <point x="406" y="334"/>
+      <point x="539" y="466"/>
+    </contour>
   </outline>
 </glyph>

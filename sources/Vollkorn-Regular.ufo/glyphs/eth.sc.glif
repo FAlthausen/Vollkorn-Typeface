@@ -2,8 +2,19 @@
 <glyph name="eth.sc" format="2">
   <advance width="696"/>
   <outline>
+    <contour>
+      <point x="73" y="233" type="curve"/>
+      <point x="153" y="234"/>
+      <point x="288" y="234"/>
+      <point x="320" y="234" type="curve"/>
+      <point x="326" y="249"/>
+      <point x="329" y="262"/>
+      <point x="329" y="276" type="curve"/>
+      <point x="83" y="276" type="line"/>
+      <point x="77" y="264"/>
+      <point x="73" y="251"/>
+    </contour>
     <component base="d.sc"/>
-    <component base="strokeshortcomb" xOffset="23" yOffset="-100"/>
   </outline>
   <lib>
     <dict>
