@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="leftwhitecurlybracket.case" format="2">
+  <outline>
+    <component base="leftwhitecurlybracket" xOffset="20" yOffset="103"/>
+  </outline>
+</glyph>

@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="entail-cy" format="2">
+  <advance width="690"/>
+  <unicode hex="04CA"/>
+  <outline>
+    <contour>
+      <point x="349" y="0" type="line"/>
+      <point x="608" y="0" type="line"/>
+      <point x="615" y="75" type="line"/>
+      <point x="572" y="75"/>
+      <point x="560" y="91"/>
+      <point x="569" y="135" type="curve" smooth="yes"/>
+      <point x="629" y="458" type="line"/>
+      <point x="436" y="458" type="line"/>
+    </contour>
+    <contour>
+      <point x="33" y="0" type="line"/>
+      <point x="226" y="0" type="line"/>
+      <point x="302" y="402" type="line"/>
+      <point x="306" y="430"/>
+      <point x="297" y="453"/>
+      <point x="271" y="467" type="curve"/>
+      <point x="205" y="441"/>
+      <point x="125" y="428"/>
+      <point x="43" y="426" type="curve"/>
+      <point x="34" y="404"/>
+      <point x="30" y="375"/>
+      <point x="30" y="351" type="curve"/>
+      <point x="94" y="351"/>
+      <point x="95" y="334"/>
+      <point x="82" y="262" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="246" y="192" type="line"/>
+      <point x="292" y="200"/>
+      <point x="343" y="201"/>
+      <point x="397" y="201" type="curve"/>
+      <point x="409" y="272" type="line"/>
+      <point x="260" y="272" type="line"/>
+    </contour>
+    <component base="__tail-cy" xOffset="538"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>=n</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=n</string>
+    </dict>
+  </lib>
+</glyph>

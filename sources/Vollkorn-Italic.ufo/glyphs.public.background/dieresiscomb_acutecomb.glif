@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dieresiscomb_acutecomb" format="2">
+  <outline>
+    <component base="dieresiscomb.i.case" xOffset="-38" yOffset="-200"/>
+    <component base="acutecomb.case" xOffset="82" yOffset="-67"/>
+  </outline>
+</glyph>

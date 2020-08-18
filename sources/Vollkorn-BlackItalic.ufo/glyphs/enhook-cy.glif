@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="enhook-cy" format="2">
+  <advance width="628"/>
+  <unicode hex="04C8"/>
+  <outline>
+    <contour>
+      <point x="248" y="-246" type="curve"/>
+      <point x="441" y="-183"/>
+      <point x="525" y="-102"/>
+      <point x="567" y="125" type="curve" smooth="yes"/>
+      <point x="629" y="458" type="line"/>
+      <point x="436" y="458" type="line"/>
+      <point x="361" y="51" type="line" smooth="yes"/>
+      <point x="339" y="-70"/>
+      <point x="286" y="-132"/>
+      <point x="217" y="-167" type="curve"/>
+      <point x="217" y="-203"/>
+      <point x="227" y="-228"/>
+    </contour>
+    <contour>
+      <point x="33" y="0" type="line"/>
+      <point x="226" y="0" type="line"/>
+      <point x="302" y="402" type="line"/>
+      <point x="306" y="430"/>
+      <point x="297" y="453"/>
+      <point x="271" y="467" type="curve"/>
+      <point x="205" y="441"/>
+      <point x="125" y="428"/>
+      <point x="43" y="426" type="curve"/>
+      <point x="34" y="404"/>
+      <point x="30" y="375"/>
+      <point x="30" y="351" type="curve"/>
+      <point x="94" y="351"/>
+      <point x="95" y="334"/>
+      <point x="82" y="262" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="255" y="193" type="line"/>
+      <point x="298" y="201"/>
+      <point x="346" y="202"/>
+      <point x="396" y="202" type="curve"/>
+      <point x="409" y="272" type="line"/>
+      <point x="270" y="272" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>=n</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=g</string>
+    </dict>
+  </lib>
+</glyph>

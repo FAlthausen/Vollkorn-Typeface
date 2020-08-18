@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="leftanglebracket-math" format="2">
+  <advance width="429"/>
+  <unicode hex="27E8"/>
+  <outline>
+    <contour>
+      <point x="212" y="-267" type="curve"/>
+      <point x="240" y="-267"/>
+      <point x="266" y="-264"/>
+      <point x="286" y="-255" type="curve"/>
+      <point x="280" y="-101"/>
+      <point x="254" y="88"/>
+      <point x="215" y="273" type="curve"/>
+      <point x="204" y="219" type="line"/>
+      <point x="314" y="395"/>
+      <point x="412" y="577"/>
+      <point x="479" y="728" type="curve"/>
+      <point x="457" y="738"/>
+      <point x="438" y="741"/>
+      <point x="409" y="738" type="curve"/>
+      <point x="307" y="566"/>
+      <point x="157" y="376"/>
+      <point x="49" y="268" type="curve"/>
+      <point x="43" y="247"/>
+      <point x="40" y="222"/>
+      <point x="43" y="204" type="curve"/>
+      <point x="107" y="95"/>
+      <point x="179" y="-95"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string></string>
+    </dict>
+  </lib>
+</glyph>

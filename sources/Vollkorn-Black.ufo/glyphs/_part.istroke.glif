@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_part.istroke" format="2">
+  <advance width="268"/>
+  <anchor x="139" y="350" name="_center"/>
+  <outline>
+    <contour>
+      <point x="-58" y="304" type="curve"/>
+      <point x="70" y="313"/>
+      <point x="181" y="314"/>
+      <point x="325" y="314" type="curve"/>
+      <point x="333" y="339"/>
+      <point x="336" y="363"/>
+      <point x="336" y="387" type="curve"/>
+      <point x="-47" y="387" type="line"/>
+      <point x="-55" y="358"/>
+      <point x="-58" y="329"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+    </dict>
+  </lib>
+</glyph>

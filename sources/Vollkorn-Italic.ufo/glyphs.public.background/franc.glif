@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="franc" format="2">
+  <outline>
+    <component base="F"/>
+    <component base="strokeshortcomb.case" xScale="0.85" xOffset="-21" yOffset="-186"/>
+  </outline>
+</glyph>

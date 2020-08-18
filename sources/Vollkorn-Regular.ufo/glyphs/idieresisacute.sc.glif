@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="idieresisacute.sc" format="2">
+  <advance width="374"/>
+  <outline>
+    <component base="i.sc"/>
+    <component base="dieresiscomb.i.case" xOffset="3" yOffset="-176"/>
+    <component base="acutecomb.case" xOffset="104" yOffset="-34"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

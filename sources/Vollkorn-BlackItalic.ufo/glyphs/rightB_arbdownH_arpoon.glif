@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="rightBarbdownHarpoon" format="2">
+  <advance width="846"/>
+  <unicode hex="21C1"/>
+  <outline>
+    <contour>
+      <point x="524" y="42" type="curve" smooth="yes"/>
+      <point x="548" y="42"/>
+      <point x="561" y="50"/>
+      <point x="572" y="62" type="curve" smooth="yes"/>
+      <point x="627" y="122"/>
+      <point x="687" y="161"/>
+      <point x="796" y="213" type="curve"/>
+      <point x="796" y="229"/>
+      <point x="789" y="265"/>
+      <point x="781" y="280" type="curve"/>
+      <point x="69" y="280" type="line"/>
+      <point x="55" y="252"/>
+      <point x="50" y="221"/>
+      <point x="50" y="182" type="curve"/>
+      <point x="180" y="190"/>
+      <point x="342" y="194"/>
+      <point x="546" y="194" type="curve"/>
+      <point x="531" y="143"/>
+      <point x="511" y="102"/>
+      <point x="482" y="56" type="curve"/>
+      <point x="488" y="48"/>
+      <point x="508" y="42"/>
+    </contour>
+  </outline>
+</glyph>

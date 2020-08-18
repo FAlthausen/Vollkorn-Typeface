@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_part.tugrik.sc" format="2">
+  <advance width="617"/>
+  <anchor x="308" y="219" name="_center"/>
+  <outline>
+    <contour>
+      <point x="136" y="200" type="curve"/>
+      <point x="262" y="231" type="line"/>
+      <point x="215" y="289" type="line"/>
+      <point x="123" y="271" type="line"/>
+      <point x="121" y="250"/>
+      <point x="124" y="227"/>
+    </contour>
+    <contour>
+      <point x="142" y="96" type="curve"/>
+      <point x="242" y="113" type="line"/>
+      <point x="221" y="180" type="line"/>
+      <point x="130" y="165" type="line"/>
+      <point x="127" y="141"/>
+      <point x="131" y="121"/>
+    </contour>
+    <contour>
+      <point x="389" y="143" type="line"/>
+      <point x="488" y="162" type="line"/>
+      <point x="488" y="186"/>
+      <point x="486" y="205"/>
+      <point x="475" y="231" type="curve"/>
+      <point x="367" y="210" type="line"/>
+    </contour>
+    <contour>
+      <point x="383" y="250" type="line"/>
+      <point x="479" y="267" type="line"/>
+      <point x="478" y="295"/>
+      <point x="474" y="314"/>
+      <point x="465" y="337" type="curve"/>
+      <point x="382" y="323" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>height</key>
+        <integer>74</integer>
+        <key>weight</key>
+        <integer>-10</integer>
+        <key>width</key>
+        <integer>80</integer>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hbar" format="2">
+  <advance width="704"/>
+  <unicode hex="0127"/>
+  <outline>
+    <component base="h"/>
+    <component base="_part.istroke" xOffset="50" yOffset="161"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>n</string>
+    </dict>
+  </lib>
+</glyph>

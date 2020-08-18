@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="seven.numr.ss17" format="2">
+  <advance width="366"/>
+  <outline>
+    <contour>
+      <point x="76" y="433" type="curve"/>
+      <point x="142" y="439"/>
+      <point x="228" y="439"/>
+      <point x="345" y="439" type="curve"/>
+      <point x="355" y="455"/>
+      <point x="366" y="483"/>
+      <point x="372" y="511" type="curve"/>
+      <point x="104" y="511" type="line"/>
+      <point x="93" y="493"/>
+      <point x="81" y="461"/>
+    </contour>
+    <component base="seven.numr"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>height</key>
+        <real>65.6</real>
+        <key>verticalShift</key>
+        <integer>281</integer>
+        <key>weight</key>
+        <integer>-22</integer>
+        <key>width</key>
+        <integer>76</integer>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.85,0.26,0.06,1</string>
+    </dict>
+  </lib>
+</glyph>

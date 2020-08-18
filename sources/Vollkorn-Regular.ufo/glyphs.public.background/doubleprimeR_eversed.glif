@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="doubleprimeReversed" format="2">
+  <outline>
+    <component base="primeReversed"/>
+    <component base="primeReversed" xOffset="154"/>
+  </outline>
+</glyph>

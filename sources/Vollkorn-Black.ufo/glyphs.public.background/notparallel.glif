@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="notparallel" format="2">
+  <outline>
+    <component base="parallel"/>
+    <component base="_negationslash" xScale="0.6472" xyScale="-0.4702" yxScale="0.4702" yScale="0.6472" xOffset="-29" yOffset="195"/>
+  </outline>
+</glyph>

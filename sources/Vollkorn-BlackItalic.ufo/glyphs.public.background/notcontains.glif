@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="notcontains" format="2">
+  <outline>
+    <contour>
+      <point x="157" y="-121" type="line"/>
+      <point x="456" y="587" type="line"/>
+      <point x="364" y="623" type="line"/>
+      <point x="65" y="-85" type="line"/>
+    </contour>
+  </outline>
+</glyph>

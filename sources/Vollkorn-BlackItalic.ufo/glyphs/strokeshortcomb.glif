@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="strokeshortcomb" format="2">
+  <unicode hex="0335"/>
+  <anchor x="273" y="335" name="_center"/>
+  <outline>
+    <contour>
+      <point x="86" y="296" type="curve"/>
+      <point x="184" y="301"/>
+      <point x="246" y="303"/>
+      <point x="451" y="303" type="curve"/>
+      <point x="458" y="323"/>
+      <point x="460" y="347"/>
+      <point x="460" y="361" type="curve"/>
+      <point x="95" y="361" type="line"/>
+      <point x="88" y="342"/>
+      <point x="86" y="316"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>507</integer>
+    </dict>
+  </lib>
+</glyph>

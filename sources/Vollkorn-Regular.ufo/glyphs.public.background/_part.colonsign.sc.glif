@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_part.colonsign.sc" format="2">
+  <anchor x="374" y="676" name="_top"/>
+  <outline>
+    <contour>
+      <point x="338" y="-67" type="curve"/>
+      <point x="364" y="65"/>
+      <point x="440" y="425"/>
+      <point x="465" y="538" type="curve"/>
+      <point x="453" y="548"/>
+      <point x="440" y="552"/>
+      <point x="422" y="556" type="curve"/>
+      <point x="294" y="-50" type="line"/>
+      <point x="302" y="-57"/>
+      <point x="323" y="-65"/>
+    </contour>
+    <contour>
+      <point x="234" y="-67" type="curve"/>
+      <point x="261" y="65"/>
+      <point x="336" y="425"/>
+      <point x="361" y="538" type="curve"/>
+      <point x="349" y="548"/>
+      <point x="337" y="552"/>
+      <point x="318" y="556" type="curve"/>
+      <point x="191" y="-50" type="line"/>
+      <point x="199" y="-57"/>
+      <point x="220" y="-65"/>
+    </contour>
+    <component base="_part.dollar.sc" xOffset="70"/>
+  </outline>
+</glyph>

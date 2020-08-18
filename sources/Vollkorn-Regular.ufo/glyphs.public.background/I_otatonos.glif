@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Iotatonos" format="2">
+  <outline>
+    <component base="Iota"/>
+    <component base="acutecomb.GREK.case" xOffset="-141"/>
+  </outline>
+</glyph>

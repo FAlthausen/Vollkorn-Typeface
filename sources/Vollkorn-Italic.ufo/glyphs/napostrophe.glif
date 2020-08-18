@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="napostrophe" format="2">
+  <advance width="655"/>
+  <unicode hex="0149"/>
+  <outline>
+    <contour>
+      <point x="232" y="623" type="move"/>
+    </contour>
+    <component base="apostrophemod" xOffset="27"/>
+    <component base="n" xOffset="137"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>quotesingle</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>n</string>
+      <key>com.schriftgestaltung.Glyphs.layer.leftMetricsKey</key>
+      <string>=quotesingle</string>
+      <key>com.schriftgestaltung.Glyphs.layer.rightMetricsKey</key>
+      <string>=n</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="sphericalangle.case" format="2">
+  <outline>
+    <component base="sphericalangle" yOffset="93"/>
+  </outline>
+</glyph>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Kastroke-cy" format="2">
+  <advance width="678"/>
+  <unicode hex="049E"/>
+  <outline>
+    <contour>
+      <point x="12.0" y="488" type="curve"/>
+      <point x="78.60000000000001" y="490"/>
+      <point x="109.20000000000002" y="490"/>
+      <point x="157.8" y="490" type="curve"/>
+      <point x="194.70000000000002" y="490" type="line"/>
+      <point x="247.8" y="490"/>
+      <point x="280.2" y="490"/>
+      <point x="331.5" y="489" type="curve"/>
+      <point x="339.6" y="503"/>
+      <point x="341.40000000000003" y="519"/>
+      <point x="341.40000000000003" y="539" type="curve"/>
+      <point x="196.5" y="539" type="line"/>
+      <point x="158.70000000000002" y="539" type="line"/>
+      <point x="21.9" y="539" type="line"/>
+      <point x="16.5" y="530"/>
+      <point x="12.0" y="503"/>
+    </contour>
+    <component base="Ka-cy"/>
+  </outline>
+</glyph>

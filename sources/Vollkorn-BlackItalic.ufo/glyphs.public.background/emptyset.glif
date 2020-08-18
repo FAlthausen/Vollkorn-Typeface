@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="emptyset" format="2">
+  <outline>
+    <contour>
+      <point x="67" y="-37" type="line"/>
+      <point x="543" y="439" type="line"/>
+      <point x="485" y="498" type="line"/>
+      <point x="8" y="22" type="line"/>
+    </contour>
+    <component base="heavyCircle" xOffset="1"/>
+  </outline>
+</glyph>

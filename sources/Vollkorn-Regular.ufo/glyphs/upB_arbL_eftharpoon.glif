@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="upBarbLeftharpoon" format="2">
+  <advance width="369"/>
+  <unicode hex="21BF"/>
+  <outline>
+    <contour>
+      <point x="269" y="-28" type="curve"/>
+      <point x="261" y="270"/>
+      <point x="257" y="472"/>
+      <point x="257" y="731" type="curve"/>
+      <point x="235" y="731"/>
+      <point x="220" y="729"/>
+      <point x="204" y="721" type="curve"/>
+      <point x="179" y="667"/>
+      <point x="106" y="567"/>
+      <point x="50" y="512" type="curve"/>
+      <point x="57" y="498"/>
+      <point x="65" y="490"/>
+      <point x="77" y="490" type="curve" smooth="yes"/>
+      <point x="88" y="490"/>
+      <point x="103" y="496"/>
+      <point x="115" y="505" type="curve" smooth="yes"/>
+      <point x="120" y="509"/>
+      <point x="143" y="531"/>
+      <point x="197" y="568" type="curve"/>
+      <point x="197" y="-12" type="line"/>
+      <point x="216" y="-23"/>
+      <point x="246" y="-28"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>=upArrow</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=100</string>
+    </dict>
+  </lib>
+</glyph>

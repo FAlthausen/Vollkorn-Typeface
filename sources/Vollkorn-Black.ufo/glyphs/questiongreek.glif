@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="questiongreek" format="2">
+  <advance width="327"/>
+  <unicode hex="037E"/>
+  <outline>
+    <component base="_part.dot" yOffset="275"/>
+    <component base="comma" xOffset="7"/>
+  </outline>
+</glyph>

@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_part.oslash.sc" format="2">
+  <advance width="684"/>
+  <anchor x="348" y="281" name="_center"/>
+  <outline>
+    <contour>
+      <point x="481" y="475" type="line"/>
+      <point x="579" y="448" type="line"/>
+      <point x="658" y="537" type="line"/>
+      <point x="637" y="550"/>
+      <point x="594" y="560"/>
+      <point x="556" y="560" type="curve"/>
+    </contour>
+    <contour>
+      <point x="228" y="68" type="line"/>
+      <point x="150" y="112" type="line"/>
+      <point x="50" y="-2" type="line"/>
+      <point x="71" y="-14"/>
+      <point x="110" y="-19"/>
+      <point x="154" y="-19" type="curve"/>
+    </contour>
+    <contour>
+      <point x="179" y="144" type="line"/>
+      <point x="253" y="87" type="line"/>
+      <point x="518" y="386" type="line"/>
+      <point x="444" y="445" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>height</key>
+        <integer>80</integer>
+        <key>weight</key>
+        <integer>-4</integer>
+        <key>width</key>
+        <integer>88</integer>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

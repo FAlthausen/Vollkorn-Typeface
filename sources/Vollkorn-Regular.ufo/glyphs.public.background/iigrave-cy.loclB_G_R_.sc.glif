@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="iigrave-cy.loclBGR.sc" format="2">
+  <outline>
+    <component base="ii-cy.loclBGR.sc"/>
+    <component base="gravecomb" xOffset="179" yOffset="42"/>
+  </outline>
+</glyph>

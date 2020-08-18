@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dollar.BRACKET.166" format="2">
+  <advance width="460"/>
+  <outline>
+    <component base="S"/>
+    <component base="_part.dollar.black"/>
+  </outline>
+</glyph>

@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="logicaland.case" format="2">
+  <outline>
+    <component base="logicaland" xOffset="19" yOffset="100"/>
+  </outline>
+</glyph>

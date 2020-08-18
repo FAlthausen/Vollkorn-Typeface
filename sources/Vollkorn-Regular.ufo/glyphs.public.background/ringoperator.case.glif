@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ringoperator.case" format="2">
+  <outline>
+    <component base="ringoperator" yOffset="81"/>
+  </outline>
+</glyph>

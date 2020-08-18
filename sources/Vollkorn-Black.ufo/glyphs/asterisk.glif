@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="asterisk" format="2">
+  <advance width="507"/>
+  <unicode hex="002A"/>
+  <outline>
+    <contour>
+      <point x="330" y="706"/>
+      <point x="361" y="752" type="curve"/>
+      <point x="323" y="772"/>
+      <point x="270" y="782"/>
+      <point x="223" y="782" type="curve"/>
+      <point x="229" y="728"/>
+      <point x="232" y="682"/>
+      <point x="232" y="630" type="curve"/>
+      <point x="188" y="672"/>
+      <point x="165" y="698"/>
+      <point x="130" y="741" type="curve"/>
+      <point x="97" y="711"/>
+      <point x="73" y="666"/>
+      <point x="60" y="623" type="curve"/>
+      <point x="120" y="611"/>
+      <point x="157" y="603"/>
+      <point x="204" y="586" type="curve"/>
+      <point x="159" y="561"/>
+      <point x="120" y="543"/>
+      <point x="69" y="522" type="curve"/>
+      <point x="86" y="475"/>
+      <point x="116" y="444"/>
+      <point x="157" y="415" type="curve"/>
+      <point x="187" y="466"/>
+      <point x="210" y="501"/>
+      <point x="240" y="544" type="curve"/>
+      <point x="250" y="488"/>
+      <point x="253" y="445"/>
+      <point x="256" y="390" type="curve"/>
+      <point x="307" y="394"/>
+      <point x="357" y="419"/>
+      <point x="395" y="450" type="curve"/>
+      <point x="354" y="493"/>
+      <point x="326" y="524"/>
+      <point x="290" y="565" type="curve"/>
+      <point x="347" y="556"/>
+      <point x="381" y="548"/>
+      <point x="444" y="530" type="curve"/>
+      <point x="450" y="585"/>
+      <point x="448" y="630"/>
+      <point x="429" y="678" type="curve"/>
+      <point x="372" y="652"/>
+      <point x="342" y="641"/>
+      <point x="286" y="623" type="curve"/>
+      <point x="311" y="674"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>quotesingle</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>quotesingle</string>
+    </dict>
+  </lib>
+</glyph>

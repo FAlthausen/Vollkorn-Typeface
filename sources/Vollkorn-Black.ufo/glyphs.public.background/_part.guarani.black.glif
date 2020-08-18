@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_part.guarani.black" format="2">
+  <anchor x="374" y="676" name="_top"/>
+  <outline>
+    <component base="guarani"/>
+  </outline>
+</glyph>

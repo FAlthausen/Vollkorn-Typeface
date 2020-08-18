@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dieresistonos" format="2">
+  <advance width="300"/>
+  <unicode hex="0385"/>
+  <outline>
+    <contour>
+      <point x="234" y="515" type="curve"/>
+      <point x="255" y="568"/>
+      <point x="289" y="635"/>
+      <point x="327" y="698" type="curve"/>
+      <point x="312" y="703"/>
+      <point x="290" y="706"/>
+      <point x="265" y="706" type="curve" smooth="yes"/>
+      <point x="238" y="706"/>
+      <point x="208" y="703"/>
+      <point x="178" y="697" type="curve"/>
+      <point x="173" y="646"/>
+      <point x="162" y="595"/>
+      <point x="148" y="538" type="curve"/>
+      <point x="173" y="523"/>
+      <point x="204" y="515"/>
+    </contour>
+    <contour>
+      <point x="53" y="513" type="curve" smooth="yes"/>
+      <point x="96" y="513"/>
+      <point x="122" y="536"/>
+      <point x="133" y="576" type="curve" smooth="yes"/>
+      <point x="148" y="629"/>
+      <point x="119" y="663"/>
+      <point x="66" y="663" type="curve" smooth="yes"/>
+      <point x="18" y="663"/>
+      <point x="-8" y="641"/>
+      <point x="-16" y="601" type="curve" smooth="yes"/>
+      <point x="-27" y="548"/>
+      <point x="-1" y="513"/>
+    </contour>
+    <contour>
+      <point x="374" y="513" type="curve" smooth="yes"/>
+      <point x="420" y="513"/>
+      <point x="446" y="536"/>
+      <point x="456" y="578" type="curve" smooth="yes"/>
+      <point x="469" y="631"/>
+      <point x="441" y="663"/>
+      <point x="390" y="663" type="curve" smooth="yes"/>
+      <point x="338" y="663"/>
+      <point x="310" y="639"/>
+      <point x="303" y="596" type="curve" smooth="yes"/>
+      <point x="295" y="546"/>
+      <point x="320" y="513"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
+      <string>=300</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bulletoperator" format="2">
+  <outline>
+    <component base="bullet" xOffset="106"/>
+  </outline>
+</glyph>

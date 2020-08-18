@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Emtail-cy" format="2">
+  <advance width="1053"/>
+  <unicode hex="04CD"/>
+  <outline>
+    <component base="M"/>
+    <component base="__tail-cy.case" xOffset="906" yOffset="1"/>
+  </outline>
+</glyph>

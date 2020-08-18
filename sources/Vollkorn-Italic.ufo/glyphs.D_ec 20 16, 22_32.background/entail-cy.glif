@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="entail-cy" format="2">
+  <outline>
+    <component base="en-cy"/>
+    <component base="tail-cy" xOffset="430" yOffset="18"/>
+  </outline>
+</glyph>

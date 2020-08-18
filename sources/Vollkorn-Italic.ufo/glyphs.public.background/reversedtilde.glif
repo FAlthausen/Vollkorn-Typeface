@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="reversedtilde" format="2">
+  <outline>
+    <component base="similar" yScale="-1" xOffset="6" yOffset="512"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>similar</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

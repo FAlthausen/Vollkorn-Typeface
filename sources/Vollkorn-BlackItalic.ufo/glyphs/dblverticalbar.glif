@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dblverticalbar" format="2">
+  <advance width="360"/>
+  <unicode hex="2016"/>
+  <outline>
+    <component base="bar" xOffset="180"/>
+    <component base="bar"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>bar</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>=hyphen</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=hyphen</string>
+    </dict>
+  </lib>
+</glyph>

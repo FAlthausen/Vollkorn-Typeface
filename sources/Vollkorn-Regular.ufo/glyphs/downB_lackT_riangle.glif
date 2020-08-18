@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="downBlackTriangle" format="2">
+  <advance width="816"/>
+  <unicode hex="25BC"/>
+  <outline>
+    <contour>
+      <point x="776" y="676" type="curve"/>
+      <point x="41" y="676" type="line"/>
+      <point x="32" y="665"/>
+      <point x="26" y="651"/>
+      <point x="25" y="636" type="curve"/>
+      <point x="390" y="-9" type="line"/>
+      <point x="403" y="-9"/>
+      <point x="417" y="-7"/>
+      <point x="430" y="-1" type="curve"/>
+      <point x="791" y="636" type="line"/>
+      <point x="789" y="650"/>
+      <point x="784" y="664"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>=25</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=25</string>
+    </dict>
+  </lib>
+</glyph>

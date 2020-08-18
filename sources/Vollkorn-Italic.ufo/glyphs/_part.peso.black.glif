@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_part.peso.black" format="2">
+  <advance width="581"/>
+  <anchor x="374" y="463" name="_center"/>
+  <outline>
+    <contour>
+      <point x="84" y="499" type="curve"/>
+      <point x="130" y="500"/>
+      <point x="176" y="500"/>
+      <point x="221" y="501" type="curve"/>
+      <point x="229" y="546" type="line"/>
+      <point x="104" y="546" type="line"/>
+      <point x="95" y="533"/>
+      <point x="88" y="516"/>
+    </contour>
+    <contour>
+      <point x="56" y="374" type="curve"/>
+      <point x="104" y="375"/>
+      <point x="152" y="375"/>
+      <point x="200" y="376" type="curve"/>
+      <point x="208" y="421" type="line"/>
+      <point x="76" y="421" type="line"/>
+      <point x="67" y="407"/>
+      <point x="59" y="389"/>
+    </contour>
+    <contour>
+      <point x="669" y="499" type="curve"/>
+      <point x="678" y="513"/>
+      <point x="686" y="526"/>
+      <point x="690" y="546" type="curve"/>
+      <point x="540" y="546" type="line"/>
+      <point x="529" y="501" type="line"/>
+      <point x="576" y="500"/>
+      <point x="622" y="500"/>
+    </contour>
+    <contour>
+      <point x="642" y="374" type="curve"/>
+      <point x="653" y="387"/>
+      <point x="660" y="403"/>
+      <point x="663" y="421" type="curve"/>
+      <point x="511" y="421" type="line"/>
+      <point x="501" y="376" type="line"/>
+      <point x="548" y="375"/>
+      <point x="595" y="375"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+    </dict>
+  </lib>
+</glyph>

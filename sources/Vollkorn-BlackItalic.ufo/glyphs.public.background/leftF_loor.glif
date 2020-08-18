@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="leftFloor" format="2">
+  <outline>
+    <component base="leftCeiling" yScale="-1" yOffset="473"/>
+  </outline>
+</glyph>

@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dieresiscomb.titl.A" format="2">
+  <anchor x="459" y="676" name="_top"/>
+  <outline>
+    <contour>
+      <point x="665" y="513" type="curve" smooth="yes"/>
+      <point x="729" y="513"/>
+      <point x="758" y="549"/>
+      <point x="766" y="588" type="curve" smooth="yes"/>
+      <point x="776" y="641"/>
+      <point x="740" y="683"/>
+      <point x="682" y="683" type="curve" smooth="yes"/>
+      <point x="627" y="683"/>
+      <point x="587" y="661"/>
+      <point x="579" y="618" type="curve" smooth="yes"/>
+      <point x="567" y="557"/>
+      <point x="595" y="513"/>
+    </contour>
+    <contour>
+      <point x="208" y="513" type="curve" smooth="yes"/>
+      <point x="259" y="513"/>
+      <point x="302" y="542"/>
+      <point x="309" y="580" type="curve" smooth="yes"/>
+      <point x="320" y="638"/>
+      <point x="297" y="683"/>
+      <point x="227" y="683" type="curve" smooth="yes"/>
+      <point x="163" y="683"/>
+      <point x="131" y="647"/>
+      <point x="124" y="608" type="curve" smooth="yes"/>
+      <point x="114" y="556"/>
+      <point x="147" y="513"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>=50</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=50</string>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>746</integer>
+    </dict>
+  </lib>
+</glyph>

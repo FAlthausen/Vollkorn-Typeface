@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bar" format="2">
+  <advance width="141"/>
+  <unicode hex="007C"/>
+  <outline>
+    <contour>
+      <point x="-45" y="-246" type="line"/>
+      <point x="-26" y="-249"/>
+      <point x="-11" y="-247"/>
+      <point x="5" y="-238" type="curve"/>
+      <point x="62" y="70"/>
+      <point x="122" y="383"/>
+      <point x="191" y="717" type="curve"/>
+      <point x="171" y="722"/>
+      <point x="155" y="720"/>
+      <point x="139" y="711" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>hyphen</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>hyphen</string>
+    </dict>
+  </lib>
+</glyph>

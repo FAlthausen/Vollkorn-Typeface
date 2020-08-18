@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="n" format="2">
+  <anchor x="336" y="0" name="bottom"/>
+  <anchor x="336" y="458" name="top"/>
+  <outline>
+    <contour>
+      <point x="31" y="426" type="curve"/>
+      <point x="22" y="404"/>
+      <point x="18" y="375"/>
+      <point x="18" y="351" type="curve"/>
+      <point x="82" y="351"/>
+      <point x="83" y="334"/>
+      <point x="70" y="262" type="curve" smooth="yes"/>
+      <point x="21" y="0" type="line"/>
+      <point x="214" y="0" type="line"/>
+      <point x="223" y="50" type="line"/>
+      <point x="252" y="278" type="line"/>
+      <point x="275" y="329"/>
+      <point x="284" y="359"/>
+      <point x="290" y="402" type="curve" smooth="yes"/>
+      <point x="294" y="430"/>
+      <point x="285" y="453"/>
+      <point x="259" y="467" type="curve"/>
+      <point x="193" y="441"/>
+      <point x="113" y="428"/>
+    </contour>
+    <component base="schulter.comp" xOffset="-7"/>
+  </outline>
+</glyph>

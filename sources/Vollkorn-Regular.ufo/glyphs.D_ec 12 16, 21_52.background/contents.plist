@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>elhook-cy</key>
+    <string>elhook-cy.glif</string>
+    <key>enhook-cy</key>
+    <string>enhook-cy.glif</string>
+    <key>enlefthook-cy</key>
+    <string>enlefthook-cy.glif</string>
+    <key>gestrokehook-cy</key>
+    <string>gestrokehook-cy.glif</string>
+    <key>ghemiddlehook-cy</key>
+    <string>ghemiddlehook-cy.glif</string>
+    <key>hahook-cy</key>
+    <string>hahook-cy.glif</string>
+    <key>kahook-cy</key>
+    <string>kahook-cy.glif</string>
+    <key>pemiddlehook-cy</key>
+    <string>pemiddlehook-cy.glif</string>
+  </dict>
+</plist>

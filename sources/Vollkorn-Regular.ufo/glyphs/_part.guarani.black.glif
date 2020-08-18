@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_part.guarani.black" format="2">
+  <advance width="653"/>
+  <anchor x="377" y="676" name="_top"/>
+  <outline>
+    <contour>
+      <point x="354" y="-91" type="line"/>
+      <point x="369" y="-91"/>
+      <point x="391" y="-86"/>
+      <point x="400" y="-80" type="curve"/>
+      <point x="400" y="-46"/>
+      <point x="399" y="-16"/>
+      <point x="399" y="13" type="curve"/>
+      <point x="354" y="13" type="line"/>
+    </contour>
+    <contour>
+      <point x="354" y="667" type="line"/>
+      <point x="399" y="667" type="line"/>
+      <point x="399" y="693"/>
+      <point x="400" y="719"/>
+      <point x="400" y="744" type="curve"/>
+      <point x="380" y="744"/>
+      <point x="368" y="742"/>
+      <point x="354" y="733" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+    </dict>
+  </lib>
+</glyph>

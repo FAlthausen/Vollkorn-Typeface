@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="descender-cy.center.001" format="2">
+  <outline>
+    <contour>
+      <point x="13" y="0" type="curve"/>
+      <point x="-56" y="0" type="line"/>
+      <point x="-88" y="-40" type="line"/>
+      <point x="-76" y="-101"/>
+      <point x="-71" y="-170"/>
+      <point x="-71" y="-233" type="curve"/>
+      <point x="-46" y="-242"/>
+      <point x="0" y="-242"/>
+      <point x="22" y="-233" type="curve"/>
+      <point x="21" y="-189"/>
+      <point x="25" y="-133"/>
+      <point x="32" y="-75" type="curve"/>
+      <point x="32" y="-45"/>
+      <point x="26" y="-21"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ratio" format="2">
+  <outline>
+    <component base="colon" xOffset="180"/>
+  </outline>
+</glyph>

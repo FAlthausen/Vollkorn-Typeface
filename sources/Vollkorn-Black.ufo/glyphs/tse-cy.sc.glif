@@ -1,0 +1,104 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tse-cy.sc" format="2">
+  <advance width="813"/>
+  <anchor x="384" y="500" name="top"/>
+  <outline>
+    <contour>
+      <point x="718" y="502" type="curve"/>
+      <point x="674" y="501"/>
+      <point x="604" y="500"/>
+      <point x="538" y="500" type="curve" smooth="yes"/>
+      <point x="477" y="500"/>
+      <point x="426" y="501"/>
+      <point x="404" y="502" type="curve"/>
+      <point x="404" y="479"/>
+      <point x="407" y="442"/>
+      <point x="411" y="425" type="curve"/>
+      <point x="447" y="421"/>
+      <point x="455" y="410"/>
+      <point x="455" y="326" type="curve" smooth="yes"/>
+      <point x="455" y="171" type="line" smooth="yes"/>
+      <point x="455" y="107"/>
+      <point x="450" y="89"/>
+      <point x="430" y="82" type="curve" smooth="yes"/>
+      <point x="424" y="80"/>
+      <point x="416" y="76"/>
+      <point x="384" y="76" type="curve" smooth="yes"/>
+      <point x="352" y="76"/>
+      <point x="344" y="80"/>
+      <point x="338" y="82" type="curve" smooth="yes"/>
+      <point x="318" y="89"/>
+      <point x="314" y="107"/>
+      <point x="314" y="171" type="curve" smooth="yes"/>
+      <point x="314" y="326" type="line" smooth="yes"/>
+      <point x="314" y="410"/>
+      <point x="319" y="421"/>
+      <point x="355" y="425" type="curve"/>
+      <point x="360" y="443"/>
+      <point x="365" y="482"/>
+      <point x="365" y="502" type="curve"/>
+      <point x="324" y="501"/>
+      <point x="260" y="500"/>
+      <point x="198" y="500" type="curve" smooth="yes"/>
+      <point x="131" y="500"/>
+      <point x="75" y="501"/>
+      <point x="50" y="502" type="curve"/>
+      <point x="50" y="479"/>
+      <point x="53" y="442"/>
+      <point x="58" y="425" type="curve"/>
+      <point x="106" y="421"/>
+      <point x="116" y="410"/>
+      <point x="116" y="326" type="curve" smooth="yes"/>
+      <point x="116" y="171" type="line" smooth="yes"/>
+      <point x="116" y="90"/>
+      <point x="108" y="81"/>
+      <point x="59" y="75" type="curve"/>
+      <point x="50" y="47"/>
+      <point x="50" y="22"/>
+      <point x="50" y="-2" type="curve"/>
+      <point x="86" y="-1"/>
+      <point x="166" y="0"/>
+      <point x="289" y="0" type="curve" smooth="yes"/>
+      <point x="469" y="0" type="line" smooth="yes"/>
+      <point x="592" y="0"/>
+      <point x="690" y="-1"/>
+      <point x="718" y="-2" type="curve"/>
+      <point x="718" y="21"/>
+      <point x="714" y="55"/>
+      <point x="709" y="75" type="curve"/>
+      <point x="659" y="84"/>
+      <point x="653" y="90"/>
+      <point x="653" y="171" type="curve" smooth="yes"/>
+      <point x="653" y="326" type="line" smooth="yes"/>
+      <point x="653" y="410"/>
+      <point x="660" y="421"/>
+      <point x="708" y="425" type="curve"/>
+      <point x="713" y="443"/>
+      <point x="718" y="482"/>
+    </contour>
+    <component base="__descender-cy.straight" xOffset="726"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>anchor</key>
+          <string>bottomright</string>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>__descender-cy.straight</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>=H+20</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>H</string>
+      <key>com.schriftgestaltung.Glyphs.layer.rightMetricsKey</key>
+      <string>=H</string>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="cedi.sc.BRACKET.166" format="2">
+  <advance width="606"/>
+  <outline>
+    <component base="c.sc"/>
+    <component base="_part.cedi.sc.black" xOffset="24"/>
+  </outline>
+</glyph>

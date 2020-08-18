@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="downAndUpArrow" format="2">
+  <advance width="863"/>
+  <unicode hex="21F5"/>
+  <outline>
+    <component base="upArrow" xOffset="354"/>
+    <component base="downArrow"/>
+  </outline>
+</glyph>

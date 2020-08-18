@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="iacute_j.loclNLD" format="2">
+  <advance width="447"/>
+  <outline>
+    <component base="_part.ij.dotless"/>
+    <component base="acutecomb" xOffset="48"/>
+    <component base="acutecomb" xOffset="251"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>_part.ij.dotless</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>1</integer>
+          <key>anchor</key>
+          <string>top_1</string>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>acutecomb</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>1</integer>
+          <key>anchor</key>
+          <string>top_2</string>
+          <key>index</key>
+          <integer>2</integer>
+          <key>name</key>
+          <string>acutecomb</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

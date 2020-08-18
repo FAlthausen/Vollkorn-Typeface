@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Chedescenderabkhasian-cy" format="2">
+  <advance width="781"/>
+  <unicode hex="04BE"/>
+  <outline>
+    <component base="Cheabkhasian-cy"/>
+    <component base="descender-cy.center.case" xOffset="371" yOffset="4"/>
+  </outline>
+</glyph>

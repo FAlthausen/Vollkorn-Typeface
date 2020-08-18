@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="caroncomb" format="2">
+  <unicode hex="030C"/>
+  <anchor x="249" y="458" name="_top"/>
+  <anchor x="249" y="723" name="top"/>
+  <outline>
+    <contour>
+      <point x="201" y="516" type="curve"/>
+      <point x="233" y="515"/>
+      <point x="266" y="518"/>
+      <point x="291" y="527" type="curve"/>
+      <point x="331" y="572"/>
+      <point x="391" y="624"/>
+      <point x="447" y="666" type="curve"/>
+      <point x="440" y="688"/>
+      <point x="417" y="716"/>
+      <point x="385" y="723" type="curve"/>
+      <point x="351" y="695"/>
+      <point x="298" y="662"/>
+      <point x="255" y="644" type="curve"/>
+      <point x="208" y="665"/>
+      <point x="160" y="694"/>
+      <point x="122" y="723" type="curve"/>
+      <point x="84" y="710"/>
+      <point x="60" y="693"/>
+      <point x="50" y="666" type="curve"/>
+      <point x="100" y="621"/>
+      <point x="154" y="569"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>=50</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=50</string>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>497</integer>
+    </dict>
+  </lib>
+</glyph>

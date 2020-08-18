@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Hahook-cy" format="2">
+  <outline>
+    <contour>
+      <point x="343" y="-246" type="curve"/>
+      <point x="493" y="-207"/>
+      <point x="610" y="-106"/>
+      <point x="636" y="8" type="curve" smooth="yes"/>
+      <point x="653" y="80"/>
+      <point x="638" y="152"/>
+      <point x="592" y="225" type="curve" smooth="yes"/>
+      <point x="411" y="513" type="line" smooth="yes"/>
+      <point x="372" y="574"/>
+      <point x="383" y="592"/>
+      <point x="427" y="601" type="curve"/>
+      <point x="434" y="620"/>
+      <point x="440" y="647"/>
+      <point x="441" y="679" type="curve"/>
+      <point x="378" y="676"/>
+      <point x="299" y="676"/>
+      <point x="263" y="676" type="curve" smooth="yes"/>
+      <point x="234" y="676"/>
+      <point x="145" y="676"/>
+      <point x="93" y="679" type="curve"/>
+      <point x="89" y="649"/>
+      <point x="90" y="620"/>
+      <point x="94" y="601" type="curve"/>
+      <point x="124" y="593"/>
+      <point x="134" y="588"/>
+      <point x="189" y="498" type="curve" smooth="yes"/>
+      <point x="417" y="124" type="line" smooth="yes"/>
+      <point x="444" y="80"/>
+      <point x="451" y="35"/>
+      <point x="442" y="-8" type="curve" smooth="yes"/>
+      <point x="428" y="-73"/>
+      <point x="377" y="-142"/>
+      <point x="312" y="-167" type="curve"/>
+      <point x="312" y="-203"/>
+      <point x="322" y="-228"/>
+    </contour>
+  </outline>
+</glyph>

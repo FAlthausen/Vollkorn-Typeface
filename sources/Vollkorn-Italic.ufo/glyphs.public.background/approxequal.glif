@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="approxequal" format="2">
+  <outline>
+    <component base="similar" xOffset="24" yOffset="98"/>
+    <component base="similar" xOffset="-12" yOffset="-90"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>similar</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

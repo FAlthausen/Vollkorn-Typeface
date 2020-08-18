@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Yi_Yi-cy.rlig" format="2">
+  <advance width="708"/>
+  <anchor x="353" y="0" name="caret_1"/>
+  <outline>
+    <contour>
+      <point x="100" y="737" type="curve" smooth="yes"/>
+      <point x="131" y="737"/>
+      <point x="155" y="758"/>
+      <point x="155" y="787" type="curve" smooth="yes"/>
+      <point x="155" y="816"/>
+      <point x="138" y="839"/>
+      <point x="98" y="839" type="curve" smooth="yes"/>
+      <point x="59" y="839"/>
+      <point x="43" y="813"/>
+      <point x="43" y="785" type="curve" smooth="yes"/>
+      <point x="43" y="758"/>
+      <point x="66" y="737"/>
+    </contour>
+    <contour>
+      <point x="256" y="738" type="curve" smooth="yes"/>
+      <point x="296" y="738"/>
+      <point x="310" y="764"/>
+      <point x="310" y="791" type="curve" smooth="yes"/>
+      <point x="310" y="819"/>
+      <point x="286" y="839"/>
+      <point x="253" y="839" type="curve" smooth="yes"/>
+      <point x="220" y="839"/>
+      <point x="197" y="821"/>
+      <point x="197" y="791" type="curve" smooth="yes"/>
+      <point x="197" y="760"/>
+      <point x="217" y="738"/>
+    </contour>
+    <contour>
+      <point x="454" y="737" type="curve" smooth="yes"/>
+      <point x="485" y="737"/>
+      <point x="509" y="758"/>
+      <point x="509" y="787" type="curve" smooth="yes"/>
+      <point x="509" y="816"/>
+      <point x="492" y="839"/>
+      <point x="452" y="839" type="curve" smooth="yes"/>
+      <point x="413" y="839"/>
+      <point x="397" y="813"/>
+      <point x="397" y="785" type="curve" smooth="yes"/>
+      <point x="397" y="758"/>
+      <point x="420" y="737"/>
+    </contour>
+    <contour>
+      <point x="610" y="738" type="curve" smooth="yes"/>
+      <point x="650" y="738"/>
+      <point x="664" y="764"/>
+      <point x="664" y="791" type="curve" smooth="yes"/>
+      <point x="664" y="819"/>
+      <point x="640" y="839"/>
+      <point x="607" y="839" type="curve" smooth="yes"/>
+      <point x="574" y="839"/>
+      <point x="551" y="821"/>
+      <point x="551" y="791" type="curve" smooth="yes"/>
+      <point x="551" y="760"/>
+      <point x="571" y="738"/>
+    </contour>
+    <component base="I" xOffset="-1"/>
+    <component base="I" xOffset="353"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.layer.leftMetricsKey</key>
+      <string>=Yi-cy</string>
+      <key>com.schriftgestaltung.Glyphs.layer.rightMetricsKey</key>
+      <string>=Yi-cy</string>
+    </dict>
+  </lib>
+</glyph>

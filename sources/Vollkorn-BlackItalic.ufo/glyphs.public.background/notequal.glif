@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="notequal" format="2">
+  <outline>
+    <contour>
+      <point x="206" y="-36" type="curve"/>
+      <point x="415" y="527" type="line"/>
+      <point x="396" y="537"/>
+      <point x="372" y="545"/>
+      <point x="348" y="545" type="curve"/>
+      <point x="136" y="-23" type="line"/>
+      <point x="151" y="-31"/>
+      <point x="174" y="-36"/>
+    </contour>
+  </outline>
+</glyph>

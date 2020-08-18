@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="downArrow" format="2">
+  <outline>
+    <component base="leftArrow" xScale="0" xyScale="1" yxScale="-1" yScale="0" xOffset="446" yOffset="-85"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>leftArrow</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="muchgreater" format="2">
+  <advance width="550"/>
+  <unicode hex="226B"/>
+  <outline>
+    <contour>
+      <point x="57" y="1" type="curve"/>
+      <point x="155" y="88"/>
+      <point x="227" y="145"/>
+      <point x="297" y="207" type="curve"/>
+      <point x="314" y="233"/>
+      <point x="318" y="262"/>
+      <point x="310" y="293" type="curve"/>
+      <point x="74" y="511" type="line"/>
+      <point x="43" y="501"/>
+      <point x="14" y="474"/>
+      <point x="5" y="447" type="curve"/>
+      <point x="238" y="241" type="line"/>
+      <point x="239" y="277" type="line"/>
+      <point x="16" y="89" type="line"/>
+      <point x="17" y="52"/>
+      <point x="31" y="23"/>
+    </contour>
+    <contour>
+      <point x="288" y="1" type="curve"/>
+      <point x="386" y="88"/>
+      <point x="457" y="145"/>
+      <point x="527" y="207" type="curve"/>
+      <point x="544" y="233"/>
+      <point x="549" y="262"/>
+      <point x="541" y="293" type="curve"/>
+      <point x="304" y="511" type="line"/>
+      <point x="275" y="501"/>
+      <point x="244" y="474"/>
+      <point x="236" y="447" type="curve"/>
+      <point x="469" y="241" type="line"/>
+      <point x="470" y="277" type="line"/>
+      <point x="246" y="89" type="line"/>
+      <point x="247" y="52"/>
+      <point x="261" y="23"/>
+    </contour>
+  </outline>
+</glyph>

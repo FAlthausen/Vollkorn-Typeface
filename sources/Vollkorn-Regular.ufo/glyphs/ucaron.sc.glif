@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ucaron.sc" format="2">
+  <advance width="649"/>
+  <outline>
+    <component base="u.sc"/>
+    <component base="caroncomb" xOffset="133" yOffset="42"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

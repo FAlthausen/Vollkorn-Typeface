@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="strokelongcomb" format="2">
+  <anchor x="342" y="258" name="_center"/>
+  <outline>
+    <contour>
+      <point x="50" y="235" type="curve"/>
+      <point x="221" y="238"/>
+      <point x="462" y="238"/>
+      <point x="624" y="238" type="curve"/>
+      <point x="630" y="253"/>
+      <point x="633" y="267"/>
+      <point x="633" y="281" type="curve"/>
+      <point x="59" y="281" type="line"/>
+      <point x="53" y="269"/>
+      <point x="50" y="243"/>
+    </contour>
+  </outline>
+</glyph>

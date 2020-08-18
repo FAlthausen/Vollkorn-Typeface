@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="rightOverLeftArrow.case" format="2">
+  <outline>
+    <component base="rightOverLeftArrow" yOffset="96"/>
+  </outline>
+</glyph>

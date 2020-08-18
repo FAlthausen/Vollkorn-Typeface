@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="measuredangle" format="2">
+  <outline>
+    <contour>
+      <point x="333" y="90" type="curve"/>
+      <point x="428" y="90" type="line"/>
+      <point x="428" y="210"/>
+      <point x="369" y="308"/>
+      <point x="241" y="401" type="curve"/>
+      <point x="188" y="331" type="line"/>
+      <point x="287" y="258"/>
+      <point x="333" y="183"/>
+    </contour>
+    <component base="angle"/>
+  </outline>
+</glyph>

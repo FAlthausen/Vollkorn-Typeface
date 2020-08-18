@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="four.lf" format="2">
+  <advance width="599"/>
+  <outline>
+    <contour>
+      <point x="146" y="-3" type="curve"/>
+      <point x="198" y="0"/>
+      <point x="269" y="0"/>
+      <point x="353" y="0" type="curve" smooth="yes"/>
+      <point x="435" y="0"/>
+      <point x="475" y="0"/>
+      <point x="519" y="-3" type="curve"/>
+      <point x="521" y="21"/>
+      <point x="521" y="50"/>
+      <point x="516" y="75" type="curve"/>
+      <point x="457" y="88"/>
+      <point x="449" y="105"/>
+      <point x="461" y="167" type="curve" smooth="yes"/>
+      <point x="559" y="676" type="line"/>
+      <point x="513" y="683"/>
+      <point x="447" y="685"/>
+      <point x="399" y="685" type="curve"/>
+      <point x="46" y="281" type="line"/>
+      <point x="44" y="244"/>
+      <point x="51" y="202"/>
+      <point x="67" y="171" type="curve"/>
+      <point x="155" y="175"/>
+      <point x="331" y="176"/>
+      <point x="544" y="176" type="curve"/>
+      <point x="553" y="221"/>
+      <point x="565" y="274"/>
+      <point x="579" y="304" type="curve"/>
+      <point x="572" y="326"/>
+      <point x="558" y="337"/>
+      <point x="535" y="337" type="curve" smooth="yes"/>
+      <point x="440" y="337" type="line"/>
+      <point x="351" y="322" type="line"/>
+      <point x="123" y="322" type="line"/>
+      <point x="172" y="315" type="line"/>
+      <point x="256" y="399"/>
+      <point x="325" y="472"/>
+      <point x="388" y="568" type="curve"/>
+      <point x="379" y="567" type="line"/>
+      <point x="355" y="519"/>
+      <point x="340" y="479"/>
+      <point x="317" y="356" type="curve" smooth="yes"/>
+      <point x="308" y="308" type="line"/>
+      <point x="290" y="203" type="line"/>
+      <point x="283" y="167" type="line" smooth="yes"/>
+      <point x="270" y="101"/>
+      <point x="254" y="86"/>
+      <point x="164" y="75" type="curve"/>
+      <point x="156" y="55"/>
+      <point x="148" y="26"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>four</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>four</string>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
+    </dict>
+  </lib>
+</glyph>

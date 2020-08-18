@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="macroncomb_gravecomb" format="2">
+  <outline>
+    <component base="macroncomb.case" xOffset="-22" yOffset="-200"/>
+    <component base="gravecomb.case" xOffset="46" yOffset="-67"/>
+  </outline>
+</glyph>

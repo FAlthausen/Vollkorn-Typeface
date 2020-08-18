@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="napostrophe" format="2">
+  <outline>
+    <contour>
+      <point x="160" y="615" type="move"/>
+    </contour>
+    <component base="apostrophemod"/>
+    <component base="n" xOffset="220"/>
+  </outline>
+</glyph>

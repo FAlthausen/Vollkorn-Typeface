@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="j" format="2">
+  <advance width="233"/>
+  <unicode hex="006A"/>
+  <outline>
+    <component base="jdotless"/>
+    <component base="dotaccentcomb.ibasic"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>g</string>
+    </dict>
+  </lib>
+</glyph>

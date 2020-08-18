@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dieresiscomb_acutecomb" format="2">
+  <outline>
+    <component base="dieresiscomb.i.case" xOffset="-39" yOffset="-200"/>
+    <component base="acutecomb.case" xOffset="118" yOffset="-45"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>=50</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=50</string>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>509</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="fita-cy.sc" format="2">
+  <outline>
+    <component base="o.sc"/>
+    <component base="_part.Fita-cy.sc" xOffset="18"/>
+  </outline>
+</glyph>

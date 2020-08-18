@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="cheabkhasian-cy.sc" format="2">
+  <advance width="780"/>
+  <outline>
+    <component base="_part.cheabkhasian-cy.sc" xOffset="180"/>
+    <component base="_part.cheabkhasian" xOffset="53" yOffset="34"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>height</key>
+        <integer>74</integer>
+        <key>weight</key>
+        <integer>-8</integer>
+        <key>width</key>
+        <integer>86</integer>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>_part.cheabkhasian-cy.sc</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>_part.cheabkhasian</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>=+200</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=O+20</string>
+      <key>com.schriftgestaltung.Glyphs.layer.leftMetricsKey</key>
+      <string>=+180</string>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

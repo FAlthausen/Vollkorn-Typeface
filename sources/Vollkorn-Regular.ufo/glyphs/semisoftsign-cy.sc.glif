@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="semisoftsign-cy.sc" format="2">
+  <advance width="610"/>
+  <outline>
+    <component base="softsign-cy.sc"/>
+    <component base="strokeshortcomb" xOffset="11" yOffset="9"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=Softsign-cy+20</string>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

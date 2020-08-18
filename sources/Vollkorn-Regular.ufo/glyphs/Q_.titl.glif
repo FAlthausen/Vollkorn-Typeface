@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Q.titl" format="2">
+  <advance width="731"/>
+  <outline>
+    <component base="O"/>
+    <component base="_part.Qss02" xOffset="386"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>_part.Qss02</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>O</string>
+    </dict>
+  </lib>
+</glyph>

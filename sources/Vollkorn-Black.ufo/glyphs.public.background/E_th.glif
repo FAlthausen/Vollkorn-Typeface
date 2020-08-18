@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Eth" format="2">
+  <outline>
+    <contour>
+      <point x="122" y="248" type="curve"/>
+      <point x="124" y="337" type="line"/>
+      <point x="32" y="337" type="line"/>
+      <point x="24" y="315"/>
+      <point x="19" y="284"/>
+      <point x="19" y="246" type="curve"/>
+      <point x="60" y="246"/>
+      <point x="92" y="248"/>
+    </contour>
+    <contour>
+      <point x="278" y="337" type="line"/>
+      <point x="276" y="249" type="line"/>
+      <point x="338" y="249"/>
+      <point x="366" y="249"/>
+      <point x="434" y="248" type="curve"/>
+      <point x="443" y="273"/>
+      <point x="447" y="302"/>
+      <point x="447" y="337" type="curve"/>
+    </contour>
+    <component base="D" xOffset="8"/>
+  </outline>
+</glyph>

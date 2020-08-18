@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tbar" format="2">
+  <advance width="399"/>
+  <unicode hex="0167"/>
+  <outline>
+    <component base="t"/>
+    <component base="strokeshortcomb" xOffset="-62" yOffset="-85"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>t</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>t</string>
+    </dict>
+  </lib>
+</glyph>

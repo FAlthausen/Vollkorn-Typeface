@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="cent" format="2">
+  <outline>
+    <contour>
+      <point x="245" y="606" type="curve"/>
+      <point x="245" y="-128" type="line"/>
+      <point x="265" y="-136"/>
+      <point x="305" y="-139"/>
+      <point x="334" y="-139" type="curve"/>
+      <point x="332" y="41" type="line"/>
+      <point x="332" y="409" type="line"/>
+      <point x="334" y="591" type="line"/>
+      <point x="320" y="600"/>
+      <point x="277" y="606"/>
+    </contour>
+    <component base="c"/>
+  </outline>
+</glyph>

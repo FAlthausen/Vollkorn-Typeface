@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="five.tf" format="2">
+  <advance width="550"/>
+  <guideline x="-18" y="11" angle="90"/>
+  <guideline x="532" y="11" angle="90"/>
+  <outline>
+    <contour>
+      <point x="388" y="211" type="move"/>
+    </contour>
+    <component base="five.lf" xOffset="32"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
+      <string>=550</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

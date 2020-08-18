@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="figuredash" format="2">
+  <advance width="550"/>
+  <unicode hex="2012"/>
+  <outline>
+    <component base="endash" xOffset="-23"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
+      <string>=550</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ohorn" format="2">
+  <outline>
+    <component base="O"/>
+    <component base="horncomb.case.O" xOffset="590" yOffset="-3"/>
+  </outline>
+</glyph>

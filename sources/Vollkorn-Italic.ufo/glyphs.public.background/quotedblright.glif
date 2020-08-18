@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="quotedblright" format="2">
+  <outline>
+    <component base="quotedblbase" xOffset="150" yOffset="614"/>
+  </outline>
+</glyph>

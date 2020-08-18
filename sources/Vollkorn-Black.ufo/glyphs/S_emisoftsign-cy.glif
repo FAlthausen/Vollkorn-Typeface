@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Semisoftsign-cy" format="2">
+  <advance width="713"/>
+  <unicode hex="048C"/>
+  <outline>
+    <component base="Softsign-cy"/>
+    <component base="strokeshortcomb.case" xOffset="-60" yOffset="146"/>
+  </outline>
+</glyph>

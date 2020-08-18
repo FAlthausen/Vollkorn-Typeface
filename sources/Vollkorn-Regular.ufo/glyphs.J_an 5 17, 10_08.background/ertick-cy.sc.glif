@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ertick-cy.sc" format="2">
+  <outline>
+    <component base="p.sc"/>
+    <component base="_part.ertick-cy" yOffset="161"/>
+  </outline>
+</glyph>

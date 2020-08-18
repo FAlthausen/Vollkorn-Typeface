@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_part.QdoubleStruck" format="2">
+  <advance width="467"/>
+  <anchor x="34" y="0" name="_bottom"/>
+  <outline>
+    <contour>
+      <point x="304" y="-184" type="curve"/>
+      <point x="355" y="-161"/>
+      <point x="389" y="-150"/>
+      <point x="428" y="-138" type="curve"/>
+      <point x="432" y="-125"/>
+      <point x="434" y="-110"/>
+      <point x="434" y="-98" type="curve"/>
+      <point x="298" y="-112"/>
+      <point x="259" y="-10"/>
+      <point x="127" y="18" type="curve"/>
+      <point x="33" y="-9" type="line"/>
+      <point x="183" y="-25"/>
+      <point x="174" y="-151"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="seven.lf.ss17" format="2">
+  <advance width="476"/>
+  <outline>
+    <contour>
+      <point x="110" y="305" type="curve"/>
+      <point x="182" y="308"/>
+      <point x="273" y="308"/>
+      <point x="415" y="308" type="curve"/>
+      <point x="424" y="322"/>
+      <point x="426" y="341"/>
+      <point x="426" y="361" type="curve"/>
+      <point x="121" y="361" type="line"/>
+      <point x="114" y="348"/>
+      <point x="110" y="323"/>
+    </contour>
+    <component base="seven.lf"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>seven.lf</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>seven.lf</string>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
+    </dict>
+  </lib>
+</glyph>

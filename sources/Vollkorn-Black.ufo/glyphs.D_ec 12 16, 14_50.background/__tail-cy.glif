@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="__tail-cy" format="2">
+  <anchor x="163" y="75" name="_bottomright"/>
+  <outline>
+    <contour>
+      <point x="118" y="-144" type="curve"/>
+      <point x="134" y="-88"/>
+      <point x="155" y="-36"/>
+      <point x="174" y="0" type="curve"/>
+      <point x="174" y="30"/>
+      <point x="171" y="54"/>
+      <point x="163" y="75" type="curve"/>
+      <point x="44" y="35" type="line"/>
+      <point x="44" y="-21"/>
+      <point x="35" y="-74"/>
+      <point x="20" y="-114" type="curve"/>
+      <point x="47" y="-137"/>
+      <point x="75" y="-146"/>
+    </contour>
+    <component base="descender-cy" xOffset="120" yOffset="75"/>
+  </outline>
+</glyph>

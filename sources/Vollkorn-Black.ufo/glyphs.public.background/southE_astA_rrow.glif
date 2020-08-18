@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="southEastArrow" format="2">
+  <outline>
+    <component base="northEastArrow" yScale="-1" xOffset="11" yOffset="705"/>
+  </outline>
+</glyph>

@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="gestrokehook-cy" format="2">
+  <advance width="524"/>
+  <unicode hex="04FB"/>
+  <outline>
+    <component base="ge-cy"/>
+    <component base="strokeshortcomb" xOffset="-56" yOffset="-101"/>
+    <component base="_part.hook-cy" xOffset="-44"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>ge-cy</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>strokeshortcomb</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>2</integer>
+          <key>name</key>
+          <string>_part.hook-cy</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

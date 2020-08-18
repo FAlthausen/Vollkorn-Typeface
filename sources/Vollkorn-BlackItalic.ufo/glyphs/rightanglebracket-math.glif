@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="rightanglebracket-math" format="2">
+  <advance width="430"/>
+  <unicode hex="27E9"/>
+  <outline>
+    <contour>
+      <point x="219" y="734" type="curve"/>
+      <point x="191" y="734"/>
+      <point x="165" y="731"/>
+      <point x="145" y="722" type="curve"/>
+      <point x="151" y="568"/>
+      <point x="177" y="379"/>
+      <point x="216" y="194" type="curve"/>
+      <point x="227" y="248" type="line"/>
+      <point x="117" y="72"/>
+      <point x="19" y="-110"/>
+      <point x="-48" y="-261" type="curve"/>
+      <point x="-26" y="-271"/>
+      <point x="-7" y="-274"/>
+      <point x="22" y="-271" type="curve"/>
+      <point x="124" y="-99"/>
+      <point x="274" y="91"/>
+      <point x="382" y="199" type="curve"/>
+      <point x="388" y="220"/>
+      <point x="391" y="245"/>
+      <point x="388" y="263" type="curve"/>
+      <point x="324" y="372"/>
+      <point x="252" y="562"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>leftanglebracket-math</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>=|leftanglebracket-math</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=|leftanglebracket-math</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string></string>
+    </dict>
+  </lib>
+</glyph>

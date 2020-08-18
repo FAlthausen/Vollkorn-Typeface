@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="haabkhasian-cy" format="2">
+  <outline>
+    <contour>
+      <point x="308" y="-6" type="curve" smooth="yes"/>
+      <point x="483" y="-6"/>
+      <point x="587" y="106"/>
+      <point x="587" y="259" type="curve" smooth="yes"/>
+      <point x="587" y="372"/>
+      <point x="530" y="438"/>
+      <point x="438" y="438" type="curve" smooth="yes"/>
+      <point x="337" y="438"/>
+      <point x="270" y="359"/>
+      <point x="270" y="252" type="curve" smooth="yes"/>
+      <point x="270" y="99"/>
+      <point x="405" y="-6"/>
+      <point x="584" y="-6" type="curve"/>
+      <point x="594" y="19"/>
+      <point x="598" y="50"/>
+      <point x="593" y="72" type="curve"/>
+      <point x="451" y="72"/>
+      <point x="397" y="130"/>
+      <point x="397" y="273" type="curve" smooth="yes"/>
+      <point x="397" y="338"/>
+      <point x="408" y="366"/>
+      <point x="427" y="366" type="curve" smooth="yes"/>
+      <point x="447" y="366"/>
+      <point x="455" y="335"/>
+      <point x="455" y="262" type="curve" smooth="yes"/>
+      <point x="455" y="118"/>
+      <point x="424" y="57"/>
+      <point x="349" y="57" type="curve" smooth="yes"/>
+      <point x="275" y="57"/>
+      <point x="217" y="117"/>
+      <point x="217" y="239" type="curve" smooth="yes"/>
+      <point x="217" y="327"/>
+      <point x="247" y="394"/>
+      <point x="293" y="394" type="curve"/>
+      <point x="304" y="417"/>
+      <point x="307" y="441"/>
+      <point x="304" y="466" type="curve"/>
+      <point x="138" y="466"/>
+      <point x="28" y="371"/>
+      <point x="28" y="232" type="curve" smooth="yes"/>
+      <point x="28" y="88"/>
+      <point x="147" y="-6"/>
+    </contour>
+  </outline>
+</glyph>

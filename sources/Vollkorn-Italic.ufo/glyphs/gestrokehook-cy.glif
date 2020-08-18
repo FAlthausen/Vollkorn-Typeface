@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="gestrokehook-cy" format="2">
+  <advance width="388"/>
+  <unicode hex="04FB"/>
+  <outline>
+    <component base="ghestroke-cy"/>
+    <component base="_part.gestrokehook-cy" xOffset="148"/>
+  </outline>
+</glyph>

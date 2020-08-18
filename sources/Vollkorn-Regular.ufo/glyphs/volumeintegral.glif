@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="volumeintegral" format="2">
+  <advance width="784"/>
+  <unicode hex="2230"/>
+  <outline>
+    <contour>
+      <point x="392" y="114" type="curve" smooth="yes"/>
+      <point x="628" y="114"/>
+      <point x="745" y="172"/>
+      <point x="745" y="288" type="curve" smooth="yes"/>
+      <point x="745" y="404"/>
+      <point x="628" y="461"/>
+      <point x="392" y="461" type="curve" smooth="yes"/>
+      <point x="156" y="461"/>
+      <point x="39" y="404"/>
+      <point x="39" y="288" type="curve" smooth="yes"/>
+      <point x="39" y="172"/>
+      <point x="156" y="114"/>
+    </contour>
+    <contour>
+      <point x="392" y="155" type="curve" smooth="yes"/>
+      <point x="187" y="155"/>
+      <point x="85" y="199"/>
+      <point x="85" y="288" type="curve" smooth="yes"/>
+      <point x="85" y="376"/>
+      <point x="187" y="420"/>
+      <point x="392" y="420" type="curve" smooth="yes"/>
+      <point x="598" y="420"/>
+      <point x="700" y="376"/>
+      <point x="700" y="288" type="curve" smooth="yes"/>
+      <point x="700" y="199"/>
+      <point x="598" y="155"/>
+    </contour>
+    <component base="tripleintegral" xOffset="28"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>tripleintegral</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>=contourintegral</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=contourintegral</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="threeemdash" format="2">
+  <advance width="3072"/>
+  <unicode hex="2E3B"/>
+  <outline>
+    <contour>
+      <point x="46" y="230" type="curve"/>
+      <point x="1401" y="233"/>
+      <point x="2363" y="233"/>
+      <point x="3019" y="233" type="curve"/>
+      <point x="3029" y="247"/>
+      <point x="3035" y="264"/>
+      <point x="3037" y="286" type="curve"/>
+      <point x="64" y="286" type="line"/>
+      <point x="54" y="273"/>
+      <point x="48" y="255"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>hyphen</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
+      <string>=3072</string>
+    </dict>
+  </lib>
+</glyph>

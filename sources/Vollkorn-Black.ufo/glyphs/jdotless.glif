@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="jdotless" format="2">
+  <advance width="335"/>
+  <unicode hex="0237"/>
+  <anchor x="196" y="233" name="center"/>
+  <anchor x="187" y="458" name="top"/>
+  <outline>
+    <contour>
+      <point x="62" y="-249" type="curve"/>
+      <point x="154" y="-204"/>
+      <point x="291" y="-92"/>
+      <point x="291" y="83" type="curve" smooth="yes"/>
+      <point x="291" y="403" type="line" smooth="yes"/>
+      <point x="291" y="438"/>
+      <point x="278" y="457"/>
+      <point x="256" y="467" type="curve"/>
+      <point x="224" y="451"/>
+      <point x="139" y="434"/>
+      <point x="40" y="434" type="curve"/>
+      <point x="29" y="413"/>
+      <point x="27" y="384"/>
+      <point x="27" y="359" type="curve"/>
+      <point x="87" y="353"/>
+      <point x="101" y="335"/>
+      <point x="101" y="289" type="curve" smooth="yes"/>
+      <point x="101" y="37" type="line" smooth="yes"/>
+      <point x="101" y="-58"/>
+      <point x="80" y="-110"/>
+      <point x="15" y="-175" type="curve"/>
+      <point x="19" y="-207"/>
+      <point x="37" y="-236"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>j</string>
+    </dict>
+  </lib>
+</glyph>

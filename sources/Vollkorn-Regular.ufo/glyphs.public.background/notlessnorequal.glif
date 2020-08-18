@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="notlessnorequal" format="2">
+  <outline>
+    <component base="lessequal"/>
+    <component base="_negationslash" xOffset="-8"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>lessequal</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

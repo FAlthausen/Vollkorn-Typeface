@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="macroncomb_acutecomb" format="2">
+  <outline>
+    <component base="macroncomb.case" yOffset="-200"/>
+    <component base="acutecomb.case" xOffset="149" yOffset="-71"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>464</integer>
+    </dict>
+  </lib>
+</glyph>

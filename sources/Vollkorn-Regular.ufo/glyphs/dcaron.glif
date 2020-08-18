@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dcaron" format="2">
+  <advance width="660"/>
+  <unicode hex="010F"/>
+  <outline>
+    <contour>
+      <point x="435" y="336" type="move"/>
+    </contour>
+    <component base="d"/>
+    <component base="quoteright" xOffset="463"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>d</string>
+    </dict>
+  </lib>
+</glyph>

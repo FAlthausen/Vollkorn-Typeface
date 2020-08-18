@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bracketright" format="2">
+  <advance width="307.591"/>
+  <unicode hex="005D"/>
+  <outline>
+    <contour>
+      <point x="170" y="-269" type="curve"/>
+      <point x="348" y="742" type="line"/>
+      <point x="266" y="740"/>
+      <point x="200" y="740"/>
+      <point x="130" y="742" type="curve"/>
+      <point x="116" y="722"/>
+      <point x="108" y="689"/>
+      <point x="108" y="659" type="curve"/>
+      <point x="194" y="652"/>
+      <point x="203" y="640"/>
+      <point x="192" y="575" type="curve" smooth="yes"/>
+      <point x="73" y="-96" type="line" smooth="yes"/>
+      <point x="61" y="-165"/>
+      <point x="41" y="-180"/>
+      <point x="-38" y="-184" type="curve"/>
+      <point x="-53" y="-207"/>
+      <point x="-59" y="-243"/>
+      <point x="-58" y="-269" type="curve"/>
+      <point x="9" y="-265"/>
+      <point x="101" y="-265"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>=|parenleft</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=|parenleft</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="leftOverRightHarpoon.case" format="2">
+  <outline>
+    <component base="leftOverRightHarpoon" yOffset="96"/>
+  </outline>
+</glyph>

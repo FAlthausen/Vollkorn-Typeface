@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ij" format="2">
+  <advance width="612"/>
+  <unicode hex="0133"/>
+  <outline>
+    <contour>
+      <point x="213.0" y="505" type="curve" smooth="yes"/>
+      <point x="280.5" y="505"/>
+      <point x="317.40000000000003" y="533"/>
+      <point x="325.5" y="587" type="curve" smooth="yes"/>
+      <point x="334.5" y="646"/>
+      <point x="299.40000000000003" y="685"/>
+      <point x="248.1" y="685" type="curve" smooth="yes"/>
+      <point x="183.3" y="685"/>
+      <point x="142.8" y="655"/>
+      <point x="135.60000000000002" y="601" type="curve" smooth="yes"/>
+      <point x="128.4" y="543"/>
+      <point x="159.0" y="505"/>
+    </contour>
+    <contour>
+      <point x="490.0" y="505" type="curve" smooth="yes"/>
+      <point x="557.5" y="505"/>
+      <point x="594.4000000000001" y="533"/>
+      <point x="602.5" y="587" type="curve" smooth="yes"/>
+      <point x="611.5" y="646"/>
+      <point x="576.4000000000001" y="685"/>
+      <point x="525.1" y="685" type="curve" smooth="yes"/>
+      <point x="460.3" y="685"/>
+      <point x="419.8" y="655"/>
+      <point x="412.6" y="601" type="curve" smooth="yes"/>
+      <point x="405.4" y="543"/>
+      <point x="436.0" y="505"/>
+    </contour>
+    <component base="_part.ij.dotless"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>anchor</key>
+          <string>top_1</string>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>dotaccentcomb</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>anchor</key>
+          <string>top_2</string>
+          <key>index</key>
+          <integer>2</integer>
+          <key>name</key>
+          <string>dotaccentcomb</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>i</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=g</string>
+    </dict>
+  </lib>
+</glyph>

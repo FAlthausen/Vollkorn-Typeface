@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="kje-cy.sc" format="2">
+  <outline>
+    <component base="ka-cy.sc"/>
+    <component base="acutecomb" xOffset="252" yOffset="42"/>
+  </outline>
+</glyph>

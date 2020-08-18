@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hbar" format="2">
+  <outline>
+    <contour>
+      <point x="374" y="554" type="curve"/>
+      <point x="32" y="554" type="line"/>
+      <point x="20" y="524"/>
+      <point x="15" y="485"/>
+      <point x="15" y="459" type="curve"/>
+      <point x="117" y="467"/>
+      <point x="277" y="467"/>
+      <point x="362" y="467" type="curve"/>
+      <point x="372" y="497"/>
+      <point x="374" y="531"/>
+    </contour>
+    <component base="h"/>
+    <component base="_part.istroke" xOffset="44" yOffset="171"/>
+  </outline>
+</glyph>

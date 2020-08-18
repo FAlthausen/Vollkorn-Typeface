@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="twodotenleader" format="2">
+  <advance width="546"/>
+  <unicode hex="2025"/>
+  <outline>
+    <component base="_part.dot"/>
+    <component base="_part.dot" xOffset="310"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>_part.dot</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

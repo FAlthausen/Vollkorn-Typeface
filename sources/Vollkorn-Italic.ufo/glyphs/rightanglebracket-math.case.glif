@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="rightanglebracket-math.case" format="2">
+  <advance width="347"/>
+  <outline>
+    <component base="rightanglebracket-math" xOffset="20" yOffset="105"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>=rightanglebracket-math</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=rightanglebracket-math</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string></string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

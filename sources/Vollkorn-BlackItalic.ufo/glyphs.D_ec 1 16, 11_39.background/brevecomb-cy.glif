@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="brevecomb-cy" format="2">
+  <outline>
+    <contour>
+      <point x="266" y="517" type="curve" smooth="yes"/>
+      <point x="419" y="517"/>
+      <point x="500" y="580"/>
+      <point x="500" y="701" type="curve"/>
+      <point x="471" y="715"/>
+      <point x="421" y="720"/>
+      <point x="384" y="713" type="curve"/>
+      <point x="378" y="624"/>
+      <point x="350" y="589"/>
+      <point x="286" y="589" type="curve" smooth="yes"/>
+      <point x="216" y="589"/>
+      <point x="182" y="624"/>
+      <point x="167" y="713" type="curve"/>
+      <point x="130" y="720"/>
+      <point x="80" y="715"/>
+      <point x="51" y="701" type="curve"/>
+      <point x="51" y="580"/>
+      <point x="125" y="517"/>
+    </contour>
+    <contour>
+      <point x="328" y="517" type="curve" smooth="yes"/>
+      <point x="478" y="517"/>
+      <point x="567" y="573"/>
+      <point x="587" y="689" type="curve"/>
+      <point x="563" y="711"/>
+      <point x="514" y="721"/>
+      <point x="477" y="722" type="curve"/>
+      <point x="456" y="631"/>
+      <point x="417" y="589"/>
+      <point x="350" y="589" type="curve" smooth="yes"/>
+      <point x="283" y="589"/>
+      <point x="257" y="617"/>
+      <point x="256" y="703" type="curve"/>
+      <point x="222" y="717"/>
+      <point x="172" y="718"/>
+      <point x="143" y="712" type="curve"/>
+      <point x="121" y="587"/>
+      <point x="184" y="517"/>
+    </contour>
+  </outline>
+</glyph>

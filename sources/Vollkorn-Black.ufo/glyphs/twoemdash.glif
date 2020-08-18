@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="twoemdash" format="2">
+  <advance width="2048"/>
+  <unicode hex="2E3A"/>
+  <outline>
+    <contour>
+      <point x="60" y="213" type="curve"/>
+      <point x="682" y="218"/>
+      <point x="1211" y="218"/>
+      <point x="1973" y="218" type="curve"/>
+      <point x="1982" y="241"/>
+      <point x="1988" y="271"/>
+      <point x="1988" y="303" type="curve"/>
+      <point x="75" y="303" type="line"/>
+      <point x="67" y="284"/>
+      <point x="60" y="248"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>=60</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
+      <string>=2048</string>
+    </dict>
+  </lib>
+</glyph>

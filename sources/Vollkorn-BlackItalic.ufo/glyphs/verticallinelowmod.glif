@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="verticallinelowmod" format="2">
+  <advance width="243"/>
+  <unicode hex="02CC"/>
+  <outline>
+    <component base="verticallinemod" xOffset="-117" yOffset="-600"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>=verticallinemod</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=verticallinemod</string>
+    </dict>
+  </lib>
+</glyph>

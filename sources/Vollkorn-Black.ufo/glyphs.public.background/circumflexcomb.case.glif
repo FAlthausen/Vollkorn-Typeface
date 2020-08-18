@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="circumflexcomb.case" format="2">
+  <anchor x="274" y="676" name="_top"/>
+  <anchor x="274" y="943" name="top"/>
+  <outline>
+    <contour>
+      <point x="128" y="735" type="curve"/>
+      <point x="161" y="761"/>
+      <point x="221" y="799"/>
+      <point x="257" y="818" type="curve"/>
+      <point x="302" y="795"/>
+      <point x="353" y="763"/>
+      <point x="391" y="735" type="curve"/>
+      <point x="434" y="743"/>
+      <point x="460" y="762"/>
+      <point x="481" y="786" type="curve"/>
+      <point x="415" y="841"/>
+      <point x="362" y="894"/>
+      <point x="321" y="943" type="curve"/>
+      <point x="291" y="943"/>
+      <point x="258" y="937"/>
+      <point x="234" y="928" type="curve"/>
+      <point x="189" y="881"/>
+      <point x="123" y="830"/>
+      <point x="66" y="792" type="curve"/>
+      <point x="73" y="770"/>
+      <point x="96" y="742"/>
+    </contour>
+    <contour>
+      <point x="117" y="728" type="curve"/>
+      <point x="147" y="748"/>
+      <point x="192" y="766"/>
+      <point x="225" y="782" type="curve"/>
+      <point x="265" y="765"/>
+      <point x="309" y="745"/>
+      <point x="341" y="725" type="curve"/>
+      <point x="387" y="734"/>
+      <point x="413" y="754"/>
+      <point x="435" y="781" type="curve"/>
+      <point x="376" y="820"/>
+      <point x="328" y="857"/>
+      <point x="291" y="894" type="curve"/>
+      <point x="259" y="894"/>
+      <point x="225" y="887"/>
+      <point x="201" y="877" type="curve"/>
+      <point x="161" y="845"/>
+      <point x="102" y="810"/>
+      <point x="50" y="781" type="curve"/>
+      <point x="58" y="758"/>
+      <point x="83" y="732"/>
+    </contour>
+    <component base="gravecomb.case" xOffset="17"/>
+  </outline>
+</glyph>

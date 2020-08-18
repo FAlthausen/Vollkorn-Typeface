@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bauch.comp" format="2">
+  <advance width="600"/>
+  <outline>
+    <contour>
+      <point x="494" y="447" type="line"/>
+      <point x="461" y="459"/>
+      <point x="421" y="467"/>
+      <point x="369" y="467" type="curve" smooth="yes"/>
+      <point x="178" y="467"/>
+      <point x="91" y="359"/>
+      <point x="66" y="232" type="curve" smooth="yes"/>
+      <point x="47" y="135"/>
+      <point x="57" y="-9"/>
+      <point x="199" y="-9" type="curve" smooth="yes"/>
+      <point x="290" y="-9"/>
+      <point x="354" y="49"/>
+      <point x="402" y="187" type="curve"/>
+      <point x="417" y="187" type="line"/>
+      <point x="460" y="409" type="line"/>
+      <point x="431" y="416" type="line"/>
+      <point x="412" y="336" type="line" smooth="yes"/>
+      <point x="380" y="171"/>
+      <point x="328" y="124"/>
+      <point x="294" y="124" type="curve" smooth="yes"/>
+      <point x="261" y="124"/>
+      <point x="251" y="170"/>
+      <point x="271" y="264" type="curve" smooth="yes"/>
+      <point x="287" y="338"/>
+      <point x="311" y="393"/>
+      <point x="363" y="393" type="curve" smooth="yes"/>
+      <point x="379" y="393"/>
+      <point x="411" y="388"/>
+      <point x="426" y="381" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+    </dict>
+  </lib>
+</glyph>

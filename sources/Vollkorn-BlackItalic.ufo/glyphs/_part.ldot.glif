@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_part.ldot" format="2">
+  <advance width="408"/>
+  <anchor x="185" y="346" name="_center"/>
+  <outline>
+    <contour>
+      <point x="366" y="286" type="curve" smooth="yes"/>
+      <point x="408" y="286"/>
+      <point x="431" y="307"/>
+      <point x="438" y="341" type="curve" smooth="yes"/>
+      <point x="449" y="394"/>
+      <point x="411" y="422"/>
+      <point x="374" y="422" type="curve" smooth="yes"/>
+      <point x="330" y="422"/>
+      <point x="304" y="402"/>
+      <point x="297" y="367" type="curve" smooth="yes"/>
+      <point x="286" y="314"/>
+      <point x="316" y="286"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+    </dict>
+  </lib>
+</glyph>

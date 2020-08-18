@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_part.q.sc.ss01" format="2">
+  <advance width="683"/>
+  <anchor x="372" y="0" name="_bottom"/>
+  <outline>
+    <contour>
+      <point x="853" y="-179" type="curve"/>
+      <point x="918" y="-153"/>
+      <point x="970" y="-144"/>
+      <point x="1042" y="-141" type="curve"/>
+      <point x="1048" y="-120"/>
+      <point x="1052" y="-85"/>
+      <point x="1051" y="-56" type="curve"/>
+      <point x="785" y="-74"/>
+      <point x="728" y="17"/>
+      <point x="433" y="17" type="curve"/>
+      <point x="337" y="-7" type="line"/>
+      <point x="493" y="-32"/>
+      <point x="544" y="-55"/>
+      <point x="657" y="-125" type="curve" smooth="yes"/>
+      <point x="720" y="-164"/>
+      <point x="770" y="-182"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

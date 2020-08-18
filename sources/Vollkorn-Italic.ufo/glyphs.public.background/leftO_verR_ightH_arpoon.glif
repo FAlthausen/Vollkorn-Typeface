@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="leftOverRightHarpoon" format="2">
+  <outline>
+    <component base="rightBarbUpHarpoon" xScale="-1" xOffset="890" yOffset="111"/>
+    <component base="rightBarbdownHarpoon" xOffset="10" yOffset="-100"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>rightBarbUpHarpoon</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>rightBarbdownHarpoon</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

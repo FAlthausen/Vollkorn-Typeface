@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="measuredAngleOpeningLeft" format="2">
+  <advance width="550"/>
+  <unicode hex="299B"/>
+  <outline>
+    <contour>
+      <point x="-16" y="0" type="curve"/>
+      <point x="463" y="0" type="line"/>
+      <point x="482" y="27"/>
+      <point x="494" y="57"/>
+      <point x="498" y="90" type="curve"/>
+      <point x="188" y="458" type="line"/>
+      <point x="152" y="450"/>
+      <point x="120" y="432"/>
+      <point x="94" y="404" type="curve"/>
+      <point x="211" y="278"/>
+      <point x="323" y="151"/>
+      <point x="430" y="21" type="curve"/>
+      <point x="481" y="90" type="line"/>
+      <point x="6" y="90" type="line"/>
+      <point x="-11" y="62"/>
+      <point x="-18" y="32"/>
+    </contour>
+    <contour>
+      <point x="98" y="90" type="curve"/>
+      <point x="193" y="90" type="line"/>
+      <point x="193" y="188"/>
+      <point x="246" y="268"/>
+      <point x="360" y="345" type="curve"/>
+      <point x="342" y="375"/>
+      <point x="317" y="393"/>
+      <point x="285" y="401" type="curve"/>
+      <point x="157" y="308"/>
+      <point x="98" y="210"/>
+    </contour>
+  </outline>
+</glyph>

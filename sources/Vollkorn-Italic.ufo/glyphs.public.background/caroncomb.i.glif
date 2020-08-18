@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="caroncomb.i" format="2">
+  <anchor x="151" y="458" name="_top"/>
+  <anchor x="200" y="709" name="top"/>
+  <outline>
+    <component base="circumflexcomb.i" xScale="-1" yScale="-1" xOffset="454" yOffset="1226"/>
+  </outline>
+</glyph>

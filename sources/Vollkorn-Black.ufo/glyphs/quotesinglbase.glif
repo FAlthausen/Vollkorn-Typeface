@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="quotesinglbase" format="2">
+  <advance width="316"/>
+  <unicode hex="201A"/>
+  <outline>
+    <contour>
+      <point x="256" y="126"/>
+      <point x="241" y="148"/>
+      <point x="202" y="159" type="curve"/>
+      <point x="172" y="139"/>
+      <point x="129" y="129"/>
+      <point x="76" y="127" type="curve"/>
+      <point x="62" y="82"/>
+      <point x="60" y="57"/>
+      <point x="60" y="12" type="curve"/>
+      <point x="108" y="7"/>
+      <point x="131" y="-6"/>
+      <point x="131" y="-34" type="curve" smooth="yes"/>
+      <point x="131" y="-69"/>
+      <point x="119" y="-98"/>
+      <point x="76" y="-141" type="curve"/>
+      <point x="98" y="-155"/>
+      <point x="120" y="-161"/>
+      <point x="152" y="-161" type="curve"/>
+      <point x="218" y="-102"/>
+      <point x="256" y="-18"/>
+      <point x="256" y="58" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>=comma</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=comma</string>
+    </dict>
+  </lib>
+</glyph>

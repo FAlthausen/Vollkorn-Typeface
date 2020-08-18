@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Eldescender-cy" format="2">
+  <advance width="723"/>
+  <unicode hex="052E"/>
+  <outline>
+    <component base="El-cy"/>
+    <component base="__descender-cy.straight.case" xOffset="639"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>El-cy</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>__descender-cy.straight.case</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Tse-cy</string>
+    </dict>
+  </lib>
+</glyph>

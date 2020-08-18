@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tricolon" format="2">
+  <advance width="166"/>
+  <unicode hex="205D"/>
+  <outline>
+    <component base="_part.dot" xOffset="-11"/>
+    <component base="_part.dot" xOffset="46" yOffset="290"/>
+    <component base="_part.dot" xOffset="102" yOffset="581"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>=period</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=period</string>
+    </dict>
+  </lib>
+</glyph>

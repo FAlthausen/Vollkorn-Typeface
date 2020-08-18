@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="commaabovecomb" format="2">
+  <unicode hex="0313"/>
+  <anchor x="144" y="458" name="_top"/>
+  <anchor x="196" y="726" name="top"/>
+  <outline>
+    <contour>
+      <point x="229" y="726" type="curve"/>
+      <point x="205" y="712"/>
+      <point x="175" y="701"/>
+      <point x="144" y="696" type="curve"/>
+      <point x="132" y="680"/>
+      <point x="126" y="659"/>
+      <point x="127" y="638" type="curve"/>
+      <point x="157" y="636"/>
+      <point x="160" y="620"/>
+      <point x="157" y="607" type="curve" smooth="yes"/>
+      <point x="153" y="593"/>
+      <point x="132" y="562"/>
+      <point x="97" y="534" type="curve"/>
+      <point x="100" y="523"/>
+      <point x="108" y="516"/>
+      <point x="120" y="511" type="curve"/>
+      <point x="181" y="549"/>
+      <point x="241" y="606"/>
+      <point x="252" y="659" type="curve" smooth="yes"/>
+      <point x="258" y="689"/>
+      <point x="251" y="718"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>191</integer>
+    </dict>
+  </lib>
+</glyph>

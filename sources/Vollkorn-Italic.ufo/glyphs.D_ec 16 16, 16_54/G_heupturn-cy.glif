@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Gheupturn-cy" format="2">
+  <advance width="524"/>
+  <unicode hex="0490"/>
+  <outline>
+    <contour>
+      <point x="2" y="-3" type="curve"/>
+      <point x="26" y="-1"/>
+      <point x="91" y="0"/>
+      <point x="138" y="0" type="curve" smooth="yes"/>
+      <point x="185" y="0"/>
+      <point x="233" y="-1"/>
+      <point x="264" y="-3" type="curve"/>
+      <point x="266" y="15"/>
+      <point x="265" y="29"/>
+      <point x="263" y="40" type="curve"/>
+      <point x="201" y="43"/>
+      <point x="178" y="60"/>
+      <point x="195" y="147" type="curve" smooth="yes"/>
+      <point x="290" y="636" type="line"/>
+      <point x="512" y="636" type="line"/>
+      <point x="559" y="679" type="line"/>
+      <point x="526" y="678"/>
+      <point x="437" y="676"/>
+      <point x="297" y="676" type="curve" smooth="yes"/>
+      <point x="249" y="676"/>
+      <point x="174" y="677"/>
+      <point x="130" y="679" type="curve"/>
+      <point x="125" y="666"/>
+      <point x="123" y="650"/>
+      <point x="126" y="636" type="curve"/>
+      <point x="180" y="633"/>
+      <point x="192" y="616"/>
+      <point x="179" y="549" type="curve" smooth="yes"/>
+      <point x="97" y="127" type="line" smooth="yes"/>
+      <point x="84" y="60"/>
+      <point x="65" y="43"/>
+      <point x="11" y="40" type="curve"/>
+      <point x="5" y="29"/>
+      <point x="2" y="15"/>
+    </contour>
+    <contour>
+      <point x="505" y="636" type="line"/>
+      <point x="562" y="636" type="line"/>
+      <point x="575" y="645"/>
+      <point x="583" y="659"/>
+      <point x="584" y="672" type="curve"/>
+      <point x="585" y="711"/>
+      <point x="591" y="769"/>
+      <point x="606" y="844" type="curve"/>
+      <point x="591" y="849"/>
+      <point x="569" y="849"/>
+      <point x="550" y="844" type="curve"/>
+      <point x="537" y="773"/>
+      <point x="516" y="701"/>
+      <point x="494" y="650" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>=H</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=F</string>
+    </dict>
+  </lib>
+</glyph>

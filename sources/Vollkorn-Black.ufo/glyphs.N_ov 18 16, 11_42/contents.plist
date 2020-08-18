@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>hardsign-cy</key>
+    <string>hardsign-cy.glif</string>
+    <key>lje-cy</key>
+    <string>lje-cy.glif</string>
+    <key>nje-cy</key>
+    <string>nje-cy.glif</string>
+    <key>softsign-cy</key>
+    <string>softsign-cy.glif</string>
+    <key>yat-cy</key>
+    <string>yat-cy.glif</string>
+    <key>yeru-cy</key>
+    <string>yeru-cy.glif</string>
+  </dict>
+</plist>

@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_part.peso.sc.black" format="2">
+  <advance width="527"/>
+  <anchor x="296" y="335" name="_center"/>
+  <outline>
+    <contour>
+      <point x="26" y="363" type="curve"/>
+      <point x="73" y="364"/>
+      <point x="120" y="365"/>
+      <point x="167" y="365" type="curve"/>
+      <point x="167" y="406" type="line"/>
+      <point x="35" y="406" type="line"/>
+      <point x="29" y="394"/>
+      <point x="26" y="379"/>
+    </contour>
+    <contour>
+      <point x="23" y="264" type="curve"/>
+      <point x="71" y="265"/>
+      <point x="119" y="266"/>
+      <point x="167" y="266" type="curve"/>
+      <point x="167" y="308" type="line"/>
+      <point x="33" y="308" type="line"/>
+      <point x="26" y="295"/>
+      <point x="23" y="279"/>
+    </contour>
+    <contour>
+      <point x="557" y="363" type="curve"/>
+      <point x="563" y="376"/>
+      <point x="567" y="388"/>
+      <point x="567" y="406" type="curve"/>
+      <point x="428" y="406" type="line"/>
+      <point x="428" y="365" type="line"/>
+      <point x="471" y="365"/>
+      <point x="514" y="364"/>
+    </contour>
+    <contour>
+      <point x="555" y="264" type="curve"/>
+      <point x="562" y="277"/>
+      <point x="565" y="291"/>
+      <point x="565" y="308" type="curve"/>
+      <point x="428" y="308" type="line"/>
+      <point x="428" y="266" type="line"/>
+      <point x="470" y="266"/>
+      <point x="513" y="265"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>height</key>
+        <integer>74</integer>
+        <key>width</key>
+        <integer>88</integer>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

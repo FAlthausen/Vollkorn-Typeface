@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="charactertie" format="2">
+  <advance width="712"/>
+  <unicode hex="2040"/>
+  <outline>
+    <contour>
+      <point x="356" y="844" type="curve" smooth="yes"/>
+      <point x="237" y="844"/>
+      <point x="146" y="800"/>
+      <point x="60" y="729" type="curve"/>
+      <point x="61" y="715"/>
+      <point x="68" y="702"/>
+      <point x="78" y="693" type="curve"/>
+      <point x="152" y="742"/>
+      <point x="223" y="764"/>
+      <point x="356" y="764" type="curve" smooth="yes"/>
+      <point x="489" y="764"/>
+      <point x="560" y="742"/>
+      <point x="634" y="693" type="curve"/>
+      <point x="644" y="702"/>
+      <point x="651" y="715"/>
+      <point x="652" y="729" type="curve"/>
+      <point x="566" y="800"/>
+      <point x="475" y="844"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>undertie</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>=undertie</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=undertie</string>
+    </dict>
+  </lib>
+</glyph>

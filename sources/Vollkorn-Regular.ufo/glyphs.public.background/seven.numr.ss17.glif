@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="seven.numr.ss17" format="2">
+  <outline>
+    <contour>
+      <point x="71" y="465" type="curve"/>
+      <point x="128" y="468"/>
+      <point x="202" y="468"/>
+      <point x="312" y="468" type="curve"/>
+      <point x="319" y="480"/>
+      <point x="322" y="497"/>
+      <point x="322" y="516" type="curve"/>
+      <point x="81" y="516" type="line"/>
+      <point x="75" y="504"/>
+      <point x="71" y="482"/>
+    </contour>
+    <component base="seven.numr"/>
+  </outline>
+</glyph>

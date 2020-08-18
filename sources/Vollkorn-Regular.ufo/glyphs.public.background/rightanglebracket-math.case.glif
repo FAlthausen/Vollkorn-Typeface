@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="rightanglebracket-math.case" format="2">
+  <outline>
+    <component base="rightanglebracket-math" yOffset="105"/>
+  </outline>
+</glyph>

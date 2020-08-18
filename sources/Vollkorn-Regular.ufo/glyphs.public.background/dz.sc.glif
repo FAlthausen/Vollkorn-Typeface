@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dz.sc" format="2">
+  <outline>
+    <component base="d.sc"/>
+    <component base="z.sc" xOffset="696"/>
+  </outline>
+</glyph>

@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="onesuperior.ss11" format="2">
+  <advance width="286"/>
+  <outline>
+    <contour>
+      <point x="106" y="622" type="curve" smooth="yes"/>
+      <point x="106" y="526" type="line" smooth="yes"/>
+      <point x="106" y="458"/>
+      <point x="94" y="448"/>
+      <point x="49" y="445" type="curve"/>
+      <point x="46" y="434"/>
+      <point x="45" y="421"/>
+      <point x="45" y="408" type="curve"/>
+      <point x="73" y="409"/>
+      <point x="114" y="410"/>
+      <point x="144" y="410" type="curve" smooth="yes"/>
+      <point x="173" y="410"/>
+      <point x="218" y="409"/>
+      <point x="247" y="408" type="curve"/>
+      <point x="247" y="421"/>
+      <point x="246" y="434"/>
+      <point x="243" y="445" type="curve"/>
+      <point x="200" y="449"/>
+      <point x="191" y="458"/>
+      <point x="191" y="526" type="curve" smooth="yes"/>
+      <point x="191" y="723" type="line" smooth="yes"/>
+      <point x="191" y="746"/>
+      <point x="187" y="757"/>
+      <point x="173" y="762" type="curve"/>
+      <point x="135" y="744"/>
+      <point x="98" y="733"/>
+      <point x="43" y="727" type="curve"/>
+      <point x="40" y="715"/>
+      <point x="39" y="703"/>
+      <point x="39" y="690" type="curve"/>
+      <point x="101" y="690"/>
+      <point x="106" y="679"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>height</key>
+        <real>69.5</real>
+        <key>verticalShift</key>
+        <integer>400</integer>
+        <key>weight</key>
+        <integer>-11</integer>
+        <key>width</key>
+        <integer>66</integer>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.98,0.36,0.67,1</string>
+    </dict>
+  </lib>
+</glyph>

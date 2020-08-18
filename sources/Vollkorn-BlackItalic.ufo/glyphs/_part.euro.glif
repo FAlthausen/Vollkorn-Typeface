@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_part.euro" format="2">
+  <advance width="671"/>
+  <anchor x="207" y="338" name="_center"/>
+  <outline>
+    <contour>
+      <point x="52" y="359" type="curve"/>
+      <point x="243" y="363"/>
+      <point x="376" y="363"/>
+      <point x="533" y="363" type="curve"/>
+      <point x="549" y="387"/>
+      <point x="557" y="418"/>
+      <point x="556" y="450" type="curve"/>
+      <point x="76" y="450" type="line"/>
+      <point x="57" y="425"/>
+      <point x="49" y="391"/>
+    </contour>
+    <contour>
+      <point x="20" y="203" type="curve"/>
+      <point x="211" y="207"/>
+      <point x="340" y="207"/>
+      <point x="497" y="207" type="curve"/>
+      <point x="513" y="231"/>
+      <point x="520" y="264"/>
+      <point x="518" y="294" type="curve"/>
+      <point x="34" y="294" type="line"/>
+      <point x="19" y="268"/>
+      <point x="14" y="235"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_part.hastroke-cy" format="2">
+  <advance width="521"/>
+  <anchor x="263" y="232" name="_center"/>
+  <outline>
+    <contour>
+      <point x="47" y="209" type="curve"/>
+      <point x="144" y="212"/>
+      <point x="385" y="212"/>
+      <point x="457" y="212" type="curve"/>
+      <point x="463" y="227"/>
+      <point x="466" y="241"/>
+      <point x="466" y="255" type="curve"/>
+      <point x="56" y="255" type="line"/>
+      <point x="50" y="243"/>
+      <point x="47" y="217"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_part.colonsign.sc.black" format="2">
+  <advance width="555"/>
+  <anchor x="356" y="500" name="_top"/>
+  <outline>
+    <contour>
+      <point x="242" y="-114" type="curve"/>
+      <point x="253" y="-52"/>
+      <point x="264" y="5"/>
+      <point x="275" y="60" type="curve"/>
+      <point x="200" y="97" type="line"/>
+      <point x="162" y="-85" type="line"/>
+      <point x="176" y="-99"/>
+      <point x="218" y="-110"/>
+    </contour>
+    <contour>
+      <point x="386" y="-114" type="curve"/>
+      <point x="397" y="-58"/>
+      <point x="407" y="-5"/>
+      <point x="417" y="47" type="curve"/>
+      <point x="333" y="44" type="line"/>
+      <point x="306" y="-85" type="line"/>
+      <point x="321" y="-99"/>
+      <point x="362" y="-110"/>
+    </contour>
+    <contour>
+      <point x="275" y="455" type="line"/>
+      <point x="359" y="455" type="line"/>
+      <point x="367" y="494"/>
+      <point x="376" y="534"/>
+      <point x="386" y="576" type="curve"/>
+      <point x="363" y="592"/>
+      <point x="333" y="601"/>
+      <point x="306" y="605" type="curve"/>
+    </contour>
+    <contour>
+      <point x="419" y="455" type="line"/>
+      <point x="503" y="455" type="line"/>
+      <point x="511" y="494"/>
+      <point x="520" y="534"/>
+      <point x="530" y="576" type="curve"/>
+      <point x="507" y="592"/>
+      <point x="478" y="601"/>
+      <point x="451" y="605" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>height</key>
+        <integer>74</integer>
+        <key>weight</key>
+        <integer>-8</integer>
+        <key>width</key>
+        <integer>88</integer>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

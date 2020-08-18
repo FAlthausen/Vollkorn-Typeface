@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="eth.sc" format="2">
+  <advance width="704"/>
+  <outline>
+    <contour>
+      <point x="45.5" y="216" type="curve"/>
+      <point x="138.6" y="221"/>
+      <point x="197.5" y="223"/>
+      <point x="392.25" y="223" type="curve"/>
+      <point x="398.9" y="243"/>
+      <point x="400.79999999999995" y="267"/>
+      <point x="400.79999999999995" y="281" type="curve"/>
+      <point x="54.05" y="281" type="line"/>
+      <point x="47.4" y="262"/>
+      <point x="45.5" y="236"/>
+    </contour>
+    <component base="d.sc"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

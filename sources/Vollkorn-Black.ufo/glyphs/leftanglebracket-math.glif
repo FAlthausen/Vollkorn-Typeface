@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="leftanglebracket-math" format="2">
+  <advance width="423"/>
+  <unicode hex="27E8"/>
+  <outline>
+    <contour>
+      <point x="302" y="-267" type="curve"/>
+      <point x="330" y="-267"/>
+      <point x="356" y="-264"/>
+      <point x="374" y="-255" type="curve"/>
+      <point x="338" y="-102"/>
+      <point x="276" y="86"/>
+      <point x="201" y="270" type="curve"/>
+      <point x="201" y="216" type="line"/>
+      <point x="276" y="393"/>
+      <point x="339" y="576"/>
+      <point x="376" y="728" type="curve"/>
+      <point x="352" y="738"/>
+      <point x="332" y="741"/>
+      <point x="304" y="738" type="curve"/>
+      <point x="236" y="565"/>
+      <point x="123" y="374"/>
+      <point x="36" y="265" type="curve"/>
+      <point x="34" y="244"/>
+      <point x="36" y="219"/>
+      <point x="42" y="201" type="curve"/>
+      <point x="127" y="93"/>
+      <point x="236" y="-96"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>=parenleft</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=parenleft</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string></string>
+    </dict>
+  </lib>
+</glyph>

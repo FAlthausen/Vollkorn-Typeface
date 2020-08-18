@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_part.cheabkhasian.case" format="2">
+  <advance width="224"/>
+  <anchor x="159" y="223" name="_left"/>
+  <outline>
+    <contour>
+      <point x="163" y="183" type="curve"/>
+      <point x="169" y="258" type="line"/>
+      <point x="128" y="258"/>
+      <point x="105" y="284"/>
+      <point x="105" y="323" type="curve" smooth="yes"/>
+      <point x="105" y="347"/>
+      <point x="114" y="371"/>
+      <point x="140" y="395" type="curve"/>
+      <point x="127" y="420"/>
+      <point x="106" y="435"/>
+      <point x="79" y="442" type="curve"/>
+      <point x="17" y="413"/>
+      <point x="-18" y="365"/>
+      <point x="-18" y="308" type="curve" smooth="yes"/>
+      <point x="-18" y="229"/>
+      <point x="49" y="183"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=55</string>
+    </dict>
+  </lib>
+</glyph>

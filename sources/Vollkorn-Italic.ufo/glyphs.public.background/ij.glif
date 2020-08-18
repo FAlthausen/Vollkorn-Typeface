@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ij" format="2">
+  <outline>
+    <component base="_part.ij.dotless"/>
+    <component base="dotaccentcomb" xScale="0.9775" yScale="0.9228" xOffset="15" yOffset="90"/>
+    <component base="dotaccentcomb" xScale="0.9775" yScale="0.9228" xOffset="200" yOffset="90"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>anchor</key>
+          <string>top_1</string>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>dotaccentcomb</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>anchor</key>
+          <string>top_2</string>
+          <key>index</key>
+          <integer>2</integer>
+          <key>name</key>
+          <string>dotaccentcomb</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

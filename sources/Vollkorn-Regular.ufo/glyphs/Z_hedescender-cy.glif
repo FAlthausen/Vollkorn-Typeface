@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Zhedescender-cy" format="2">
+  <advance width="1012"/>
+  <unicode hex="0496"/>
+  <outline>
+    <component base="Zhe-cy"/>
+    <component base="descender-cy.case" xOffset="865" yOffset="3"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.layer.rightMetricsKey</key>
+      <string>=+40</string>
+    </dict>
+  </lib>
+</glyph>

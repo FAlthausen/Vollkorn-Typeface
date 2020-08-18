@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bottomcurlybracket" format="2">
+  <advance width="900"/>
+  <unicode hex="23DF"/>
+  <outline>
+    <contour>
+      <point x="437" y="25" type="curve"/>
+      <point x="464" y="19"/>
+      <point x="497" y="21"/>
+      <point x="519" y="33" type="curve"/>
+      <point x="532" y="123"/>
+      <point x="571" y="147"/>
+      <point x="626" y="147" type="curve" smooth="yes"/>
+      <point x="654" y="147"/>
+      <point x="710" y="141"/>
+      <point x="746" y="141" type="curve" smooth="yes"/>
+      <point x="817" y="141"/>
+      <point x="886" y="165"/>
+      <point x="905" y="384" type="curve"/>
+      <point x="889" y="401"/>
+      <point x="856" y="409"/>
+      <point x="826" y="405" type="curve"/>
+      <point x="824" y="314"/>
+      <point x="788" y="294"/>
+      <point x="745" y="294" type="curve" smooth="yes"/>
+      <point x="700" y="294"/>
+      <point x="655" y="316"/>
+      <point x="605" y="316" type="curve" smooth="yes"/>
+      <point x="545" y="316"/>
+      <point x="492" y="284"/>
+      <point x="477" y="156" type="curve"/>
+      <point x="464" y="283"/>
+      <point x="417" y="316"/>
+      <point x="361" y="316" type="curve" smooth="yes"/>
+      <point x="315" y="316"/>
+      <point x="266" y="294"/>
+      <point x="219" y="294" type="curve" smooth="yes"/>
+      <point x="174" y="294"/>
+      <point x="131" y="315"/>
+      <point x="131" y="402" type="curve"/>
+      <point x="102" y="406"/>
+      <point x="72" y="403"/>
+      <point x="51" y="388" type="curve"/>
+      <point x="60" y="181"/>
+      <point x="134" y="141"/>
+      <point x="215" y="141" type="curve" smooth="yes"/>
+      <point x="246" y="141"/>
+      <point x="307" y="147"/>
+      <point x="333" y="147" type="curve" smooth="yes"/>
+      <point x="385" y="147"/>
+      <point x="427" y="122"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>=20</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=20</string>
+    </dict>
+  </lib>
+</glyph>

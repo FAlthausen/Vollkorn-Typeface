@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="commercialMinusSign" format="2">
+  <advance width="635"/>
+  <unicode hex="2052"/>
+  <outline>
+    <contour>
+      <point x="594.07503" y="645.80971" type="curve"/>
+      <point x="50.2913" y="113.70695" type="line"/>
+      <point x="59.339259999999996" y="85.93772"/>
+      <point x="81.20432" y="64.14519"/>
+      <point x="110.84601" y="49.09977" type="curve"/>
+      <point x="338.34441" y="282.35702000000003"/>
+      <point x="425.85654999999997" y="370.75695"/>
+      <point x="658.98963" y="590.25741" type="curve"/>
+      <point x="645.15685" y="616.57565"/>
+      <point x="625.68247" y="633.24134"/>
+    </contour>
+    <component base="_part.dot" xOffset="63" yOffset="436"/>
+    <component base="_part.dot" xOffset="378" yOffset="55"/>
+  </outline>
+</glyph>

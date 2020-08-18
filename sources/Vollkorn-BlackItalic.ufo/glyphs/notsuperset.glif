@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="notsuperset" format="2">
+  <advance width="550"/>
+  <unicode hex="2285"/>
+  <outline>
+    <component base="superset"/>
+    <component base="_negationslash" xOffset="-30"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>=superset</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=superset</string>
+    </dict>
+  </lib>
+</glyph>

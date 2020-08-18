@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tildecomb.case" format="2">
+  <anchor x="346" y="676" name="_top"/>
+  <anchor x="382" y="868" name="top"/>
+  <outline>
+    <contour>
+      <point x="411" y="735" type="curve" smooth="yes"/>
+      <point x="477" y="735"/>
+      <point x="538" y="770"/>
+      <point x="584" y="835" type="curve"/>
+      <point x="572" y="859"/>
+      <point x="551" y="876"/>
+      <point x="526" y="887" type="curve"/>
+      <point x="511" y="866"/>
+      <point x="485" y="842"/>
+      <point x="455" y="842" type="curve" smooth="yes"/>
+      <point x="410" y="842"/>
+      <point x="388" y="888"/>
+      <point x="318" y="888" type="curve" smooth="yes"/>
+      <point x="277" y="888"/>
+      <point x="214" y="874"/>
+      <point x="166" y="827" type="curve"/>
+      <point x="162" y="788"/>
+      <point x="170" y="765"/>
+      <point x="190" y="736" type="curve"/>
+      <point x="215" y="760"/>
+      <point x="245" y="784"/>
+      <point x="279" y="784" type="curve" smooth="yes"/>
+      <point x="329" y="784"/>
+      <point x="334" y="735"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>height</key>
+        <integer>84</integer>
+        <key>verticalShift</key>
+        <integer>291</integer>
+        <key>weight</key>
+        <integer>-1</integer>
+        <key>width</key>
+        <integer>94</integer>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>=50</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=50</string>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>516</integer>
+    </dict>
+  </lib>
+</glyph>

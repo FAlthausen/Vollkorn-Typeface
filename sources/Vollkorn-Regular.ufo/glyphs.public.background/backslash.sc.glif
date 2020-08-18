@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="backslash.sc" format="2">
+  <outline>
+    <contour>
+      <point x="264" y="-18" type="line"/>
+      <point x="278" y="-21"/>
+      <point x="299" y="-19"/>
+      <point x="312" y="-13" type="curve"/>
+      <point x="81" y="515" type="line"/>
+      <point x="64" y="518"/>
+      <point x="44" y="517"/>
+      <point x="31" y="512" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

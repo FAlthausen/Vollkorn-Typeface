@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="horncomb.case" format="2">
+  <anchor x="0" y="679" name="_topright"/>
+  <anchor x="0" y="679" name="topright"/>
+  <outline>
+    <contour>
+      <point x="-5" y="636" type="line"/>
+      <point x="49" y="639"/>
+      <point x="115" y="678"/>
+      <point x="115" y="765" type="curve" smooth="yes"/>
+      <point x="115" y="804"/>
+      <point x="102" y="831"/>
+      <point x="88" y="848" type="curve"/>
+      <point x="68" y="852"/>
+      <point x="32" y="848"/>
+      <point x="15" y="843" type="curve"/>
+      <point x="19" y="826"/>
+      <point x="25" y="807"/>
+      <point x="25" y="766" type="curve" smooth="yes"/>
+      <point x="25" y="694"/>
+      <point x="6" y="676"/>
+      <point x="-71" y="676" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

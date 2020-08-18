@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="leftOverRightHarpoon" format="2">
+  <advance width="866"/>
+  <unicode hex="21CB"/>
+  <outline>
+    <contour>
+      <point x="806" y="304" type="curve"/>
+      <point x="604" y="315"/>
+      <point x="374" y="318"/>
+      <point x="60" y="318" type="curve"/>
+      <point x="60" y="345"/>
+      <point x="67" y="385"/>
+      <point x="75" y="402" type="curve"/>
+      <point x="132" y="421"/>
+      <point x="264" y="508"/>
+      <point x="323" y="573" type="curve"/>
+      <point x="355" y="561"/>
+      <point x="372" y="551"/>
+      <point x="372" y="531" type="curve" smooth="yes"/>
+      <point x="372" y="504"/>
+      <point x="329" y="448"/>
+      <point x="310" y="402" type="curve"/>
+      <point x="787" y="402" type="line"/>
+      <point x="801" y="374"/>
+      <point x="806" y="343"/>
+    </contour>
+    <component base="rightBarbdownHarpoon" xOffset="10" yOffset="-130"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>rightBarbUpHarpoon</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>rightBarbdownHarpoon</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="asterisk" format="2">
+  <advance width="505.146"/>
+  <unicode hex="002A"/>
+  <outline>
+    <contour>
+      <point x="410" y="652" type="curve"/>
+      <point x="382" y="612"/>
+      <point x="356" y="567"/>
+      <point x="335" y="523" type="curve"/>
+      <point x="388" y="539"/>
+      <point x="434" y="557"/>
+      <point x="478" y="578" type="curve"/>
+      <point x="504" y="531"/>
+      <point x="507" y="487"/>
+      <point x="493" y="430" type="curve"/>
+      <point x="436" y="447"/>
+      <point x="394" y="457"/>
+      <point x="339" y="465" type="curve"/>
+      <point x="373" y="422"/>
+      <point x="403" y="390"/>
+      <point x="444" y="350" type="curve"/>
+      <point x="412" y="313"/>
+      <point x="363" y="289"/>
+      <point x="305" y="290" type="curve"/>
+      <point x="304" y="346"/>
+      <point x="300" y="388"/>
+      <point x="289" y="444" type="curve"/>
+      <point x="258" y="401"/>
+      <point x="235" y="367"/>
+      <point x="206" y="315" type="curve"/>
+      <point x="156" y="333"/>
+      <point x="128" y="367"/>
+      <point x="118" y="422" type="curve"/>
+      <point x="169" y="442"/>
+      <point x="208" y="461"/>
+      <point x="253" y="486" type="curve"/>
+      <point x="206" y="503"/>
+      <point x="168" y="513"/>
+      <point x="109" y="523" type="curve"/>
+      <point x="114" y="572"/>
+      <point x="138" y="616"/>
+      <point x="179" y="641" type="curve"/>
+      <point x="212" y="597"/>
+      <point x="237" y="570"/>
+      <point x="281" y="530" type="curve"/>
+      <point x="281" y="582"/>
+      <point x="279" y="627"/>
+      <point x="272" y="682" type="curve"/>
+      <point x="325" y="688"/>
+      <point x="376" y="678"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>quotesingle</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>quotesingle</string>
+    </dict>
+  </lib>
+</glyph>

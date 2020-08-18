@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Theta" format="2">
+  <outline>
+    <contour>
+      <point x="573" y="387" type="curve"/>
+      <point x="198" y="387" type="line"/>
+      <point x="191" y="368"/>
+      <point x="189" y="339"/>
+      <point x="189" y="319" type="curve"/>
+      <point x="327" y="327"/>
+      <point x="459" y="329"/>
+      <point x="564" y="329" type="curve"/>
+      <point x="571" y="349"/>
+      <point x="573" y="373"/>
+    </contour>
+    <component base="O"/>
+    <component base="H"/>
+  </outline>
+</glyph>

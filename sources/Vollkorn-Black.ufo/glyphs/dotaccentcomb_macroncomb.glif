@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dotaccentcomb_macroncomb" format="2">
+  <outline>
+    <component base="dotaccentcomb.case" xOffset="88" yOffset="-200"/>
+    <component base="macroncomb.case" yOffset="-32"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>=50</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=50</string>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>493</integer>
+    </dict>
+  </lib>
+</glyph>

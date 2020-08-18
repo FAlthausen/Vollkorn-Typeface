@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="verticallinemod" format="2">
+  <outline>
+    <contour>
+      <point x="120" y="442" type="curve"/>
+      <point x="136" y="435"/>
+      <point x="155" y="434"/>
+      <point x="174" y="437" type="curve"/>
+      <point x="190" y="529"/>
+      <point x="209" y="614"/>
+      <point x="227" y="696" type="curve"/>
+      <point x="207" y="703"/>
+      <point x="183" y="702"/>
+      <point x="164" y="698" type="curve"/>
+      <point x="153" y="615"/>
+      <point x="137" y="528"/>
+    </contour>
+  </outline>
+</glyph>

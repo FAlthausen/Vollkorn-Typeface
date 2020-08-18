@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="i" format="2">
+  <outline>
+    <component base="idotless"/>
+    <component base="dotaccentcomb.ibasic" xOffset="5"/>
+  </outline>
+</glyph>

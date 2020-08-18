@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="__tail-cy" format="2">
+  <advance width="40"/>
+  <anchor x="75" y="75" name="_bottomright"/>
+  <outline>
+    <contour>
+      <point x="19" y="-184" type="curve"/>
+      <point x="87" y="-98"/>
+      <point x="114" y="-54"/>
+      <point x="133" y="0" type="curve"/>
+      <point x="133" y="30"/>
+      <point x="125" y="54"/>
+      <point x="108" y="75" type="curve"/>
+      <point x="-75" y="75" type="line"/>
+      <point x="-75" y="0" type="line"/>
+      <point x="-12" y="0"/>
+      <point x="0" y="-26"/>
+      <point x="-62" y="-134" type="curve"/>
+      <point x="-41" y="-158"/>
+      <point x="-18" y="-173"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+    </dict>
+  </lib>
+</glyph>

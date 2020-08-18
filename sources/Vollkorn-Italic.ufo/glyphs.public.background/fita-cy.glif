@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="fita-cy" format="2">
+  <outline>
+    <component base="o"/>
+    <component base="_part.fita-cy" xOffset="-40" yOffset="2"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>_part.fita-cy</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

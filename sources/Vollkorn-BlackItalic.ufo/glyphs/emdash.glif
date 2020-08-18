@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="emdash" format="2">
+  <advance width="1024"/>
+  <unicode hex="2014"/>
+  <outline>
+    <contour>
+      <point x="45" y="214" type="curve"/>
+      <point x="386" y="218"/>
+      <point x="673" y="218"/>
+      <point x="965" y="218" type="curve"/>
+      <point x="981" y="241"/>
+      <point x="989" y="271"/>
+      <point x="991" y="303" type="curve"/>
+      <point x="72" y="303" type="line"/>
+      <point x="55" y="279"/>
+      <point x="46" y="248"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>hyphen</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>hyphen</string>
+    </dict>
+  </lib>
+</glyph>

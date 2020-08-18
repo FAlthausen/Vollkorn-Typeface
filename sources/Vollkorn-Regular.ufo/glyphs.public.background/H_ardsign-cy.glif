@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Hardsign-cy" format="2">
+  <outline>
+    <contour>
+      <point x="427" y="679" type="curve"/>
+      <point x="396" y="677"/>
+      <point x="348" y="676"/>
+      <point x="239" y="676" type="curve"/>
+      <point x="239" y="138" type="line" smooth="yes"/>
+      <point x="239" y="60"/>
+      <point x="222" y="43"/>
+      <point x="169" y="40" type="curve"/>
+      <point x="165" y="29"/>
+      <point x="164" y="15"/>
+      <point x="164" y="-3" type="curve"/>
+      <point x="214" y="-1"/>
+      <point x="362" y="0"/>
+      <point x="436" y="0" type="curve" smooth="yes"/>
+      <point x="606" y="0"/>
+      <point x="676" y="87"/>
+      <point x="676" y="199" type="curve" smooth="yes"/>
+      <point x="676" y="334"/>
+      <point x="574" y="379"/>
+      <point x="413" y="379" type="curve" smooth="yes"/>
+      <point x="379" y="379"/>
+      <point x="351" y="377"/>
+      <point x="321" y="373" type="curve"/>
+      <point x="321" y="330" type="line"/>
+      <point x="346" y="333"/>
+      <point x="387" y="334"/>
+      <point x="399" y="334" type="curve" smooth="yes"/>
+      <point x="461" y="334"/>
+      <point x="569" y="307"/>
+      <point x="569" y="180" type="curve" smooth="yes"/>
+      <point x="569" y="98"/>
+      <point x="524" y="43"/>
+      <point x="426" y="43" type="curve" smooth="yes"/>
+      <point x="351" y="43"/>
+      <point x="333" y="56"/>
+      <point x="333" y="138" type="curve" smooth="yes"/>
+      <point x="333" y="529" type="line" smooth="yes"/>
+      <point x="333" y="616"/>
+      <point x="359" y="633"/>
+      <point x="422" y="636" type="curve"/>
+      <point x="426" y="647"/>
+      <point x="427" y="661"/>
+    </contour>
+    <contour>
+      <point x="41" y="679" type="curve"/>
+      <point x="41" y="633"/>
+      <point x="35" y="575"/>
+      <point x="25" y="519" type="curve"/>
+      <point x="37" y="512"/>
+      <point x="58" y="510"/>
+      <point x="73" y="510" type="curve"/>
+      <point x="87" y="586"/>
+      <point x="101" y="637"/>
+      <point x="198" y="637" type="curve" smooth="yes"/>
+      <point x="296" y="637" type="line"/>
+      <point x="296" y="676" type="line"/>
+      <point x="195" y="676"/>
+      <point x="97" y="676"/>
+    </contour>
+    <component base="Yat-cy" xOffset="15"/>
+  </outline>
+</glyph>

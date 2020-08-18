@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ghestroke-cy.loclBSH" format="2">
+  <advance width="561"/>
+  <note>
+uni0492.alt
+</note>
+  <outline>
+    <component base="F"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Uppercase</string>
+    </dict>
+  </lib>
+</glyph>

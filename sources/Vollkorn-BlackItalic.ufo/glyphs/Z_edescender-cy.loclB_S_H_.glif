@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Zedescender-cy.loclBSH" format="2">
+  <advance width="534"/>
+  <outline>
+    <component base="Ze-cy"/>
+    <component base="esdescendercomb.loclBSH" xOffset="-159"/>
+  </outline>
+</glyph>

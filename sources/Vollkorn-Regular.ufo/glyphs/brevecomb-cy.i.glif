@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="brevecomb-cy.i" format="2">
+  <anchor x="213" y="458" name="_top"/>
+  <outline>
+    <contour>
+      <point x="208" y="527" type="curve" smooth="yes"/>
+      <point x="300" y="527"/>
+      <point x="376" y="564"/>
+      <point x="376" y="681" type="curve"/>
+      <point x="352" y="690"/>
+      <point x="319" y="693"/>
+      <point x="286" y="690" type="curve"/>
+      <point x="283" y="590"/>
+      <point x="261" y="566"/>
+      <point x="217" y="566" type="curve" smooth="yes"/>
+      <point x="173" y="566"/>
+      <point x="148" y="590"/>
+      <point x="140" y="690" type="curve"/>
+      <point x="107" y="692"/>
+      <point x="77" y="687"/>
+      <point x="50" y="676" type="curve"/>
+      <point x="50" y="562"/>
+      <point x="118" y="527"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>=50</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=50</string>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>426</integer>
+    </dict>
+  </lib>
+</glyph>

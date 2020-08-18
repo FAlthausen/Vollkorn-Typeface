@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ij.sc" format="2">
+  <outline>
+    <component base="i.sc"/>
+    <component base="j.sc" xOffset="374"/>
+  </outline>
+</glyph>
