@@ -39,7 +39,7 @@ pybrowserstack-screenshots==0.1
 pycairo==1.19.1
 pyclipper==1.1.0.post3
 PyGithub==1.47
-PyJWT==1.7.1
+PyJWT==2.4.0
 pyparsing==2.4.6
 pytz==2019.3
 requests==2.23.0
