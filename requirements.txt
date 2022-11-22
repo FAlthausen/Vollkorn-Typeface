@@ -33,7 +33,7 @@ Jinja2==2.11.1
 lxml==4.5.0
 MarkupSafe==1.1.1
 opentype-sanitizer==8.0.0.post2
-Pillow==7.0.0
+Pillow==9.3.0
 protobuf==3.11.3
 pybrowserstack-screenshots==0.1
 pycairo==1.19.1
